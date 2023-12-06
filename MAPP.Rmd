@@ -7,10 +7,73 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
+if (!require("lavaan")) {
+    install.packages("lavaan")
+}
+library(lavaan)
+
 ```
 
-## R Markdown
+#CFA
+
+Load Data
+```{r}
+dat <- read.csv("path_to_data.csv")
+
+```
+
+#Preprocessing
+```{r}
+
+# Data Preprocessing Steps (if any)
+# - Handling missing values
+# - Variable transformations
+# - Normalization procedures (if applicable)
+
+```
+#Exploratory Data Analysis (EDA):
+```{r}
+# Descriptive statistics, normality checks, etc.
+# summary(dat)
+# hist(dat$q01)
+```
 
 
+#CFA
+```{r}
+# Define the CFA model
+model <- '
+  Mystic =~ q01 + q02 + q03 + q04 + q05 + q06 + q07 + q08
+'
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+#Assumption checks
+# Tests for multivariate normality, multicollinearity, etc.
+
+# Fit the model
+fit <- cfa(model, data = dat)
+
+# Model Evaluation: which indices to be reported? CFI, TLI, RMSEA, etc.?
+
+
+# Summarize the results
+summary(fit, fit.measures = TRUE, standardized = TRUE)
+```
+
+
+#Additional Analyses
+```{r}
+# Describe any additional or post-hoc analyses planned
+
+```
+
+#Sensitivity Analyses
+```{r}
+# Sensitivity analyses
+# e.g., repeating the analysis using different methods or subsets of data
+```
+
+#Contingency Plans
+```{r}
+#What if the initial model doesnt fit?
+```
