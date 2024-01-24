@@ -11,7 +11,14 @@ knitr::opts_chunk$set(echo = TRUE)
 if (!require("lavaan")) {
     install.packages("lavaan")
 }
+if (!require("jsonlite")) {
+    install.packages("jsonlite")
+}
 library(lavaan)
+library(jsonlite)
+library(readxl)
+library(ggplot2)
+
 
 ```
 
@@ -19,7 +26,9 @@ library(lavaan)
 
 Load Data
 ```{r}
-dat <- read.csv("path_to_data.csv")
+data <- read_excel("C:/Users/prsyu/OneDrive/Bidlung/University/M.S. Leiden University/M.S. Neuroscience (Research)/MAPP/Analysis/Github_Clone/MAPP/ASDB_v.2022-12-31_MEQ30.xlsx")
+
+head(data)
 
 ```
 
@@ -37,43 +46,78 @@ dat <- read.csv("path_to_data.csv")
 # Descriptive statistics, normality checks, etc.
 # summary(dat)
 # hist(dat$q01)
+
+# standardized residuals
 ```
 
 
 #CFA
 ```{r}
+
 # Define the CFA model
-model <- '
-  Mystic =~ q01 + q02 + q03 + q04 + q05 + q06 + q07 + q08
-'
+# assuming first columsn is ID
+# we have 250 items
+item_names <- colnames(data)[-1]
+factor_name <- "Mystic"
+model_items <- paste(factor_name, "=~", paste(item_names, collapse = " + "))
+
+# Define the CFA model
+model <- model_items
+
 
 #Assumption checks
 # Tests for multivariate normality, multicollinearity, etc.
 
-# Fit the model
-fit <- cfa(model, data = dat)
+# Fit the model & Summarize the results
+fit <- cfa(model, data = data, orthogonal = FALSE, estimator = "ML")
 
-# Model Evaluation: which indices to be reported? CFI, TLI, RMSEA, etc.?
-
-
-# Summarize the results
+#look at model loadings
 summary(fit, fit.measures = TRUE, standardized = TRUE)
+
+# Model Evaluation: which indices to be reported? CFI, chi^2,sRMR, RMSEA, AIC.?
+
+#eqeuivalence test
+
+# standardized residuals
+std_residuals <- lavResiduals(fit, type = "standardized")
+head(std_residuals)
+# heat map of residuals indicate the magnitude and direction of the residuals, 
+# red indicating positive residuals, blue indicating negative residuals, and white indicating residuals close to zero.
+ggplot(residuals_df, aes(x = Row, y = Column, fill = Residual)) +
+    geom_tile() +
+    scale_fill_gradient2(low = "blue", high = "red", mid = "white", midpoint = 0, limit = c(-3, 3)) +
+    theme_minimal() +
+    labs(title = "Standardized Residuals", x = "Item 1", y = "Item 2", fill = "Residual")
+
+# histogram of residuals
+ggplot(data.frame(Residual = residual_values), aes(x = Residual)) +
+    geom_histogram(bins = 30, fill = "blue", color = "black") +
+    theme_minimal() +
+    labs(title = "Histogram of Standardized Residuals", x = "Standardized Residual", y = "Frequency")
+
+ #Plot Q-Q Plot of Residuals
+qqnorm(residual_values, main = "Q-Q Plot of Standardized Residuals")
+qqline(residual_values, col = "red")
+
 ```
 
 
 #Additional Analyses
 ```{r}
-# Describe any additional or post-hoc analyses planned
+modeindices(fit, sort= TRUE)
+
 
 ```
 
 #Sensitivity Analyses
 ```{r}
 # Sensitivity analyses
-# e.g., repeating the analysis using different methods or subsets of data
+# repeating using different methods or subsets of data?
 ```
 
 #Contingency Plans
 ```{r}
 #What if the initial model doesnt fit?
+
+
 ```
