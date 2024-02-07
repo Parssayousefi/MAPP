@@ -11,11 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 if (!require("lavaan")) {
     install.packages("lavaan")
 }
-if (!require("jsonlite")) {
-    install.packages("jsonlite")
-}
+
 library(lavaan)
-library(jsonlite)
 library(readxl)
 library(ggplot2)
 
@@ -26,32 +23,35 @@ library(ggplot2)
 
 Load Data
 ```{r}
-data <- read_excel("C:/Users/prsyu/OneDrive/Bidlung/University/M.S. Leiden University/M.S. Neuroscience (Research)/MAPP/Analysis/Github_Clone/MAPP/ASDB_v.2022-12-31_MEQ30.xlsx")
-
+data <- read_excel()
 #test data from lavaan
-#holzinger schweinfurt
+
+
+data <- HolzingerSwineford1939
+data$school <- NULL
 head(data)
 
 ```
 
 #Preprocessing
 ```{r}
+#sampel size estimate
 
-# Data Preprocessing Steps (if any)
+#testing assumptions
+
+
 # - Handling missing values
+        #Full Information Maximum Likelihood
+        #Multiple Imputation
 # - Variable transformations
 # - Normalization procedures (if applicable)
 
-
-#check each items if they are continious. 
-```
-#Exploratory Data Analysis (EDA):
-```{r}
 # Descriptive statistics, normality checks, etc.
-# summary(dat)
-# hist(dat$q01)
 
 # standardized residuals
+
+#check each items if they are continious. 
+
 ```
 
 
@@ -82,7 +82,7 @@ summary(fit, fit.measures = TRUE, standardized = TRUE)
 # Model Evaluation: which indices to be reported? CFI, chi^2,sRMR, RMSEA, AIC.?
 
 #eqeuivalence test
-
+?cov2cor
 # standardized residuals
 std_residuals <- lavResiduals(fit, type = "standardized")
 head(std_residuals)
@@ -104,12 +104,23 @@ ggplot(data.frame(Residual = residual_values), aes(x = Residual)) +
 qqnorm(residual_values, main = "Q-Q Plot of Standardized Residuals")
 qqline(residual_values, col = "red")
 
+
+#modification indices
+modeindices(fit, sort= TRUE)
+
 ```
 
 
-#Additional Analyses
+#Hierarchical Laten Variable Modeling
 ```{r}
-modeindices(fit, sort= TRUE)
+# Higher-order model specification
+model_hierarchical <- '
+  FOLV1 =~ item1 + item2 + item3
+  FOLV2 =~ item4 + item5 + item6
+  Mystic =~ FOLV1 + FOLV2
+'
+fit_hierarchical <- cfa(model_hierarchical, data = data, estimator = "ML")
+summary(fit_hierarchical, fit.measures = TRUE, standardized = TRUE)
 
 
 ```
