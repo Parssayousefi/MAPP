@@ -57,32 +57,26 @@ head(data)
 
 #CFA
 ```{r}
+# assume data has one clumn for each item: MEQ1, MEQ2, ..., CEQ1, CEQ2, ..., AWE1, AWE2,
+# and so on. The first column is the ID column, so we start at the second column (index 2)
 
-# Define the CFA model
-# assuming first columsn is ID
-# we have 250 items
-item_names <- colnames(data)[-1]
-factor_name <- "Mystic"
-model_items <- paste(factor_name, "=~", paste(item_names, collapse = " + "))
+# Constructing the model string
+# Here we concatenate 'Mystic =~' with all item names, joined by ' + '
+modelString <- paste("Mystic =~", paste(names(data)[2:251], collapse=" + "))
 
-# Define the CFA model
-model <- model_items
+# Print the model string to check it
+# cat(modelString)
 
-# check if the model is correctly dfefined
-#pathdiageam: samplot -> sampaths
-#Assumption checks
-# Tests for multivariate normality, multicollinearity, etc.
+# Fit the model
+fit <- cfa(modelString, data = data, estimator = "ML")
 
-# Fit the model & Summarize the results
-fit <- cfa(model, data = data, orthogonal = FALSE, estimator = "ML")
-
-#look at model loadings
+# Summarize the fit
 summary(fit, fit.measures = TRUE, standardized = TRUE)
+```
 
-# Model Evaluation: which indices to be reported? CFI, chi^2,sRMR, RMSEA, AIC.?
+#check residuals
+```{r}
 
-#eqeuivalence test
-?cov2cor
 # standardized residuals
 std_residuals <- lavResiduals(fit, type = "standardized")
 head(std_residuals)
@@ -111,19 +105,82 @@ modeindices(fit, sort= TRUE)
 ```
 
 
-#Hierarchical Laten Variable Modeling
+#Hierarchical Model
 ```{r}
+
 # Higher-order model specification
+# Adjusting the hierarchical model to include specific scales and item names
+
+# Higher-order model specification with corrected item names
 model_hierarchical <- '
-  FOLV1 =~ item1 + item2 + item3
-  FOLV2 =~ item4 + item5 + item6
-  Mystic =~ FOLV1 + FOLV2
+  # Specific factors for each questionnaire
+  MEQ =~ MEQ1 + MEQ2 + ... + MEQ30
+  CEQ =~ CEQ1 + CEQ2 + ... + CEQ26
+  AWES =~ AWES1 + AWES2 + ... + AWES30
+  ESAT =~ ESAT1 + ESAT2 + ... + ESAT18
+  EDI =~ EDI1 + EDI2 + ... + EDI8
+  SWLS =~ SWLS1 + SWLS2 + ... + SWLS5
+  NADA_S =~ NADA_S1 + NADA_S2 + NADA_S3
+  ASC11D =~ ASC11D1 + ASC11D2 + ... + ASC11D11
+  ASC11DShort =~ ASC11DShort1
+  EISI =~ EISI1 + EISI2 + ... + EISI25
+  INOE =~ INOE1 + INOE2 + ... + INOE_lastItem
+  APEQ_S =~ APEQ_S1 + APEQ_S2 + ... + APEQ_S12
+  LAP =~ LAP1 + LAP2 + ... + LAP56
+  APEI =~ APEI1 + APEI2 + ... + APEI_lastItem
+
+  # General factor "Mystic" influencing all specific factors
+  Mystic =~ MEQ + CEQ + AWES + ESAT + EDI + SWLS + NADA_S + ASC11D + ASC11DShort + INOE + EISI + APEQ_S + LAP + APEI
 '
+
+# Fit the hierarchical model 
 fit_hierarchical <- cfa(model_hierarchical, data = data, estimator = "ML")
+
+# Summarize the model fit and interpret the results
 summary(fit_hierarchical, fit.measures = TRUE, standardized = TRUE)
 
 
 ```
+
+#bi-factor Model
+```{r}
+# Bi-factor model specification
+model_bifactor <- '
+  # General factor affecting all items
+  Mystic =~ MEQ1 + MEQ2 + ... + APEI_lastItem
+  
+  # Specific factors for each questionnaire
+  # Replace with actual item names:
+  MEQ =~ MEQ1 + MEQ2 + ... 
+  CEQ =~ CEQ1 + CEQ2 + ... 
+  AWES =~ AWES1 + AWES2 + ...
+  ESAT =~ ESAT1 + ESAT2 + ... 
+  EDI =~ EDI1 + EDI2 + ... 
+  SWLS =~ SWLS1 + SWLS2 + ... 
+  NADA =~ NADA1 + NADA2 + ... 
+  ASC11D =~ ASC11D1 + ASC11D2 + ... 
+  ASC11DShort =~ ASC11DShort1 
+  EISI =~ EISI1 + EISI2 + ... 
+  INOE =~ INOE1 + INOE2 + ... 
+  APEQS =~ APEQS1 + APEQS2 + ... 
+  LAP =~ LAP1 + LAP2 + ... 
+  APEI =~ APEI1 + APEI2 + ... 
+  
+  # In a bi-factor model, all factors are orthogonal to each other
+'
+
+# Fit the bi-factor model
+fit_bifactor <- cfa(model_bifactor, data = data, orthogonal = TRUE, std.lv=TRUE, estimator = "ML")
+
+# Summarize the model fit and interpret the results
+summary(fit_bifactor, fit.measures = TRUE, standardized = TRUE)
+```	
+
+# Compare the bi-factor model to the hierarchical model
+```{r}
+
+```
+
 #sum scores
 ```{r}
 
@@ -140,6 +197,12 @@ summary(fit_hierarchical, fit.measures = TRUE, standardized = TRUE)
 #Contingency Plans
 ```{r}
 #What if the initial model doesnt fit?
+
+
+```
+
+# What is the best predictor of well being?
+```{r}
 
 
 ```
