@@ -108,10 +108,8 @@ modeindices(fit, sort= TRUE)
 #Hierarchical Model
 ```{r}
 
-# Higher-order model specification
-# Adjusting the hierarchical model to include specific scales and item names
 
-# Higher-order model specification with corrected item names
+# Higher-order model specification 
 model_hierarchical <- '
   # Specific factors for each questionnaire
   MEQ =~ MEQ1 + MEQ2 + ... + MEQ30
@@ -150,7 +148,6 @@ model_bifactor <- '
   Mystic =~ MEQ1 + MEQ2 + ... + APEI_lastItem
   
   # Specific factors for each questionnaire
-  # Replace with actual item names:
   MEQ =~ MEQ1 + MEQ2 + ... 
   CEQ =~ CEQ1 + CEQ2 + ... 
   AWES =~ AWES1 + AWES2 + ...
@@ -191,7 +188,7 @@ summary(fit_bifactor, fit.measures = TRUE, standardized = TRUE)
 #Sensitivity Analyses
 ```{r}
 # Sensitivity analyses
-# repeating using different methods or subsets of data?
+# repeat with different methods or subsets of data?
 ```
 
 #Contingency Plans
