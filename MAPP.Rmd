@@ -25,12 +25,8 @@ if (!require("ggplot2")) {
 library(lavaan)
 library(readxl)
 library(ggplot2)
-library(pwr)
 
 
-```
-#Sample Size Planning
-```{r}
 ```
 
 
@@ -39,10 +35,7 @@ library(pwr)
 
 Load Data
 ```{r}
-data <- read_excel()
-#test data from lavaan
-
-
+# Load the data
 data <- HolzingerSwineford1939
 data$school <- NULL
 head(data)
@@ -69,7 +62,15 @@ head(data)
 #check each items if they are continious. 
 
 ```
+#Contingency Assumption
+```{r}
+#What if assumptions are not met?
 
+#Assumption: manifest endogenous variables follow a multivariate normal distribution
+# if violated: use "robust estimators"
+
+
+```
 
 #CFA
 ```{r}
@@ -78,27 +79,28 @@ head(data)
 
 # Constructing the model string
 # Here we concatenate 'Mystic =~' with all item names, joined by ' + '
-modelString <- paste("Mystic =~", paste(names(data)[2:251], collapse=" + "))
+
+model_string <- paste("Mystic =~", paste(names(data)[2:length(names(data))], collapse=" + "))
 
 # Print the model string to check it
 # cat(modelString)
 
 # Fit the model
-fit <- cfa(modelString, data = data, estimator = "ML")
+fit_normal <- cfa(model_string, data = data, estimator = "ML")
 
 # Summarize the fit
-summary(fit, fit.measures = TRUE, standardized = TRUE)
+summary(fit_normal, fit.measures = TRUE, standardized = TRUE)
 ```
 
 #check residuals
 ```{r}
 
 # standardized residuals
-std_residuals <- lavResiduals(fit, type = "standardized")
-head(std_residuals)
+residuals <- lavResiduals(fit_normal)
+head(residuals)
 # heat map of residuals indicate the magnitude and direction of the residuals, 
 # red indicating positive residuals, blue indicating negative residuals, and white indicating residuals close to zero.
-ggplot(residuals_df, aes(x = Row, y = Column, fill = Residual)) +
+ggplot(residuals, aes(x = Row, y = Column, fill = Residual)) +
     geom_tile() +
     scale_fill_gradient2(low = "blue", high = "red", mid = "white", midpoint = 0, limit = c(-3, 3)) +
     theme_minimal() +
@@ -193,8 +195,12 @@ fit_bifactor <- cfa(model_bifactor, data = data, orthogonal = TRUE, std.lv=TRUE,
 summary(fit_bifactor, fit.measures = TRUE, standardized = TRUE)
 ```	
 
-# Compare the bi-factor model to the hierarchical model
+# Compare the models
 ```{r}
+# Models are nested! 
+#From Most restrictive to least restrictive: CFA, Hierarchical, Bi-factor
+anova( fit_normal, fit_hierarchical )
+anova(fit_hierarchical, fit_bifactor)
 
 ```
 
@@ -211,7 +217,7 @@ summary(fit_bifactor, fit.measures = TRUE, standardized = TRUE)
 # repeat with different methods or subsets of data?
 ```
 
-#Contingency Plans
+#Contingency Fit
 ```{r}
 #What if the initial model doesnt fit?
 
@@ -220,6 +226,49 @@ summary(fit_bifactor, fit.measures = TRUE, standardized = TRUE)
 
 # What is the best predictor of well being?
 ```{r}
+#Pseudocode
 
+# Step 1: Perform Lasso Regression
 
+# - Lasso regression to predict well-being .
+
+# - Input: Dataset with variables potentially related to well-being.
+
+# - Process: Apply Lasso regression to select relevant variables and predict well-being.
+
+# - Output: Model that predicts well-being, including selected variables.
+
+ 
+
+# Step 2: Correlational Analysis
+
+# - Determine the correlation between each item (variable) and well-being.
+
+# - Input: Dataset with items and well-being scores.
+
+# - Process: Calculate correlation coefficients for each item with respect to well-being.
+
+# - Output: List of items ranked by their correlation with well-being.
+
+ 
+
+# Step 3: Fit 1 Factor Model for Well-being Questionnaires
+
+# - Input: Responses to well-being questionnaires.
+
+# - Process: Apply CFA to determine whether a 1 factor model fits the data.
+
+# - Output: Fit emasures; factor loadings for each item.
+
+ 
+
+# Step 4: Extract Factor Scores
+
+# - If the 1 factor model is a good fit, calculate factor scores for each subject.
+
+# - Input: Factor loadings and individual responses to questionnaires.
+
+# - Process: Use the factor model to compute a score for each subject that represents their level of well-being.
+
+# - Output: Factor scores for each subject ?
 ```
