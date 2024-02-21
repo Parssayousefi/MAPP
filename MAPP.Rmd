@@ -97,29 +97,38 @@ summary(fit_normal, fit.measures = TRUE, standardized = TRUE)
 
 # standardized residuals
 residuals <- lavResiduals(fit_normal)
-head(residuals)
-# heat map of residuals indicate the magnitude and direction of the residuals, 
-# red indicating positive residuals, blue indicating negative residuals, and white indicating residuals close to zero.
-ggplot(residuals, aes(x = Row, y = Column, fill = Residual)) +
-    geom_tile() +
-    scale_fill_gradient2(low = "blue", high = "red", mid = "white", midpoint = 0, limit = c(-3, 3)) +
-    theme_minimal() +
-    labs(title = "Standardized Residuals", x = "Item 1", y = "Item 2", fill = "Residual")
+str(residuals)
 
+# heat map of residuals indicate the magnitude and direction of the residuals,
+
+# Extract the standardized residuals matrix
+residuals_matrix <- residuals$cov.z
+
+# Convert the matrix to a data frame
+residuals_df <- as.data.frame(as.table(residuals_matrix))
+
+# Rename the columns to match your ggplot aes
+names(residuals_df) <- c("Row", "Column", "Residual")
+
+# Now you can plot
+ggplot(residuals_df, aes(x = Row, y = Column, fill = Residual)) +
+  geom_tile() +
+  scale_fill_gradient2(low = "blue", high = "red", mid = "white", midpoint = 0) +
+  theme_minimal() +
+  labs(title = "Standardized Residuals",
+       x = "Item 1",
+       y = "Item 2",
+       fill = "Residual")
+ 
 # histogram of residuals
-ggplot(data.frame(Residual = residual_values), aes(x = Residual)) +
+ggplot(residuals_df, aes(x = Residual)) +
     geom_histogram(bins = 30, fill = "blue", color = "black") +
     theme_minimal() +
     labs(title = "Histogram of Standardized Residuals", x = "Standardized Residual", y = "Frequency")
 
- #Plot Q-Q Plot of Residuals
-qqnorm(residual_values, main = "Q-Q Plot of Standardized Residuals")
-qqline(residual_values, col = "red")
-
-
-#modification indices
-modeindices(fit, sort= TRUE)
-
+#Plot Q-Q Plot of Residuals
+qqnorm(residuals_df$Residual, main = "Q-Q Plot of Standardized Residuals")
+qqline(residuals_df$Residual, col = "red")
 ```
 
 
