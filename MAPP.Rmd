@@ -99,7 +99,6 @@ summary(fit_normal, fit.measures = TRUE, standardized = TRUE)
 residuals <- lavResiduals(fit_normal)
 str(residuals)
 
-# heat map of residuals indicate the magnitude and direction of the residuals,
 
 # Extract the standardized residuals matrix
 residuals_matrix <- residuals$cov.z
@@ -108,10 +107,10 @@ residuals_matrix <- residuals$cov.z
 residuals_df <- as.data.frame(as.table(residuals_matrix))
 
 # Rename the columns to match your ggplot aes
-names(residuals_df) <- c("Row", "Column", "Residual")
+names(residuals_df) <- c("Variable1", "Variable2", "Residual")
 
-# Now you can plot
-ggplot(residuals_df, aes(x = Row, y = Column, fill = Residual)) +
+# heat map of residuals indicate the magnitude and direction of the residuals,
+ggplot(residuals_df, aes(x = Variable1, y = Variable2, fill = Residual)) +
   geom_tile() +
   scale_fill_gradient2(low = "blue", high = "red", mid = "white", midpoint = 0) +
   theme_minimal() +
