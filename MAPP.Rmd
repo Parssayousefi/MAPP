@@ -31,8 +31,6 @@ library(ggplot2)
 
 
 
-#CFA
-
 Load Data
 ```{r}
 # Load the data
@@ -61,7 +59,18 @@ head(data)
 
 #check each items if they are continious. 
 
+
+#code for binary items in the qeustionaire.
+#data$binary <- ifelse(data$item > 3, 0, 1)
+
+
 ```
+
+#Split Dataset
+```{r}
+# Split the data into training and testing sets
+```
+
 #Contingency Assumption
 ```{r}
 #What if assumptions are not met?
@@ -72,7 +81,13 @@ head(data)
 
 ```
 
-#CFA
+#CFA: One factor mnodel per qeustionaire
+```{r}
+#One-Factor Models per Questionnaire: Begin with individual models for each questionnaire to facilitate debugging.
+```
+
+
+#CFA: One factor model for all items
 ```{r}
 # assume data has one clumn for each item: MEQ1, MEQ2, ..., CEQ1, CEQ2, ..., AWE1, AWE2,
 # and so on. The first column is the ID column, so we start at the second column (index 2)
@@ -171,24 +186,23 @@ summary(fit_hierarchical, fit.measures = TRUE, standardized = TRUE)
 # Bi-factor model specification
 model_bifactor <- '
     # Specific factors for each questionnaire
-  MEQ =~ MEQ1 + MEQ2 + ... 
-  CEQ =~ CEQ1 + CEQ2 + ... 
-  AWES =~ AWES1 + AWES2 + ...
-  ESAT =~ ESAT1 + ESAT2 + ... 
-  EDI =~  DI1 + EDI2 + ... 
-  SWLS =~ SWLS1 + SWLS2 + ... 
-  NADA =~ NADA1 + NADA2 + ... 
-  ASC11D =~ ASC11D1 + ASC11D2 + ... 
-  ASC11DShort =~ ASC11DShort1 
-  EISI =~ EISI1 + EISI2 + ... 
-  INOE =~ INOE1 + INOE2 + ... 
-  APEQS =~ APEQS1 + APEQS2 + ... 
-  LAP =~ l*LAP1 + l*LAP2 + ... 
-  APEI =~ m*APEI1 + m*APEI2 + ... 
-  
+  MEQ =~ MEQ1 + MEQ2 + ... + MEQ30
+  CEQ =~ CEQ1 + CEQ2 + ... + CEQ26
+  AWES =~ AWES1 + AWES2 + ... + AWES30
+  ESAT =~ ESAT1 + ESAT2 + ... + ESAT18
+  EDI =~ EDI1 + EDI2 + ... + EDI8
+  SWLS =~ SWLS1 + SWLS2 + ... + SWLS5
+  NADA_S =~ NADA_S1 + NADA_S2 + NADA_S3
+  ASC11D =~ ASC11D1 + ASC11D2 + ... + ASC11D11
+  ASC11DShort =~ ASC11DShort1
+  EISI =~ EISI1 + EISI2 + ... + EISI25
+  INOE =~ INOE1 + INOE2 + ... + INOE_lastItem
+  APEQ_S =~ APEQ_S1 + APEQ_S2 + ... + APEQ_S12
+  LAP =~ LAP1 + LAP2 + ... + LAP56
+  APEI =~ APEI1 + APEI2 + ... + APEI_lastItem
 
  # General factor "mystic" affecting all items
-  #Mystic =~ MEQ1 + MEQ2 + ... + APEI_lastItem
+  Mystic =~ MEQ1 + MEQ2 + ... + APEI_lastItem
   paste("Mystic =~", paste(names(data)[2:251], collapse=" + "))
 
 '
@@ -222,7 +236,7 @@ anova(fit_hierarchical, fit_bifactor)
 #Sensitivity Analyses
 ```{r}
 # Sensitivity analyses
-# repeat with different methods or subsets of data?
+
 ```
 
 #Contingency Fit
