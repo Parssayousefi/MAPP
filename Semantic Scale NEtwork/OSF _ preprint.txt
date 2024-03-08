@@ -1,0 +1,264 @@
+Abstract 
+Psychological measurement and theory are afflicted with an ongoing proliferation ofnew constructs and scales. Given the often redundant nature ofnew scales, psychological science is struggling with arbitrary measurement, construct dilution, and disconnection between research groups. To address these issues, we introduce an easy-to-use online application: the Semantic Scale Network. The purpose of this application is to automatically detect semantic overlap between scales through Latent Semantic Analysis. Authors and reviewers can enter the items ofa new scale into the application, and receive quantifications ofsemantic overlap with related scales in the application's corpus. Contrary to traditional assessments ofscale overlap, the application can support expert judgements on scale redundancy without access to empirical data or awareness ofevery potentially related scale. After a brief introduction to measures ofsemantic similarity in texts, we introduce the Semantic Scale Network and provide best practices for interpreting its outputs. 
+Keywords: Scale development; Scale proliferation; Network analysis; Research infrastructure; Latent semantic analysis; Decision support system 
+Supplementary materials: The application can be found on rosenbusch.shinyapps.io/semantic_net. Data and source code for the application can be found on https://osf.io/y87pe. A backup server is provided by the University ofTilburg (see description on OSF). 
+The Semantic Scale Network: An online tool to detect semantic overlap ofpsychological scales 
+and prevent scale redundancies 
+Psychologists often rely on scales to measure psychological constructs, such as attitudes (Bar-Anan & Vianello, 2018), traits (Simms, Zelazny, Williams, & Bernstein, 2019), emotions (Pekrun, Vogl, Muis, & Sinatra, 2017), and beliefs (Muis, Duffy, Trevors, Ranellucci, & Foy, 2014). These scales usually consist ofa set ofquestions or statements that paiticipants respond to by indicating their approval or agreement (Loewenthal & Lewis, 2001). Often, reseai·chers create new scales, which can run the risk ofbeing redundant with existing scales (Bnmer, 2003; Haynes & Lench 2003; Nimon, Shuck, & Zigarmi, 2016; Shaffer, deGeest & Li, 2016). Whereas some researchers actively investigate and combat scale (and construct) redundancies in their fields of expertise (e.g., Banks, McCauley, Gai·dner, & Guler, 2016; Cole, Walter, Bedeian, & O'Boyle, 2012; Morrow, 1983; Reeve & Basalik, 2014; Roodt, 2004), initial publications of new scales often do not sufficiently justify their incremental value (Haynes & Lench 2003; Hunsley & Meyer, 2003; Sechrest, 1963). Yarkoni (2010) showed that genetic algorithms can condense 203 psychological scales into 181 items, which can through recombination accurately capture the variance of the original scales (an alternative algorithm to condense multi-facet scales is discussed by Olan.1, Schroeders, Haitung, & Wilhelm, in press). While the author introduced the method as a way to abbreviate scales, we believe it also speaks to the lai·ge amount ofoverlap found in psychological scales. Such overlap and redtmdancies can only be expected to increase in the future as the mass ofpublished psychological scales keeps growing. 
+Problems resulting from this ongoing proliferation of scales are manifold. First, researchers have to decide which scale to use for measuring constructs, which becomes 
+increasingly difficult ifmany alternative scales have been published (Terwee et al., 2007). 
+Second, the content ofpsychological constructs cannot be expected to be completely stable across scales. Thus, incompatible research findings can emerge, leading to separated research strings and diluted construct interpretations (Cole et al., 2012). Third, with the growing mass of scales, the chances offinding spurious coITelations between constructs is relatively high. Not only do alternative scales inflate the danger ofType I errors, as interchangeable scales can lead to more tests per study, but they also increase the likelihood that a pair ofscales for the respective constructs have sin1ilar item phrasings, which can induce spurious coITelations (Amulf, Larsen, Martinsen, & Bong, 2014; Amulf, Larsen, Maitinsen, & Egeland, 2018; Clai·k & Watson, 1995; Gefen & Larsen, 2017; MacKenzie, Podsakoff, & Podsakoff, 2011 ; Maul, 2017). Such spurious correlations can easily be misinterpreted as convergent validity whereas they actually, given the linguistic overlap between scales, indicate measurement reliability (Campbell, & Fiske, 1959). In short, redundant scales threaten some ofthe basic requirements of psychological science such as standardized measurement and well-understood constructs. In order to maintain and improve the quality ofscale-driven research, the proliferation ofunneeded scales needs to be prevented. 
+In the next sections, we review cmTent strategies ofassessing scale redundancies. Impo1tantly, we highlight how automatic analyses ofsemantic overlap between scales can complement current methods. Subsequently, we demonstrate how such semantic sin1ilarity between questionnaire texts can be quantified. Finally, we introduce a "shiny" application (Rbased web application; Chang, Cheng, Allaire, Xie, & McPherson, 2018) that automatically assesses semantic overlap between new scales and previously published scales: the Semantic Scale Network. 
+Beyond Correlational Analyses and Expert Judgement 
+To date, the predominant approach to identify redundancy between scales has been to conelate paiticipant scores on different candidate scales, with high correlations indicating potential redundancy (e.g., Cole et al., 2012; Le, Schmidt, Bruter, & Lauver, 2010). However, there are multiple problems inherent to this approach. First, researchers have to decide before data collection which scales might be redundant to the new instrument, as they need paiticipant data to quantify shared vai·iance. Despite best eff01ts to stay up to date, it is difficult to be aware ofevery scale that might be relevant for one's research. Relevant scales are often published under different names, or even in different disciplines, and might therefore escape researchers' attention. Second, researchers need to collect data for all scales from the same test subjects, which might be problematic if there are too many related scales for each paiticipant to fill out. Third, there is no cut-off between high convergent validity and redundancy (e.g., Cole et al., 2012), mostly because a generic cut-off value cannot do universal justice to assessing redundancy ( cf. discussion ofreliability coefficients by Lance, Butts, & Michels, 2006). Instead ofexclusively relying on numerical analyses, it is therefore reasonable to assess redundancy through the01y-guided justifications ofa scale's incremental value based on item content. Accordingly, an expert analysis ofitem content across scales is necessary beyond the computation ofa correlation score. Fomth, usually only the publisher ofa new scale conducts and reports empirical tests ofthe new scale. Reviewers typically do not have the means to collect data and run additional analyses to assess the uniqueness ofa new scale after receiving a manuscript. Instead ofrelying on quantitative assessment, reviewers can therefore only judge the redundancy ofa new scale based on their knowledge ofexisting scales. 
+Next to correlational analyses, expert judgements ofthe incremental value ofa new scale is an essential part ofthe review process. Qualitative evaluations ofscale content and overlap 
+bring advantages, as they neither require paiticipant data nor numerical cut-off values. However, some problems with pure expe1t assessment remain. Scales might still escape the awareness of experts; for example, ifthey were published for constructs with different labels or in different research fields (Hagger, 2014; Judge, Erez, Bono, & Thoresen, 2002). Fmiher, automated language processing methods frequently outperform humans in detecting construct similarities (Larsen & Bong, 2016). Thus, automatic semantic analyses are suitable to supp01t expe1t evaluations in finding and evaluating scale similai·ities. That being said, we emphasize that computations ofsemantic overlap replace neither correlational nor expe1t assessments ofscale redundancy. Rather, semi-automated semantic analyses combine the efficiency of quantitative methods and the theoretical grounding ofexpert evaluations to address limitations of complementa1y methods. Correlational analyses ofconvergent and discriminant validity, and expert judgement remain a necessaiy part ofinvestigating redundancy and incremental value of new scales. 
+In summation, current methods to protect existing scales from redundant publications come with a number oflimitations, which may paitly explain the continuous proliferation of psychological scales and constructs. The limitations we identified here are, in sh01t: 1) Researchers are limited in their awareness, resources, and potentially their motivation to collect all data required to properly judge the incremental value ofa new scale, 2) diagnosing incremental value or redundancy based on correlation scores alone may endanger theoretical justification ofscale content; and 3) reviewers typically cannot collect data and have to rely on their subjective knowledge of"what is out there" and the analyses presented by the authors. 
+To address these problems in assessing scale redundancy, we introduce the Semantic 
+Scale Network. The Semantic Scale Network is an easy-to-use online application that supp01ts 
+traditional methods ofscale assessment by detecting and quantifying semantic similarities between a new scale and all the scales in the application's corpus. 
+Impo1tantly, quantifications ofsemantic similarities (i.e., similarities in question content between scales) are generated through the application without access to any participant data. The application therefore allows authors and readers alike to spot and evaluate semantic overlap between scales, which will hopefully stimulate discussion about the uniqueness and necessity of new scales. The Semantic Scale Network also addresses the problem that authors and reviewers need to be aware ofeve1y potentially related scale, since comprehensive scale repositories, integrated in the application, can automatically detect the scales with the highest semantic similarity. Lastly, conducting semantic analyses ofscale redtmdancy directs attention to item content, which is info1mative for evaluating questionnaire redundancies beyond correlation scores (Arnulf et al., 2014; Amulf et al., 2018; Clark & Watson, 1995; Gefen & Larsen, 2017; MacKenzie et al., 2011; Maul, 2017). Rep01ting insights from this similarity analysis next to established scale criteria (e.g., correlational reliability and validity scores) could become standard procedure for publishing and reviewing a new scale. In the following paragraphs we explain the concept and assessment ofsemantic similarity including exemplary results of this online application. 
+Semantic Similarity 
+At the roots ofthe application is the computation ofsemantic similar·ity. Lin (1998) defined the semantic similar·ity between two objects as: "the ratio between the amount of info1mation in the commonality and the amount ofinfo1mation in the description of the two objects" (p. 298). Tests ofsemantic similar·ity therefore answer the question of how strongly two texts contain similar ( as opposed to dissimilar) content. Translated to psychological scale development the question becomes: To what degree do two scales target the same construct, as opposed to different constructs, based on their question texts? 
+With this definition ofsemantic similarity in mind, we can turn our attention to computing semantic similarity. Quantitative analyses ofsimilarity between two documents ( e.g., an archived scale/document and a new scale/search query), constitute a substantial part of the research field ofinformation retrieval (for an introduction see Zhai, 2008). Thus, the presented application shares some methodological features (including semantic processing) with wellknown search engines on the internet ( cf. description ofGoogle Scholar in Beel, Gipp, & Wilde, 2009). Below, we briefly describe basic word matching, before introducing Latent Semantic Analysis (LSA). LSA builds on and improves word matching and is the underlying algorithm of the Semantic Scale Network. 
+Word matching. Assume we have the following three texts: "I usually enjoy parties", "My manager is cruel", and "I enjoy dress-up parties". Intuitively we recognize that the first and the last text are sin1ilar, as both mention enjoyment ofparties. Word matching works just like that, by using words appearing in different texts as an indicator of text similarity. The basis for calculating this similarity is a document-term matrix as illustrated in Table 1 that indicates which documents (texts) contain which te1ms (words). 
+Inse1t Table 1 about here 
+We can see that text 1 and text 3 are relatively similar· because three words match between both texts (highlighted in gray in Table 1) whereas neither ofthese texts share words with text 2. These matching scores can be translated into a cosine similarity that, ifwe interpret 
+word scores as coordinates, indicates the closeness ofthe texts in a space with as many dimensions as we have words in the texts. This cosine similarity can take on values from 0 to 1, with 1 indicating identical texts (all words/coordinates match) and 0 indicating no textual overlap. For example, to compare text 1 and 3, the cosine similarity is given by 
+v/ vi
+---=0.75 II Vi 1111Vi II , where Vt is the row-vector from Table 1 that conesponds to text 1, 
+and vi is the equivalent vector for text 3. Since all entries in these vectors are 1 or 0, their 
+product will be a sum ofshared words, i.e. vt Vi =3. The formula fmiher indicates that this 
+vector multiplication is divided by the conesponding vector lengths, with II vi II being equal to 
+,.Jv/ Vt . This cosine n01malization ensures that all vectors have unit length and the sin1ilarities are based on the vector direction in the semantic space rather than the vector length. Put differently, psychological scales with many items and words are more likely to have matching words with other scales regardless ofcontent. The cosine n01malization accounts for such inflated similarity scores. 
+Word importance. When we reason why text 1 and text 3 are related, most ofus would highlight that the texts match in their mentioning of"enjoy" and "parties". However, they also overlap in regard to the word "I". Conectly, one might fo1ward that the word "I" is less important, because it is likely to appear in texts about any topic. Thus, it is hardly ever characteristic ofa scale, nor does it give insight into scale similarities. In order to account for these differences in te1m imp01iance, the word scores are weighted by the frequency oftheir occurrence in the total corpus. More precisely, researchers usually take the ratio ofall documents (i.e., scales) to the number ofdocuments that the word appears in, then compute the logarithm of this ratio, and finally multiply the result with the original word scores (Ramos, 2003). Through this procedure, frequencies ofwords that appear in almost eve1y text ( e.g., "the" in generic texts, or "think" in psychological scales) are shrunk towards zero as they do not se1ve as strongly to characterize or distinguish texts. This normalization procedure is called te1m-frequency -inverse document-frequency (tf-idf) n01malization. There are alternative fo1ms ofthese n01malization steps in information science, but they are all implemented to se1ve the same purpose oftaking into account differences in word imp01tance before computing a similarity score (Gefen, Endicott, Fresneda, Miller, & Larsen, 2017). 
+Preprocessing. Aside from word count normalization, preprocessing texts has also proven beneficial for calculating semantic overlap. Basic preprocessing steps include deleting stop-words (e.g., "the", "and", "to"), removing punctuation, and removing numbers. An example for the usefulness ofdeleting such features is given when looking at psychological scales. Some authors publish their scale items with numbers or letters preceding each item, while some do not. Some authors use colons or periods at the end ofeach item while others do not. Removing these features helps to focus the similarity computation on what really counts. 
+Two last powerful preprocessing steps that we briefly describe are lemmatization and stemming, which successively trim down each word to its word stem before computing similarities. Imagine that text 1 had not included the word "parties" but instead the word "partying". Now, text 1 and text 3 would have one match less, even though "parties" and "partying" describe the same concept. Lemmatization relies on existing word dictionar·ies to 
+convert words to their base fo1m (i.e., both "parties" and "partying" become "party") and 
+subsequent analyses can co1Tectly identify the overlap between both texts ( e.g., Kanis, & Skorkovska, 2010) Stemming is an additional, simple method that cuts down the outputted words from the lemmatization to their word stem. To clarify, lemmatizing "managers" and "managing" returns, respectively, "manager" and "manage", which both result in "manag" after subsequent stemming. Especially for short texts like psychological scales this reduction facilitates overlap detection (Hull, 1996). For the same reason it is also common to conve1t all words to lowercase. 
+Although the combination ofmultiple preprocessing steps from word count normalization to cosine computations can ah-eady lead to useful quantifications oftext similarity, there is also room for improvement. Imagine the third text had not been "I enjoy dress-up paities", but instead "Social gatherings are fun". Most people would still agree that this text is ve1y similar to text 1 ("I usually enjoy paities"), but now there is not a single word match indicating similarity. Especially for comparing psychological scales, which frequently use different but synonymous items, detecting such latent similarities is key. The next technique, which is implemented in the Semantic Scale Network, was designed to detect such latent overlap between texts. 
+Latent semantic analysis. In order to move from simple word matching to detecting similarity in meaning, the same preprocessing steps should be completed as described in the previous section (i.e., removing stop-words, lemmatization, stemming, lowercasing, tf-idf normalization). Thus, after canying out these steps, we again have a document-te1m matrix similar to that in Table 1, but now with normalized entries instead ofraw counts, and slightly different te1ms due to removal ofstop-words ("I" is no longer pait ofthe document-te1m matrix) and lemmatization/stemming ( e.g., "paities" becomes "parti"). 
+The crncial improvement beyond word matching is now to recognize that texts using different words can still talk about sin1ilar topics ( e.g., "gatherings" and "parties"). In order to 
+dete1mine whether texts using different words are similar, we need to understand whether their words can be summarized under a shared latent topic ( e.g., "social event" in the case of "gathering" and "party"). To this purpose, we condense the document-term matrix into a smaller document-topic matrix through a method that is closely related to principal component analysis. Generally, the words "gathering" and "party" can be expected to co-occur in texts with a heightened probability as both relate to the latent topic "social event". Further, even in the absence ofsuch direct co-occurrence, both "gathering" and "party" can be identified as similar because oftheir parallel co-occurrence with other te1ms ( e.g., "friends", "dance", "talk"). Thus, there is a degree ofcorrelation between both words in texts, which is reflected in the documentterm matrix. 
+Such correlational patterns are frequently investigated in psychological research through principal component analysis (PCA). The assumption is usually that there is a latent phenomenon that explains these correlations. In LSA, the reasoning is that the co-occunences ofwords are explained by latent topics; that is, ce1iain words often co-occur ( directly or in parallel) because they belong to the same topic (Wolfe & Goldman, 2003). Similar to PCA, we can generate a score for each document (in PCA: paiiicipant) on each latent topic (in PCA: latent constrnct). These new topic scores can then replace the higher-dimensional word scores (in PCA often: item scores), transfo1ming our document-te1m matrix into a lower-dimensional document-topic matrix. The document-topic matrix thus provides us with a more insightful semantic space where texts can have similar scores on a topic despite using different words (Kjell, Kjell, Garcia, & Sikstrom, 2018). 
+The mathematical method for dimensionality reduction in LSA is singular value 
+decomposition (SVD), which is also at the core ofPCA. As Figure 1 illustrates, the goal ofSVD 
+13 in LSA is to express a document-term matrix A as a product ofthree matrices containing the "-'~ *VT
+matrix's eigenvectors and eigenvalues, A[docs, terms) =U[docs, topics ) • ~ [topics, topics ) . [w=, rep~,] • 
+Inse1t Figure 1 about here 
+The rows ofmatrix U contain the left-singular vectors ofthe original document-term matrix (i.e., eigenvectors ofAA1) and show how much each document loads on each ofthe latent topics. Conversely, the rows ofmatrix V contain the right-singular vectors ofthe original document-te1m matrix (i.e., eigenvectors ofA1A) and describe how much each latent topic loads on each ofthe te1ms. As such, the matrix V can be used to interpret the content ofeach latent topic. Finally, the matrix :E contains the eigenvalues ofthe original document-term matrix A. 
+As in PCA, the first k eigenvectors and eigenvalues (from the left in the three matrices U, L, and V) capture the highest amount ofvariance ofthe original data, and we can therefore truncate the solution and still approximate the original data closely. In the Semantic Scale 
+Network, the trnncated matrix Uk therefore describes how strongly each psychological scale loads on each ofthe k latent topics that explain most semantic variance in the corpus of psychological scales. The truncated matrix Uk can now be utilized to generate cosine similarities as indications for similarities between scales in the same way as was the case for word matching. However, as LSA topic scores can be negative, the cosine similarities now lie between -1 and 1 with negative values indicating dissimilarity (i.e., high distance between texts). A widely cited introduction to LSA is provided by Dee1wester and colleagues (Deerwester, Dumais, Furnas, Landauer, & Harshman, 1990). A tutorial paper for implementing LSA in R is provided by Gefen and colleagues (Gefen, Endicott, Fresneda, Miller, & Larsen, 2017). A review ofthe literature shows that various alternatives to LSA exist in the fields oflinguistics and computational social science (for a recent review see: Pradhan, Gyanchandani, & Wadhvani, 2015). Still, when put to the test in practical scenarios, many procedures for computing semantic similarity actually give similar results (Mihalcea, Corley, & Strapparava, 2006). We chose LSA over, for instance, latent Dirichlet allocation (Blei, Ng, & Jordan, 2003), because LSA was shown to outperfo1m LDA in the context ofpsychological single-construct texts (Larsen & Bong, 2016), and because LSA is closer to well-known statistical methods in psychology. Training more advanced models, most prominently neural network architectures, requires much more labeled text data than the cmTent corpus provides ( e.g., Altszyler, Sigman, Ribeiro, & Slezak, 2016). However, there are ways to enhance the size ofthe training set by relying on previous data publications. Thus, we demonstrate in the supplementary materials how lai·ge amounts of (non-psychological) text data (Google News corpus) could be used in combination with a pre-trained word2vec model (a shallow neural network; Mikolov, Chen, Co1Tado, & Dean, 2013) to compute similarities between psychological scales. While a qualitative assessment suggests similar perfo1mance ofboth approaches, LSA and word2vec, future research could generate a large labeled training set to fmiher fine tune and optin1ize the selection ofalgorithms. We describe the LSA approach as it is competitive in perfo1mance, trained on psychological data (scale texts), and closely related to statistical models in psychology. 
+The Semantic Scale Network 
+LSA is the main method underlying the Semantic Scale Network. The main output ofthe application are quantifications and visualizations ofsemantic similarity (i.e., cosine similarity) between psychological scales. The Semantic Scale Network was developed as a decision suppo1i 
+systems (DSS) to help researchers and reviewers detect related scales, protect existing scales 
+from redundant publications, and quantify semantic construct overlap (i.e., semantic validity; Larsen, Nevo, & Rich, 2008). As a DSS, the Semantic Scale Network falls into "the area ofthe info1mation systems (IS) discipline that is focused on supp01ting and improving [ ...] decision making" (Arnott & Pervan, 2014). In recent years, psychological science has adopted multiple DSS's, often to in1prove research and publication quality (e.g., "statcheck" by Epskamp & Nuijten, 2016). Through the cunent work, we aim to contribute a DSS that helps in1prove psychological science by uncovering and preventing scale redundancies. We go on to describe the application's scale corpus, example outputs ofthe application, and best practices regarding the interpretation ofresults. 
+Data 
+Many psychological scales that we included in the application's corpus were found in public questionnaire repositories. We included openly-accessible scales from the International Personality Item Pool (ipip.ori.org; Goldberg et al., 2006), the Measurement Instrument Database for the Social Sciences (midss.org; Whitaker Institute for Innovation and Social Change , n.d.), the Registe1y for Scales and Measures (scalesandmeasures.net; Santor, 2013), Ron Okada's collection ofscales for students (yorku.ca/rokada/psyctest; Okada, 2018), the Association of Religion Data Archives (thearda.com/mawizard/scales; The Association ofReligion Data Archives, n.d.), the Open Source Psychometrics Project ( openpsychometrics.org/ _rawdata; Open Psychometrics, n.d.), the Longitudinal Internet Studies for the Social sciences ( dataarchive.lissdata.nl/concepts; CentErdata, n.d.), the Inter-Nomological Network (https://inn.theorizeit.org/; Human Behavior Project, 2011), psychology tools (psychologytools.com; Psychology Tools, 2018), the Positive Psychology Center ofthe 
+University ofPennsylvania (ppc.sas.upenn.edu/resources/questionnaires-researchers; Schulman, 
+n.d.), and the scale collection ofthe decision lab ( decisionlab.shinyapps.io/InterindividualDifferenceMeasures; Fiedler & Lyubenova, in preparation). We discarded restricted access publications, because users ofthe application need access to the scale items in order to interpret the application's output. Further, we added many scales that were submitted by researchers in psychology following open calls over social media, mailing lists, and personal communication. Scale submissions can be made at any time on the application's website. Any scale with item texts, which is published in a peer-reviewed journal and ofwhich the items are freely available online, qualifies for inclusion. The corpus ofscales in continuously growing, and contained 4,037 scales at the tin1e ofsubmitting this paper. The cunent number can be found on the application's website. All included scales can be accessed through references presented on the application's website. 
+The distribution ofcosine similarities between all included scales ranges from -.66 to 1. The corpus includes pairs ofscales with cosine = 1 (i.e., perfectly redundant scales), simply because some scales for assessing a construct for different populations are actually comprised of the same items. The average cosine similarity between two scales is .007 (Mdn = -.001, SD = .076). It is not surprising that this constitutes a very small similarity given the wide spectrum ofconstructs that are assessed by the corpus. More interesting in terms of redundancy and overlap is therefore the distribution ofcosine sin1ilarities between a scale and the scale to which it is most closely related (i.e., its closest neighbor in the network). Here, we find that the average cosine similarity is .68 (Mdn = .674, SD = .164). The distributions are depicted in Figure 2. 
+Insert Figure 2 about here 
+When using the application, we advise the reader to always evaluate the similarities of the entered scale with its closest neighbors regardless ofthe returned cosine similarity value. Although a numerical rule ofthumb when deciding whether two scales overlap 've1y much' or 'only marginally' might seem appealing, we believe that generic cut-offs are not well suited for the current application, because they are often misleading (Lakens et. al, 2018) and could inhibit a proper examination ofitem content. Fmiher, as the semantic corpus ofpsychological scales is continuously expanding, cosine values might shift slightly and thereby cross arbitra1y cut-off lines. To guide users, we therefore provide an example ofhow to investigate the semantic similarity ofa new scale with scales in the application's corpus. 
+
+
+Example Results 
+The most basic and for most ofus most useful feature ofthe Semantic Scale Network is to identify overlap between two scales in order to discuss a scale's incremental value. Imagine encountering a new psychological scale. We assume that the scale passes established criteria for psychological scales ( e.g., answer reliability and validity). The hypothetical scale was developed to assess a person's 'social drive' and its items are: 
+1. 
+I avoid social interaction as much as possible. 
+
+2. 
+I think parties are fun. 
+
+3. 
+I am outgoing. 
+
+4. 
+I have a lot offriends. 
+
+5. 
+I rarely enjoy group activities. 
+
+6. 
+I like being alone. 
+
+
+After entering the items into the application, the returned results describe the semantic embeddedness ofthe scale in the scale corpus as depicted in Figure 3. 
+Inse1t Figure 3 about here 
+As indicated in the result table ofFigure 3, the new scale appears most strongly related to scales about extraversion and sociability. The cosine similarities lie between .387 and .58. Yet, more impo1iant than these numerical values are the item contents ofthe detected scales. Examining the item contents (under the provided links) allows us to answer the question ofwhy the scales are suggested to be semantically similar. For example, some items ofa sociability scale (Goldberg et al., 2006), our scale's closest neighbor in the network, are: 
+1. 
+Usually like to spend my free time with people. 
+
+2. 
+Talk to a lot ofdifferent people at paities. 
+
+3. 
+Love to chat. 
+
+4. 
+Make friends easily. 
+
+5. 
+Enjoy being part ofa group. 
+
+6. 
+Rarely enjoy being with people. 
+
+
+In this case, almost all items in our new 'social drive' scale are ve1y closely related with an item in the sociability scale. The marginal uniqueness ofour new scale seems to lie primarily in item 6 which addresses enjoyment ofbeing alone. This concept is not directly included in the sociability scale. The insights gained from inspecting the two scales raise three imp01tant questions. First, is the incremental value ofthe new scale sufficient to justify the publication and use ofthe new scale? Second, is it the concept of 'enjoyment ofbeing alone' what distinguishes the concepts ofextraversion and social drive? Third, is this concept addressed by one ofthe many other related scales? A next step to dete1mine usefulness vs redundancy ofour scale would be to continue the investigation ofsemantic overlap with its second closest neighbor, the 'enjoyment (expected)' scale. These steps to systematically investigate semantic overlap ofa new scale with existing scales integrate expert judgements ofredundancy with the application's functionality. Fmther, it is possible to conduct such semantic analyses before any data is collected, so conelational analyses could "follow up" on analyses ofsemantic overlap. 
+
+Limitations and How Not to Use the Semantic Scale Network 
+As the application is based on methods that are not commonly used in psychological research it is crncial to discuss the limitations ofthe application and how not to interpret its output. 
+Corpus completeness. It is impo1tant to realize that the application's corpus, albeit being ofsubstantial and increasing size, will likely never include all scales ever developed. This has two impo1tant consequences: First, redundancies ofa new scale with already existing scales are not highlighted by the application, if the relevant scales are not in the corpus. Second, the computation ofthe semantic space in which the psychological scales lie is based on an incomplete language sample. This means that the LSA procedure likely does not capture all semantic topics that can be found in psychological measurement tools. It is for exan1ple likely that smaller research fields ( e.g., back pain) are only captured with ve1y few or no latent topics. In order for the Semantic Scale Network to evolve into the most useful tool it can be, a collective effo1t is needed to enlarge the scale corpus. To facilitate this, published scales can be submitted to the corpus under a link provided on the application's website. 
+Confirmation of uniqueness. Fmiher, it is crncial to realize that the application's functionality can be used to detect potential redundancies, but never to confom uniqueness. Entering a scale and finding no considerable overlap with any neighbor scale cannot be seen as proof ofuniqueness or necessity to add the scale to the existing body ofpsychological scales. One reason is the aforementioned incompleteness of the application's corpus, which might prevent redundancy detection. Another reason is that the utilization oflatent topics in1proves similarity detection, but it does not perfect it. This means that it is still possible to generate a scale which is closely related to existing scales without using the same words, and without words clustering together in any latent topic. In fact, we believe it is possible for almost any scale to adjust its wording until no strong semantic similarities to other scales can be found. Some strategies and best-practices can alleviate this concern. 
+First, scale semantics with aiiificially low similarities will be characterized by unnecessarily rare words. For instance "have a lot offriends" can be rewritten as "have plentiful companions". Reviewers should question the use of words that are obvious synonyms to more intuitive words, not just to ensure similarity detection, but also to facilitate a good tmderstanding ofscale items among paiiicipants. The Semantic Scale Network may assist reviewers here, as it is possible to actively look for hidden neighbors in the network by replacing individual words with their synonyms before entering the items into the application. Second, the questionable practice to mask similarities with existing scales through the adjustment ofwords may often deteriorate traditional evaluation criteria for scale development, such as factor strncture, Cronbach's alpha, or convergent validity with other scales. Uniqueness hacking therefore becomes impractical. Third, and most imp01iantly, the Semantic Scale Network supp01is but does not replace expe1i knowledge about existing scales. Reviewing and citing existing literature should, for instance, always form pait ofthe examination ofitem content. For that reason, it is clearly necessaiy to familiarize oneself with the relevant literature, for instance through general research search engines, or measurement-specific repositories like INN (Human Behavior Project, 2011), or the subscription-based psycTESTS (e.g., Swogger, 2013), and never solely rely on the Semantic Scale Network, when judging uniqueness and incremental value. Such other online tools have, for instance, the advantage of including non-textual ( e.g., image-based) scales and tests. 
+Reliance on numeric similarity. A final caveat is that, as mentioned above, cosine similarities can give a false sense ofthe 'exactness' ofcontent overlap. For this reason it is not advisable to judge uniqueness and redundancy of a new scale based on a cut-off or rnle ofthumb. Cosine values usually shift after changing one item in the scale or just a single word, especially if the scale is relatively sh01t. Therefore, the application should be used as a guide to find and investigate similar scales based on their item content. An expert's discussion ofitem content across scales always provides stronger arguments than high or low cosine values. We therefore advise to always investigate a scale's closest neighbors regai·dless of their specific cosine value. 
+
+Using the Scale Corpus for Original Research 
+Whereas the focus ofthe Semantic Scale Network lies on highlighting scale overlap, an important output of the cunent project is the semantic space ofpsychological scales. As a whole the application can be understood as a semantic network of questionnaire texts where connection strength is given by semantic overlap. By using the questionnaire texts as empirical data, typical network analyses can be conducted, such as identifying highly centralized scales and scales bridging different scale clusters. Generally, such analyses tap into the hierarchical nature and connectedness ofpsychological constructs (cf., Judge et al., 2002). We hope that future metaanalytical research will make use ofsemantic network analyses and the provided data, for instance, to discuss possibilities ofcondensing scale clusters into overarching constrncts ( cf. Hodson et al., 2018). Figure 4 depicts a snippet ofthe semantic scale network. 
+Inse1t Figure 4 about here 
+Yet another usage ofthe application's corpus is to examine the latent topics of psychological measurement that can be generated by condensing the document-te1m matrix. Figure 5 depicts some ofthese topics as word clouds, alongside the psychological scales that relate most strongly to these topics. Analyzing such latent communalities ofpsychological measures can give concise summaries ofconstruct clusters and supp01t item development. 
+Inse1t Figure 5 about here 
+
+Conclusion 
+Redundant scales lead to arbitrariness and disorientation in psychological measurement, weak theories, and confusion among researchers and practitioners. In order to help controlling scale and construct proliferation we created the Semantic Scale Network-a corpus-based, easyto-use online application that enables users to find semantically similar psychological scales. The application assists researchers and reviewers in detecting existing scales before redundant scales are published and used. 
+When using the application for scale comparisons, we discourage relying on generalized cut-off scores in assessing potential redtmdancy, and highlight the need for expert evaluations of the semantically most similar scales. Such an explorative approach is affordable as researchers do not have to collect data for the examined scales. Fmiher, the application can be used by researchers to search for relevant scales not based on construct names, but item content. This will allow researchers to find relevant scales even ifthey were published under unintuitive names and in different research fields. 
+Aside from research focusing directly on scale development, researchers are free to use the Semantic Scale Network as language input for their own research. The scale corpus se1ves as an increasingly comprehensive semantic space that captures the language ofpsychological measurement and can be used for a wide range oflanguage-based research projects (Chen & Wojcik, 2016). As semantic overlap and answer coITelations often approximate each other, the network can, for example, be used to investigate which obse1ved correlations between constructs might be grounded exclusively in similar question phrasing. To illustrate, Amulf and colleagues succeeded to predict between 54% and 86% ofsmvey covariance based on semantic similarity alone (20 14). A ve1y different follow-up would be to generate networks for scales in other languages to test whether inconsistent construct correlations obse1ved in different cultures could be explained by inconsistent semantic embeddings ofscales (network structure differs between languages). 
+
+Open Call to Submit Scales 
+The Semantic Scale Network is highly dependent on a comprehensive corpus of psychological scales. Although we accumulated sufficient scales from open repositories to capture a large part of the psychological landscape, we realize that there are many scales yet to be included in the corpus. In order to turn the Semantic Scale Network into the best tool that it can be for psychological science, a collective effort is needed. Therefore, we hope that authors and users ofpeer-reviewed and openly-accessible scales will continue to submit scales to the Semantic Scale Network and encourage their colleagues to do the same. There are many reasons to submit a scale, among them: 
+• 
+protect existing scales from redundant scales in the future 
+
+• 
+increase visibility and reuse ofexisting scales 
+
+• 
+contribute to an open, free sharing oftools 
+
+• 
+improve the application's perfo1mance by ensuring good scale coverage 
+
+• 
+improve the application's perfo1mance by enlarging the sample used for LSA 
+
+
+• contribute to a parsimonious body and collective maintenance ofscale measures We hope that, the Semantic Scale Network can help prevent fmther development ofredundant psychological scales. Ultimately, this should help psychologists test and discuss theories more conectly and efficiently. 
+Acknowledgements 
+The Semantic Scale Network was conceived at the Summer Institute in Computational Social Science (SICSS) in Helsinki, 2018. We thank Matti Nelimarkka, Juho Paakkonen, Pihla Toivanen, Anders Grundtvig, Robin Lybeck, and other paiticipants ofSICSS for their support and comments at the stait ofthis project. Fmther, we thank Anthony Evans, Marcel Zeelenberg, Joost van Baal-Ilic, Michele Nuijten, Kai Larsen, Jan-Ketil Amulf, and Isabel Thielman for their help and advice. We also thank all those who have contributed scales to the Semantic Scale Network so far, as well as those who will contribute in the future. 
+Table 1 
+Document-term matrix for the three example texts. 
+Term Document usually en3oy patties dress-up my manager lS cruel 
+text 1  1  1  1  1  0  0  0  0  0  
+text 2  0  0  0  0  0  1  1  1  1  
+text 3  1  0  1  1  1  0  0  0  0  
+
+Note. Number oftimes a te1m (column) occurs in a document (row). Overlap between text 1 and text 3 is highlighted in gray. 
+Tenns Topics Topics Topics 
+~ 
+C 
+0 
+E 
+::, 
+0 0 
+0 
+A 
+= 
+
+k 
+
+
+§rnk
+.~~kk 
+0.., I.. 
+~ 
+~□ 
+
+Figure I. Illustration ofa singular value decomposition (SVD) in the context of latent semantic analysis (LSA). Closely based on Fig. 2.1 in Martin & Beny (2007). 
+Closest neighbor 
+All neighbors 
+-0 5 0.0 0.5 1.0 
+Cosine similarity 
+Figure 2. Violin plots ofcosine similarities between each scale and its most similar neighbor (top) and similarities between all pairs ofscales (bottom). 
+Please Input scale items here Closest neighbors (dick row for indirect neighbors): 
+1. 
+I avoid social interaction as much as possible. 
+
+2. 
+I think parties are fun. 
+
+3. 
+I am outgoing. 
+
+4. 
+I have a lot of friends. 
+
+5. 
+I rarelyenjoy group activities. 
+
+6. 
+I like being alone. 
+
+
+Choose number ofsimilar scales displayed in output 
+0 1S 
+~ cales 
+Scales sociability2 enjoyment 
+(expected) liveliness gregariousness likes parties 
+Similarity 0.58 
+0.477 
+0.416 0.415 0.387 
+Lookup here 
+https://ipip.ori.org/newHEXACO_Pl_key.htm Bruner, G. C. (2012). Marketing Scales Handbook: A Compilation 
+ofMulti-Item Measures for Consumer Behavior & Advertising Research,Volume 6. Fort Worth, Texas:GCBII Productions, LLC https://ipip.ori.org/newHEXACO_Pl_key.htm https://ipip.ori.org/newNEOKey.htm https://ipip.ori.org/newHPIKeys.htm 
+
+
+l
+enjoym@ pected) 
+
+Figure 3. Screenshot of the application's output. 
+••,.... .., 10 ,:""'t' emo:•r """'1bHtt)• t"1ti3 b 
+
+Figure 4. Small snippet of the Semantic Scale Network. Each node is a psychological scale and the edges are drawn based on semantic similarities (i.e. cosine similarities). 
+.• feel 
+gu1 111 interest 
+calm express angerangri t 
+mqodupse 
+d
+epressexc1t irritemot lose sadcri blue comfort . happi 
+unhapp1 
+interest c neW prefer '-practic thing quick ~ complexdiscuss way ayo1d think tncome1ove understand enjoy c~alleng imagin 
+
+idea 
+classroom anxiety situational communication apprehension parkinsons disease -emotional mental health dissonance of purchase emotional 
+complexity ingenuity intellect4 
+creativity3 generates ideas 
+around 
+c 
+
+peopl 
+idiffer situat 
+a> ?:: lot interest keep 
+> o seem see 
+a> ~ littl t~kopinion 
+laugh partiavoid comfort social 
+uncomfort 
+
+read 
+money 
+languag thing describ sh_arek~ep cloth magazin thml<fair w ear Ivamount devic 
+wri.tebook 
+opinion word 
+spend 
+nonverbal Immediacy -observer nonverbal immediacy -self surgency/extraversion 10 item 
+extraversion 20 item gregariousness5 
+overall attitudes tolerance of communists writing/remembering vehicles understanding 
+Figure 5. Latent topics are plotted as word clouds. The words in each cloud are characteristic of this topic. On the right side of each topic are the psychological scales that score highest on this latent topic. Many topics have an intuitive interpretation that we can assign to them. For instance, we would relate the top-left topic to emotion, bottom-left to cognition, and top-right to social behaviors. Many other topics are not easily interpretable as they might not pertain to specific psychological constructs. The bottom-right topic, for instance, seems to capture a mix of constructs relating to money, products, and reading. 
+Appendix 
+R packages used 
+All data manipulations and analyses were done in R Studio (RStudio Tean1, 2016) using the language R (R Core Team, 2018). In order to read in and manipulate the text data we used the packages 'readr' (version 1.1.1; Wickham, Hester, & Francois, 2017), 'data.table' (version 1.11.8; Dowle, & Srinivasan, 2018), 'dplyr' (version 0.7.8; Wickham, Francois, Herny , & Muller, 2018), and 'textstem' (version 0.1.4; Rinker, 2018). The packages 'lsa' (version 0.73.1; Wild, 2015), 'quanteda' (version 1.4.3; Benoit et al., 2018), 'tableHTML' (version 1.1.0; Boutaris, & Zauchner, 2017), 'qgraph' (version 1.5; Epskamp, Cran1er, Waldorp, Schn1ittmann, & Borsboom, 2012), ggplot2 (version 2.2.1; Wickham, 2009), and 'textnets' (version 0.1.1; Bail, 2016) were used to analyze and visualize the data. The online application 'The Semantic Scale Network' was created and designed using the packages 'shiny' (version 1.2.0; Chang, Cheng, Allaire, Xie, & McPherson, 2018), 'shinyjs' (version 1.0; Attali, 2018), 'shinyBS' (version 0.61; Bailey, 2015), and 'shinythemes' ( version 1.1.2; Chang, 2018), and optimized using the packages 'DT' (version 0.5; Xie, Cheng, & Tan, 2018), and 'Matrix' (version 1.2-14; Maechler, Davis, Oehlschlagel, & Riedy, 2018). 
+
+
+
+
+
