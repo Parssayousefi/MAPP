@@ -50,12 +50,6 @@ head(mydata)
 #testing assumptions
 
 
-# - Handling missing values
-        #Full Information Maximum Likelihood
-        #Multiple Imputation
-# - Variable transformations
-# - Normalization procedures (if applicable)
-
 # Descriptive statistics, normality checks, etc.
 
 # standardized residuals
@@ -67,7 +61,37 @@ head(mydata)
 #data$binary <- ifelse(data$item > 3, 0, 1)
 
 
+
+
+
 ```
+
+#Calculate sum scores
+```{r}
+# Calculate sum scores for each scale
+mydata$MEQ_sum <- rowSums(mydata[, paste0("MEQ", 1:30)], na.rm = TRUE)
+mydata$CEQ_sum <- rowSums(mydata[, paste0("CEQ", 1:26)], na.rm = TRUE)
+mydata$AWES_sum <- rowSums(mydata[, paste0("AWES", 1:30)], na.rm = TRUE)
+mydata$ESAT_sum <- rowSums(mydata[, paste0("ESAT", 1:18)], na.rm = TRUE)
+mydata$EDI_sum <- rowSums(mydata[, paste0("EDI", 1:8)], na.rm = TRUE)
+mydata$SWLS_sum <- rowSums(mydata[, paste0("SWLS", 1:5)], na.rm = TRUE)
+mydata$NADA_S_sum <- rowSums(mydata[, paste0("NADA_S", 1:3)], na.rm = TRUE)
+mydata$ASC11D_sum <- rowSums(mydata[, paste0("ASC11D", 1:11)], na.rm = TRUE)
+mydata$ASC11DShort_sum <- mydata[,"ASC11DShort1"]  # Only one item, so it's just the item itself
+mydata$EISI_sum <- rowSums(mydata[, paste0("EISI", 1:25)], na.rm = TRUE)
+
+# For scales ending with 'lastItem', you need to adjust the range according to the last item number
+# Assuming 'lastItem' for INOE is 'n' and for APEI is 'm'
+# Replace 'n' and 'm' with the actual last item numbers for INOE and APEI scales
+mydata$INOE_sum <- rowSums(mydata[, paste0("INOE", 1:n)], na.rm = TRUE)
+mydata$APEQ_S_sum <- rowSums(mydata[, paste0("APEQ_S", 1:12)], na.rm = TRUE)
+mydata$LAP_sum <- rowSums(mydata[, paste0("LAP", 1:56)], na.rm = TRUE)
+mydata$APEI_sum <- rowSums(mydata[, paste0("APEI", 1:m)], na.rm = TRUE)
+
+# Note: Replace 'n' and 'm' with the actual numbers of the last items for INOE and APEI scales.
+# Ensure the column names used in paste0() match exactly with those in your dataset.
+
+```	
 
 #Split Dataset
 ```{r}
@@ -318,33 +342,53 @@ anova(fit_hierarchical, fit_bifactor)
 
 ```{r}	
 # Step 1: Perform Lasso Regression
-
-# Prepare Data (assuming predictors are in columns other than 'wellbeing' and 'subjectID')
-predictors <- train_data[,-c(which(colnames(train_data) == "wellbeing"), 
-                             which(colnames(train_data) == "subjectID"))]
+# Assuming 'wellbeing' is the outcome variable and scale sum scores are predictors
+# Prepare predictors and outcome variables using scale sum scores
+predictors_scales <- train_data[, c("MEQ_sum", "CEQ_sum", "AWES_sum", "ESAT_sum", "EDI_sum", "SWLS_sum", "NADA_S_sum", "ASC11D_sum", "ASC11DShort_sum", "EISI_sum", "INOE_sum", "APEQ_S_sum", "LAP_sum", "APEI_sum")]
 outcome <- train_data$wellbeing
 
-# Fit Lasso model
-lasso_model <- cv.glmnet(x = as.matrix(predictors), y = outcome, alpha = 1, family = "gaussian")
+# Fit Lasso model using scale scores
+set.seed(123) # for reproducibility
+lasso_model_scales <- cv.glmnet(as.matrix(predictors_scales), outcome, alpha = 1, family = "gaussian")
 
-# Extract selected variables
-best_lambda <- lasso_model$lambda.min  
-selected_vars <- names(predictors)[coef(lasso_model, s = best_lambda) != 0]
+# Extract and print selected variables
+best_lambda_scales <- lasso_model_scales$lambda.min
+selected_vars_scales <- coef(lasso_model_scales, s = best_lambda_scales)[,-1] # excluding intercept
+print(selected_vars_scales)
 
-# (Optional) Create a dataframe summarizing the results. 
+# Fit Lasso model using direct item analysis
+# Replace 'item1', 'item2', ... with your actual item column names
+predictors_items <- train_data[, c("item1", "item2", "item3", ...)] # Adjust this line
+outcome <- train_data$wellbeing
+lasso_model_items <- cv.glmnet(as.matrix(predictors_items), outcome, alpha = 1, family = "gaussian")
+
+# Extract and print selected variables
+best_lambda_items <- lasso_model_items$lambda.min
+selected_vars_items <- coef(lasso_model_items, s = best_lambda_items)[,-1] # excluding intercept
+print(selected_vars_items)
+
 
 # Step 2: Correlational Analysis
-correlations <- cor(train_data[,-which(colnames(train_data) == "subjectID")])  # Calculate correlations
-wellbeing_corrs <- correlations[,"wellbeing"]  # Extract well-being correlations
-ranked_corrs <- sort(wellbeing_corrs, decreasing = TRUE) 
+# Correlation of scale scores with well-being
+correlations_scales <- cor(predictors_scales, outcome)
+print(correlations_scales)
+
+
+# Correlation of Items  with well-being
+# Assuming 'items' dataframe contains all individual items
+# Replace 'predictors_items' with the dataframe containing all your items
+correlations_items <- cor(predictors_items, outcome)
+print(correlations_items)
+
 
 # Step 3: Fit a 1-Factor Model for Well-being Questionnaires 
-# (Assuming well-being items are in columns named WB1, WB2, ...)
-wb_model_string <- paste("WB =~ WB1 + WB2 + ... + WBn", collapse = " ")
+# Assuming 'WB1' to 'WBn' are your well-being questionnaire items
+wb_model_string <- "WB =~ WB1 + WB2 + ... + WBn" # Adjust this line
 wb_fit <- cfa(wb_model_string, data = train_data, estimator = "ML")
 summary(wb_fit, fit.measures = TRUE, standardized = TRUE)
 
-# Step 4: Extract Factor Scores
-factor_scores <- lavPredict(wb_fit)  # Assumes good model fit 
+# Extract factor scores if the model fits well
+factor_scores <- lavPredict(wb_fit)
+train_data$WB_factor_score <- factor_scores[, 1]
 
 ```
