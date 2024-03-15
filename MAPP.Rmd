@@ -20,11 +20,14 @@ if (!require("readxl")) {
 if (!require("ggplot2")) {
     install.packages("ggplot2")
 }
-
+if (!require("glmnet")) {
+    install.packages("glmnet")
+}
 
 library(lavaan)
 library(readxl)
 library(ggplot2)
+library(glmnet) # for lasso regression
 
 
 ```
@@ -34,9 +37,9 @@ library(ggplot2)
 Load Data
 ```{r}
 # Load the data
-data <- HolzingerSwineford1939
-data$school <- NULL
-head(data)
+mydata <- HolzingerSwineford1939
+mydata$school <- NULL
+head(mydata)
 
 ```
 
@@ -69,6 +72,24 @@ head(data)
 #Split Dataset
 ```{r}
 # Split the data into training and testing sets
+# Splitting the data across subjects
+set.seed(123)  # Set random seed for reproducibility
+
+# 1. Identify unique subjects 
+unique_subjects <- unique(mydata$subjectID)  # Assuming you have a 'subjectID' column
+
+# 2. Calculate number of subjects for training and testing sets
+n_train <- round(0.70 * length(unique_subjects))  # 70% of subjects for training
+n_test <- length(unique_subjects) - n_train
+
+# 3. Randomly sample subjects for training and testing sets
+train_subjects <- sample(unique_subjects, n_train)
+test_subjects <- setdiff(unique_subjects, train_subjects)
+
+# 4. Create training and testing datasets
+train_data <- mydata[mydata$subjectID %in% train_subjects, ]
+test_data  <- mydata[mydata$subjectID %in% test_subjects, ]
+
 ```
 
 #Contingency Assumption
@@ -95,13 +116,13 @@ head(data)
 # Constructing the model string
 # Here we concatenate 'Mystic =~' with all item names, joined by ' + '
 
-model_string <- paste("Mystic =~", paste(names(data)[2:length(names(data))], collapse=" + "))
+model_string <- paste("Mystic =~", paste(names(train_data)[2:length(names(train_data))], collapse=" + "))
 
 # Print the model string to check it
 # cat(modelString)
 
 # Fit the model
-fit_normal <- cfa(model_string, data = data, estimator = "ML")
+fit_normal <- cfa(model_string, data = train_data, estimator = "ML")
 
 # Summarize the fit
 summary(fit_normal, fit.measures = TRUE, standardized = TRUE)
@@ -173,7 +194,7 @@ model_hierarchical <- '
 '
 
 # Fit the hierarchical model 
-fit_hierarchical <- cfa(model_hierarchical, data = data, estimator = "ML")
+fit_hierarchical <- cfa(model_hierarchical, data = mydata, estimator = "ML")
 
 # Summarize the model fit and interpret the results
 summary(fit_hierarchical, fit.measures = TRUE, standardized = TRUE)
@@ -211,7 +232,7 @@ model_bifactor <- '
 # orthogonal = TRUE makes all exogenous LVs in the model uncorrelated
 #because we constrained the loadings for the domain-specific LVs with only two indicator 
 #If we do not use this argument, then all the constrained factor loadings are set to 1 
-fit_bifactor <- cfa(model_bifactor, data = data, orthogonal = TRUE, std.lv=TRUE, estimator = "ML")
+fit_bifactor <- cfa(model_bifactor, data = mydata, orthogonal = TRUE, std.lv=TRUE, estimator = "ML")
 
 # Summarize the model fit and interpret the results
 summary(fit_bifactor, fit.measures = TRUE, standardized = TRUE)
@@ -293,4 +314,37 @@ anova(fit_hierarchical, fit_bifactor)
 # - Process: Use the factor model to compute a score for each subject that represents their level of well-being.
 
 # - Output: Factor scores for each subject ?
+```
+
+```{r}	
+# Step 1: Perform Lasso Regression
+
+# Prepare Data (assuming predictors are in columns other than 'wellbeing' and 'subjectID')
+predictors <- train_data[,-c(which(colnames(train_data) == "wellbeing"), 
+                             which(colnames(train_data) == "subjectID"))]
+outcome <- train_data$wellbeing
+
+# Fit Lasso model
+lasso_model <- cv.glmnet(x = as.matrix(predictors), y = outcome, alpha = 1, family = "gaussian")
+
+# Extract selected variables
+best_lambda <- lasso_model$lambda.min  
+selected_vars <- names(predictors)[coef(lasso_model, s = best_lambda) != 0]
+
+# (Optional) Create a dataframe summarizing the results. 
+
+# Step 2: Correlational Analysis
+correlations <- cor(train_data[,-which(colnames(train_data) == "subjectID")])  # Calculate correlations
+wellbeing_corrs <- correlations[,"wellbeing"]  # Extract well-being correlations
+ranked_corrs <- sort(wellbeing_corrs, decreasing = TRUE) 
+
+# Step 3: Fit a 1-Factor Model for Well-being Questionnaires 
+# (Assuming well-being items are in columns named WB1, WB2, ...)
+wb_model_string <- paste("WB =~ WB1 + WB2 + ... + WBn", collapse = " ")
+wb_fit <- cfa(wb_model_string, data = train_data, estimator = "ML")
+summary(wb_fit, fit.measures = TRUE, standardized = TRUE)
+
+# Step 4: Extract Factor Scores
+factor_scores <- lavPredict(wb_fit)  # Assumes good model fit 
+
 ```
