@@ -278,6 +278,7 @@ lavaanPlot(lavaan(HS.model_bifactor))
 ```{r}
 
 #lavtest(lavaan object)
+
 ```
 
 ```{r}'
