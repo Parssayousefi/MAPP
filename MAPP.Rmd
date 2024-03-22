@@ -151,7 +151,10 @@ fit_normal <- cfa(model_string, data = train_data, estimator = "ML")
 # Summarize the fit
 summary(fit_normal, fit.measures = TRUE, standardized = TRUE)
 ```
-
+#check if model is correct based on grapohs
+```{r}  
+lavaanPlot(lavaan(HS.fit_normal))
+```
 #check residuals
 ```{r}
 
@@ -225,6 +228,10 @@ summary(fit_hierarchical, fit.measures = TRUE, standardized = TRUE)
 
 
 ```
+#check if model is correct based on grapohs
+```{r}  
+lavaanPlot(lavaan(HS.model_hierarchical))
+```
 
 #bi-factor Model
 ```{r}
@@ -261,6 +268,19 @@ fit_bifactor <- cfa(model_bifactor, data = mydata, orthogonal = TRUE, std.lv=TRU
 # Summarize the model fit and interpret the results
 summary(fit_bifactor, fit.measures = TRUE, standardized = TRUE)
 ```	
+#check if model is correct based on grapohs
+```{r}  
+lavaanPlot(lavaan(HS.model_bifactor))
+```
+
+#lav test: ist die abweichung der smnqaple corr matrix gfroß  genug von der model based matrix um die hypo zu verwerfen, dass das model wahr ist. 
+# p wert für 0 hypothesis test. 
+```{r}
+
+#lavtest(lavaan object)
+```
+
+```{r}'
 
 # Compare the models
 ```{r}
@@ -286,60 +306,12 @@ anova(fit_hierarchical, fit_bifactor)
 
 #Contingency Fit
 ```{r}
-#What if the initial model doesnt fit?
+#What if the initial model doesnt fit? Modi indices!
 
 
 ```
 
 # What is the best predictor of well being?
-```{r}
-#Pseudocode
-
-# Step 1: Perform Lasso Regression
-
-# - Lasso regression to predict well-being .
-
-# - Input: Dataset with variables potentially related to well-being.
-
-# - Process: Apply Lasso regression to select relevant variables and predict well-being.
-
-# - Output: Model that predicts well-being, including selected variables.
-
- 
-
-# Step 2: Correlational Analysis
-
-# - Determine the correlation between each item (variable) and well-being.
-
-# - Input: Dataset with items and well-being scores.
-
-# - Process: Calculate correlation coefficients for each item with respect to well-being.
-
-# - Output: List of items ranked by their correlation with well-being.
-
- 
-
-# Step 3: Fit 1 Factor Model for Well-being Questionnaires
-
-# - Input: Responses to well-being questionnaires.
-
-# - Process: Apply CFA to determine whether a 1 factor model fits the data.
-
-# - Output: Fit emasures; factor loadings for each item.
-
- 
-
-# Step 4: Extract Factor Scores
-
-# - If the 1 factor model is a good fit, calculate factor scores for each subject.
-
-# - Input: Factor loadings and individual responses to questionnaires.
-
-# - Process: Use the factor model to compute a score for each subject that represents their level of well-being.
-
-# - Output: Factor scores for each subject ?
-```
-
 ```{r}	
 # Step 1: Perform Lasso Regression
 # Assuming 'wellbeing' is the outcome variable and scale sum scores are predictors
@@ -381,7 +353,7 @@ correlations_items <- cor(predictors_items, outcome)
 print(correlations_items)
 
 
-# Step 3: Fit a 1-Factor Model for Well-being Questionnaires 
+# Step 3: Fit a 1-Factor Model for Well-being Questionnaires # might not be needed!
 # Assuming 'WB1' to 'WBn' are your well-being questionnaire items
 wb_model_string <- "WB =~ WB1 + WB2 + ... + WBn" # Adjust this line
 wb_fit <- cfa(wb_model_string, data = train_data, estimator = "ML")
