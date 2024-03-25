@@ -1,5 +1,5 @@
 ---
-title           : "Many-analysts Psychedelics project: Measurement of Psychedelic Experiences"
+title           : "Many-analysts Psychedelics Project: Underlying Factors of Psychedelic Questionaires"
 shorttitle      : "MAPP"
 date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
 
@@ -77,9 +77,11 @@ Our study employs a many-analyst, observational design to explore factor structu
 
 Example: We will use block randomization, where each participant will be randomly assigned to one of the four equally sized, predetermined blocks. The random number list used to create these four blocks will be created using the web applications available at https://random.org. -->
 
-Randomization is directly not applicable to the design of our study, as it involves the secondary analysis of pre-existing datasets rather than the direct allocation of treatments or interventions to subjects. 
+Randomization is directly not applicable to the design of our study, as it involves the analysis of a dataset that has already been collected by collaborators rather than the direct allocation of treatments or interventions to subjects. 
 We will split the dataset across participants into a training and a test set. This splitting will be done randomly, ensuring that the two sets are independent of each other. The training set will be used to identify the factor structure of the scales, while the test set will be used to validate the model.
-# Sampling Plan
+
+
+## Sampling Plan
 <!-- In this section we’ll ask you to describe how you plan to collect samples, as well as the number of samples you plan to collect and your rationale for this decision. Please keep in mind that the data described in this section should be the actual data used for analysis, so if you are using a subset of a larger dataset, please describe the subset that will actually be used in your study. -->
 Our study is part of a many-analysts project and will analyze a newly collected dataset. Given the collaborative nature of this project, our analysis represents one of many, contributing to a broader understanding through the synthesis of findings across different analytical teams. At this stage, the exact number of samples in the dataset is not determined, as we do not yet have access to the data.
 
@@ -97,7 +99,7 @@ An appropriate instance of using existing data would be collecting a sample size
 
 Example: An appropriate instance of using existing data would be collecting a sample size much larger than is required for the study, using a small portion of it to conduct exploratory analysis, and then registering one particular analysis that showed promising results. After registration, conduct the specified analysis on that part of the dataset that had not been investigated by the researcher up to that point. -->
 
-Enter your response here.
+Since our project centers around a newly collected dataset for a many-analyst approach, the concept of "existing data" doesn't directly apply as traditionally defined. However, to ensure the integrity and impartiality of our analysis, we have established protocols to prevent any one analyst or team from having advance access to the dataset or its summary statistics before the analysis begins. The dataset will be revealed to all participating analysts simultaneously, after the completion of data collection, to guarantee that all analyses are conducted without prior knowledge of the data's characteristics. 
 
 
 ## Data collection procedures
@@ -107,15 +109,14 @@ The answer to this question requires a specific set of instructions so that anot
 
 Example: Participants will be recruited through advertisements at local pastry shops. Participants will be paid $10 for agreeing to participate (raised to $30 if our sample size is not reached within 15 days of beginning recruitment). Participants must be at least 18 years old and be able to eat the ingredients of the pastries. -->
 
-Enter your response here.
-
+For detailed information on the data collection process, including participant recruitment, selection criteria, and survey methodology, please refer to the original study documentation. As this project involves a many-analyst approach to analyze the dataset, specific details on data collection are beyond the scope of our analysis plan. For comprehensive insights into the procedures and methodologies employed in gathering the data, we recommend consulting the primary source of the dataset.
 
 ## Sample size
 <!-- Describe the sample size of your study. How many units will be analyzed in the study? This could be the number of people, birds, classrooms, plots, interactions, or countries included. If the units are not individuals, then describe the size requirements for each unit. If you are using a clustered or multilevel design, how many units are you collecting at each level of the analysis? For some studies, this will simply be the number of samples or the number of clusters. For others, this could be an expected range, minimum, or maximum number.
 
 Example: Our target sample size is 280 participants. We will attempt to recruit up to 320, assuming that not all will complete the total task. -->
 
-Enter your response here.
+As this project employs a many-analyst approach, the exact sample size to be analyzed is not determined by out team.
 
 
 ## Sample size rationale
@@ -123,7 +124,7 @@ Enter your response here.
 
 Example: We used the software program G*Power to conduct a power analysis. Our goal was to obtain .95 power to detect a medium effect size of .25 at the standard .05 alpha error probability. -->
 
-Enter your response here.
+Given the collaborative nature of our project and the diversity of statistical methods to be employed by various analysts, our primary concern is to collect as rich and varied a dataset as possible. The sample size, therefore, will be influenced by practical considerations such as the availability of participants and the resources available for data collection. The goal is to maximize the sample size within these constraints. 
 
 
 ## Stopping rule
@@ -133,7 +134,8 @@ You may specify a stopping rule based on p-values only in the specific case of s
 
 Example: We will post participant sign-up slots by week on the preceding Friday night, with 20 spots posted per week. We will post 20 new slots each week if, on that Friday night, we are below 320 participants. -->
 
-Enter your response here.
+
+A stopping rule does not apply to our project as we are not directly involved in the data collection process.
 
 
 
@@ -146,8 +148,7 @@ Enter your response here.
 
 Example: We manipulated the percentage of sugar by mass added to brownies. The four levels of this categorical variable are: 15%, 20%, 25%, or 40% cane sugar by mass. -->
 
-Enter your response here.
-
+Not applicable to this study.
 
 ## Measured variables
 <!-- Describe each variable that you will measure. This will include outcome measures, as well as any predictors or covariates that you will measure. You do not need to include any variables that you plan on collecting if they are not going to be included in the confirmatory analyses of this study.
@@ -156,7 +157,16 @@ Observational studies and meta-analyses will include only measured variables. As
 
 Example: The single outcome variable will be the perceived tastiness of the single brownie each participant will eat. We will measure this by asking participants ‘How much did you enjoy eating the brownie’ (on a scale of 1-7, 1 being 'not at all', 7 being 'a great deal') and 'How good did the brownie taste' (on a scale of 1-7, 1 being 'very bad', 7 being 'very good'). -->
 
-Enter your response here.
+For Research Question 1 (common factor structure):
+
+Measured Variables: The sum scores of the scales MEQ, CEQ, AWES, ESAT, EDI, SWLS, NADA_S, ASC11D, ASC11DShort, EISI, INOE, APEQ_S, LAP, and APEI. These sum scores are calculated based on responses to individual items within each scale.
+For Research Question 2 (best predictor of well-being):
+
+Outcome Variable: Well-being, operationalized through scale scores related to psychological well-being (potentially represented by SWLS sum scores or similar).
+Predictors: Sum scores of all analyzed scales, including but not limited to MEQ_sum, CEQ_sum, AWES_sum, ESAT_sum, EDI_sum, NADA_S_sum, ASC11D_sum, EISI_sum, INOE_sum, APEQ_S_sum, LAP_sum, and APEI_sum.
+For Research Question 3 (most important conclusion/finding):
+
+Variables Involved: Factor scores, residuals, and other derived statistics from Confirmatory Factor Analysis (CFA), Hierarchical Model, and Bi-factor Model analyses. These include standardized residuals and model fit indices (e.g., RMSEA, CFI) to interpret the data's underlying structure and the relationships between scales.
 
 
 ## Indices
