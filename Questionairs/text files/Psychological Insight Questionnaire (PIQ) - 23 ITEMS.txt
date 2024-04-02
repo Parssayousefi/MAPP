@@ -1,0 +1,20 @@
+
+PsychInsight1 Looking back at your first psychedelic experience, please rate the degree to which at any time during that session you experienced the following phenomena. Answer each question according to your feelings, thoughts, and experiences at the time of your first psychedelic experience.
+
+	No; not at all (0)	So slightly cannot decide (1)	Slightly (2)	Moderately (3)	Strongly (4)	Extremely (more than ever before in my life) (5)
+1.	Awareness of uncomfortable or painful feelings I previously avoided. (PsychInsight_1) 	o		o		o		o		o		o	
+2.	Realized the importance of my life. (PsychInsight_2) 	o		o		o		o		o		o	
+3.	Discovered I could explore uncomfortable or painful feelings I previously avoided. (PsychInsight_3) 	o		o		o		o		o		o	
+4.	Awareness of information that helped me understand my life. (PsychInsight_4) 	o		o		o		o		o		o	
+5.	Awareness of dysfunctional patterns in my actions, thoughts, and/or feelings. (PsychInsight_5) 	o		o		o		o		o		o	
+6.	Discovered a vivid sense of the paradoxes in life. (PsychInsight_6) 	o		o		o		o		o		o	
+7.	Realized the nature and/or origins of my defenses or other coping strategies. (PsychInsight_7) 	o		o		o		o		o		o	
+8.	Awareness of my life purpose, goals, and/or priorities. (PsychInsight_8) 	o		o		o		o		o		o	
+9.	Realized how current feelings or perceptions are related to events from my past. (PsychInsight_9) 	o		o		o		o		o		o	
+10.	Discovered a clear pattern of avoidance in my life. (PsychInsight_10) 	o		o		o		o		o		o	
+11.	Discovered new actions that may help me achieve my goals. (PsychInsight_11) 	o		o		o		o		o		o	
+
+
+
+PsychInsight2 Reminder of instructions: Looking back at your first psychedelic experience, please rate the degree to which at any time during that session you experienced the following phenomena. Answer each question according to your feelings, thoughts, and experiences at the time of your first psychedelic experience.
+

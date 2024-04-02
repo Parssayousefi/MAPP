@@ -41,5 +41,4 @@ def parse_questionnaire(docx_path):
             file.write("\n".join(contents))
         print(f"Block '{block_name}' saved to {filename}.")
 
-# Example usage
-parse_questionnaire("\Questionairs\Scale_Survey.docx")
+parse_questionnaire(".\\Questionairs\\Scale_Survey.docx")

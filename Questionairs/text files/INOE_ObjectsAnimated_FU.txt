@@ -1,0 +1,50 @@
+
+INOE_ObjAnimated_FU1 When you had the experience, were you … (Select the most important)
+Using drugs or alcohol  (4)
+Affected by mental or physical illness  (3)
+Falling asleep, waking up, or exhausted  (2)
+Asleep (dreaming)  (1)
+None of the above  (0)
+
+
+
+INOE_ObjAnimated_FU2 Overall, how much of an impact has this experience had on your life?
+Little or no impact  (0)
+Some impact  (1)
+Major impact  (2)
+
+
+
+INOE_ObjAnimated_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been more positive or negative?
+Very positive effect  (4)
+Somewhat positive effect  (3)
+Neutral or no effect  (2)
+Somewhat negative effect  (1)
+Very negative effect  (0)
+
+
+
+INOE_ObjAnimated_FU4 Do you consider this experience spiritual or religious?
+Yes  (1)
+No  (0)
+
+
+
+INOE_ObjAnimated_FU5 Do you think science can explain how this experience happened?
+Yes, science can or will be able to explain it.  (1)
+No, something More is involved.  (0)
+
+
+
+INOE_ObjAnimated_FU6 Why do you think it happened to you? (Select the closest answer.)
+To offer me a sign or message  (3)
+To reward or punish me for my actions  (2)
+Due to destiny/fate  (1)
+None of the above (may include chance/probability)  (0)
+
+
+
+INOE_ObjAnimated_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+God or gods  (2)
+Other spiritual beings or forces (including the dead)  (1)
+None of the above  (0)

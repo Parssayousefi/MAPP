@@ -1,0 +1,222 @@
+
+PEQ_Relationship_1  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition. 
+    
+1. You have become more sensitive to the needs of others.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_2 2. You have become less sensitive to the needs of others.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_3 
+3. You now feel a decreased desire for service to others.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_4 4. You now feel an increased desire for service to others.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+
+PEQ_Relationship_5 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition. 
+    
+5. You are more tolerant toward others.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_6 6. You are less tolerant toward others.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_7 
+7. You have a more positive relationship with others.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_8 8. You have a more negative relationship with others.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+
+PEQ_Relationship_9 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition. 
+    
+9. You express more hatred toward others.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_10 10. You express more love toward others.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_11 
+11. You have reduced interpersonal perceptiveness (i.e., empathy, sensitivity).
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_12 12. You have greater interpersonal perceptiveness (i.e., empathy, sensitivity).
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+
+PEQ_Relationship_13 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition. 
+    
+13. Your expression of anger in ways that unnecessarily hurt others (e.g. ridicule, outward expression of irritability) has decreased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_14 14. Your expression of anger in ways that unnecessarily hurt others (e.g. ridicule, outward expression of irritability) has increased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_15 
+15. Your social concern/compassion has decreased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_16 16. Your social concern/compassion has increased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+
+PEQ_Relationship_17 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition. 
+ 
+ 17. Your concern about vulnerable people has decreased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_18 18. Your concern about vulnerable people has increased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_19 
+19. Your interest in promoting awareness of social justice issues has decreased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Relationship_20 20. Your interest in promoting awareness of social justice issues has increased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)

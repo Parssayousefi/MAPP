@@ -1,0 +1,278 @@
+
+CEQ_1 
+Looking back at your first psychedelic experience, please rate the degree to which at any time during that session you experienced the following phenomena. Answer each question according to your feelings, thoughts, and experiences at the time of your first psychedelic experience. In making each of your ratings, use the provided scale:  
+   
+1. Isolation and loneliness
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_2 2. Sadness
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_3 
+3. Feeling my heart beating
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_4 4. I had the feeling something horrible would happen
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+
+CEQ_5 
+5. Feeling my body shake/tremble
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_6 6. Feelings of grief
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_7 
+7. Experience of fear
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_8 8. Fear that I might lose my mind or go insane
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+
+CEQ_9 
+9. I felt like crying
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_10 10. Feeling of isolation from people and things
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_11 
+11. Feelings of despair
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_12 12. I had the feeling that people were plotting against me
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+
+CEQ_13 
+13. I was afraid that the state I was in would last forever
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_14 14. Anxiousness
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_15 
+15. I felt shaky inside
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_16 16. I had the profound experience of my own death
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+
+CEQ_17 
+17. I felt my heart beating irregularly or skipping beats
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_18 18. Pressure or weight in my chest or abdomen
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_19 
+19. I experienced a decreased sense of sanity
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_20 20. I felt as if I was dead or dying
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_21 
+21. Panic
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_22 22. Experience of antagonism toward people around me
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_23 
+23. Despair
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_24 24. I felt isolated from everything and everyone
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+
+CEQ_25 
+25. Emotional and/or physical suffering
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)
+
+
+
+CEQ_26 26. I felt frightened
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 – strong  (4)
+5 – extreme (more than ever before in my life)  (5)

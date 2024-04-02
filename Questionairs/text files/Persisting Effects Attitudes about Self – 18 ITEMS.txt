@@ -1,0 +1,209 @@
+
+PEQ_AttitudeSelf_1  
+ 
+ 
+This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status prior to your first psychedelic experience, please evaluate your present condition.     
+   
+   
+1. You feel less creative.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_2  2. You feel more creative.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_3  
+ 
+ 
+3. You are a more authentic person.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_4  4. You are a less authentic person.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_5  
+ 
+ 
+
+5. You have more good-natured humor/playfulness/lightness of being.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_6  6. You have less good-natured humor/playfulness/lightness of being.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_7  
+ 
+ 
+
+7. You have less patience/ability to tolerate frustration.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_8  8. You have more patience/ability to tolerate frustration.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_9  
+ 
+9. You have less mental flexibility/open-mindedness.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_10  10. You have more mental flexibility/open-mindedness.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_11  
+ 
+ 
+11. Your self-confidence/self-assurance has increased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_12  12. Your self-confidence/self-assurance has decreased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_13  
+ 
+13. You are more honest with yourself.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_14  14. You are less honest with yourself.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_15  
+ 
+ 
+ 
+15. You are less able to tolerate your own suffering.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_16  16. You are more able to tolerate your own suffering.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_17 
+ 
+ 
+17. You are less concerned with thoughts and feelings about your body.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeSelf_18  18. You are more concerned with thoughts and feelings about your body.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)

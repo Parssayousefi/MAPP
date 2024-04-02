@@ -1,0 +1,135 @@
+
+PEQ_Religion_1 
+ 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition. 
+     
+1. You feel more effective overall in your role as a religious leader.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Religion_2  2. You feel less effective overall in your role as a religious leader.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Religion_3  
+ 
+3. You now have a deeper understanding of the essence of your religious tradition.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Religion_4  4. You now have a less deep understanding of the essence of your religious tradition.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Religion_5  
+ 
+5. You now have more passion for sharing the essence of your religious understanding/faith.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Religion_6  6. You now have less passion for sharing the essence of your religious understanding/faith.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+
+PEQ_Religion_7  
+ 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition. 
+     
+7. You now have more eagerness to engage in the world as a religious professional.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Religion_8  8. You now have less eagerness to engage in the world as a religious professional.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Religion_9  
+ 
+9. You are less certain about the positive role of religion in the world.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Religion_10  10. You are more certain about the positive role of religion in the world.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Religion_11  
+ 
+11. In your religious thinking, you now have an increased tolerance of paradox (i.e., "Both/And" instead of "Either/Or").
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Religion_12  12. In your religious thinking, you now have a decreased tolerance of paradox (i.e., "Both/And" instead of "Either/Or").
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)

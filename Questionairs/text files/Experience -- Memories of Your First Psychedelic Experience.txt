@@ -1,0 +1,112 @@
+
+Remeber_firstExp Take a few moments now to recollect and bring to mind your first psychedelic experience.
+
+
+Please answer all of the following questions in this survey ONLY with respect to your first psychedelic experience.
+
+
+
+ClearMemory How clear are your memories of your first psychedelic experience?
+Not very clear  (1)
+Somewhat clear  (2)
+Clear  (3)
+Very clear  (4)
+Completely clear  (5)
+
+
+
+Spec_PsychedelSub Please indicate which classic psychedelic substance you took for your first psychedelic experience:
+Psilocybin mushrooms (magic mushrooms)  (1)
+LSD (Acid)  (3)
+Mescaline (including Peyote and San Pedro cacti)  (4)
+Ayahuasca  (5)
+DMT  (6)
+5-MeO-DMT  (7)
+
+
+
+TimeSinceFirstExp Approximately how long ago did your first psychedelic experience occur?
+
+
+
+
+
+SizeDose How would you characterize this dose?
+Low  (1)
+Moderate  (2)
+Moderately High  (3)
+High  (4)
+
+
+
+
+OtherPsychoSub Were you under the influence of any other psychoactive substance at the time of the experience (excluding caffeine and nicotine)?
+Yes  (1)
+No  (0)
+Unsure  (7)
+
+
+Display This Question:
+If Were you under the influence of any other psychoactive substance at the time of the experience (e... = Yes
+
+OtherPsychoSub_spec Which other substance(s) were you under the influence of? Select all that apply.
+Note: This includes medications prescribed or not prescribed.
+Alcohol  (2)
+MDMA  (3)
+Classic Psychedelics (e.g., psilocybin, LSD, 5-MeO-DMT)  (4)
+Novel psychoactive substances  (5)
+Cannabis/Marijuana  (7)
+Amphetamines  (9)
+Opiates  (11)
+Ketamine  (14)
+Inhalants  (15)
+Cocaine  (17)
+Benzodiazepines  (21)
+Other non-medical  (22)
+Other medical  (14)
+
+
+
+Motivation_firstexp What were your principal motivations in having this psychedelic experience? Select all that apply.
+Recreational  (1)
+Spiritual exploration  (2)
+Experimentation  (3)
+To learn about myself  (4)
+To heal a trauma  (6)
+To treat an addiction  (7)
+To treat depression  (8)
+To treat anxiety  (9)
+To distract myself/escape from problems  (10)
+Other  (11) __________________________________________________
+
+
+
+Context_firstexp In what context did you have this psychedelic experience?
+In my home  (1)
+At someone else's home  (2)
+Somewhere open/in nature  (3)
+At a festival or large party  (5)
+Other   (7) __________________________________________________
+
+
+
+formritual_firstexp Did your first psychedelic experience occur in the context of a formal ceremony or ritual (e.g. with a shaman or other spiritual leader facilitating the session)?
+Yes  (1)
+No  (2)
+
+
+
+Firstexp_withppl Did you have this psychedelic experience mostly alone or mostly with others?
+Alone  (1)
+With others  (2)
+
+
+
+PhysComfort_firstexp The physical comfort and safety of the surroundings were conducive to (supportive of) having a positive experience.
+Yes  (1)
+No  (2)
+
+
+
+Describe_firstexp Optional: If you'd like, you can describe this psychedelic experience in the box below. Your description can be as long or as short as you wish.
+________________________________________________________________

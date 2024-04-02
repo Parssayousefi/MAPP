@@ -1,0 +1,21 @@
+
+PEQ_Behavior_1 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition.   
+
+ 1. Your behavior has changed in ways you would consider negative since the experience.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Behavior_2 2. Your behavior has changed in ways you would consider positive since the experience.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)

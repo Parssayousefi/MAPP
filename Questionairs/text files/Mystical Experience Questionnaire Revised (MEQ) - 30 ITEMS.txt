@@ -1,0 +1,323 @@
+
+MEQ_1 
+Looking back at your first psychedelic experience, please rate the degree to which at any time during that session you experienced the following phenomena. Answer each question according to your feelings, thoughts, and experiences at the time of your first psychedelic experience. Use the scale in making each of your ratings:  
+
+ 1. Loss of your usual sense of time.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_2 2. Experience of amazement.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+
+MEQ_3 
+3. Sense that the experience cannot be described adequately in words.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_4 4. Gain of insightful knowledge experienced at an intuitive level.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+
+MEQ_5 
+5. Feeling that you experienced eternity or infinity.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_6 6. Experience of oneness or unity with objects and/or persons perceived in your surroundings.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+
+MEQ_7 
+7. Loss of your usual sense of space.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_8 8. Feelings of tenderness and gentleness.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_9 
+9. Certainty of encounter with ultimate reality (in the sense of being able to “know” and “see” what is really real at some point during your experience.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_10 10. Feeling that you could not do justice to your experience by describing it in words.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+
+MEQ_11 
+11. Loss of usual awareness of where you were.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_12 12. Feelings of peace and tranquility.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_13 
+13. Sense of being “outside of” time, beyond past and future.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_14 14. Freedom from the limitations of your personal self and feeling a unity or bond with what was felt to be greater than your personal self.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+
+MEQ_15 
+15. Sense of being at a spiritual height.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_16  16. Experience of pure being and pure awareness (beyond the world of sense impressions).
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_17 
+17. Experience of ecstasy.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_18 18. Experience of the insight that “all is One”.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_19 
+19. Being in a realm with no space boundaries.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_20 20. Experience of oneness in relation to an “inner world” within.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+
+MEQ_21 
+21. Sense of reverence.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_22 22. Experience of timelessness.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+
+MEQ_23 
+23. You are convinced now, as you look back on your experience, that in it you encountered ultimate reality (i.e., that you “knew” and “saw” what was really real).
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_24 24. Feeling that you experienced something profoundly sacred and holy.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_25 
+25. Awareness of the life or living presence in all things.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_26 26. Experience of the fusion of your personal self into a larger whole.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_27 
+27. Sense of awe or awesomeness.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_28 28. Experience of unity with ultimate reality.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+
+MEQ_29 
+29. Feeling that it would be difficult to communicate your own experience to others who have not had similar experiences.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)
+
+
+
+MEQ_30 30. Feelings of joy.
+0 - none; not at all  (0)
+1 - so slight cannot decide  (1)
+2 - slight  (2)
+3 - moderate  (3)
+4 - strong (equivalent in degree to any previous strong experience or expectation of this description)  (4)
+5 - extreme (more than ever before in my life and stonger than 4)  (5)

@@ -1,0 +1,97 @@
+
+PEQ_Misc_1 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition. 
+   1. You are now more certain about the veracity of certain metaphysical religious teachings or concepts (e.g. nirvana, heaven, hell, karma, reincarnation).
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Misc_2 2. You are now less certain about the veracity of certain metaphysical religious teachings or concepts (e.g. nirvana, heaven, hell, karma, reincarnation).
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Misc_3  
+ 
+3. You spend less time in devotional life.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Misc_4  4. You spend more time in devotional life.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+
+PEQ_Misc_5  
+ 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition. 
+      5. You have learned something useful from the experience.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Misc_6  6. You feel that you now know a new dimension of life.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Misc_7  
+7. You are convinced now in retrospect that you encountered ultimate reality in your experience (i.e., that what you "knew" and "saw" was really real).
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Misc_8  8. You now feel that the meaning of your own experience is beyond words.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_Misc_9  9. You now feel that your life has taken a definite change of course because of this experience.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)

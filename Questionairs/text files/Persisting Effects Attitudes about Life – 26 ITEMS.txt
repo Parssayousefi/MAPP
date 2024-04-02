@@ -1,0 +1,330 @@
+
+PEQ_AttitudeLife_1 
+ 
+This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition. 
+   
+1. The experience has changed your philosophy of life positively.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_2 2. The experience has changed your philosophy of life negatively.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_3 
+ 
+ 
+ 
+
+3. Your appreciation for life has increased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_4 4. Your appreciation for life has decreased.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+
+PEQ_AttitudeLife_5 
+ 
+5. Your life has a diminished dynamic quality.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_6 6. Your life has a heightened dynamic quality.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_7 
+ 
+ 
+ 
+7. Your life has less meaning.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_8 8. Your life has more meaning.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_9 
+ 
+ 
+ 
+9. You have less enthusiasm for life in general.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_10 10. You have more enthusiasm for life in general.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+
+PEQ_AttitudeLife_11 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition.   
+
+ 11. Your sense of values (i.e., what is important to you in life) has changed positively.
+none; none at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_12 12. Your sense of values (i.e., what is important to you in life) has changed negatively.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_13 
+ 
+ 
+ 
+ 
+ 
+13. Your life has more richness.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_14 14. Your life has less richness.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+
+PEQ_AttitudeLife_15 
+ 
+ 
+ 
+ 
+ 
+15. You have more joy in your life.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_16 16. You have less joy in your life.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_17 
+ 
+ 
+ 
+ 
+17. Your experience has been a hindrance for your life.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_18 18. Your experience has been valuable for your life.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+
+PEQ_AttitudeLife_19 
+ 
+ 
+ 
+ 
+ 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition.      
+     
+19. You have more optimism.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_20 20. You have less optimism.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_21 
+ 
+ 
+ 
+ 
+ 
+21. You have more trust that everything in life will work out all right.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_22 22. You have less trust that everything in life will work out all right.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+
+PEQ_AttitudeLife_23 
+ 
+ 
+ 
+ 
+ 
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due to the experiences during your first psychedelic experience and your contemplation of those experiences. Using for comparison your status before your first psychedelic experience, please evaluate your present condition. 
+ 
+ 23. You are more preoccupied with your future.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_24 24. You are less preoccupied with your future.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_25 
+ 
+ 
+ 
+ 
+ 
+25. You are less concerned with your past.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)
+
+
+
+PEQ_AttitudeLife_26 26. You are more concerned with your past.
+none; not at all  (0)
+so slight cannot decide  (1)
+slight  (2)
+moderate  (3)
+strong  (4)
+extreme (more than ever before in your life)  (5)

@@ -1,0 +1,4 @@
+
+INOE_Paralysis I have been unable to move or communicate because my body, my limbs, or my voice was paralyzed.
+Yes  (1)
+No  (0)

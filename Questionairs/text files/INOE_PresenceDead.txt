@@ -1,0 +1,4 @@
+
+INOE_PresenceDead I have sensed the presence of, or interacted with, a person who was dead, either directly or with the assistance of another person.
+Yes  (1)
+No  (0)
