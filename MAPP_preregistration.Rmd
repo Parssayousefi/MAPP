@@ -57,7 +57,11 @@ Enter your response here.
 
 ## Study type
 
+
 **Observational Study**. Data will be analyzed from existing scales that measure psychedelic experiences, without the need for direct intervention or random assignment of treatments. This involves the statistical examination of previously collected datasets.
+
+- A many analysts approach will be employed, with multiple teams analyzing the same dataset to explore the same reserach qeustion regarding the factor structure of the scales. 
+
 
 ## Blinding
 <!-- Blinding describes who is aware of the experimental manipulations within a study. Select all that apply. Is there any additional blinding in this study? -->
@@ -148,7 +152,9 @@ A stopping rule does not apply to our project as we are not directly involved in
 
 Example: We manipulated the percentage of sugar by mass added to brownies. The four levels of this categorical variable are: 15%, 20%, 25%, or 40% cane sugar by mass. -->
 
-Not applicable to this study.
+
+
+Not applicable. This observational study does not involve experimental manipulation of variables. Our analyses are aimed at understanding patterns within an existing dataset.
 
 ## Measured variables
 <!-- Describe each variable that you will measure. This will include outcome measures, as well as any predictors or covariates that you will measure. You do not need to include any variables that you plan on collecting if they are not going to be included in the confirmatory analyses of this study.
@@ -160,9 +166,10 @@ Example: The single outcome variable will be the perceived tastiness of the sing
 For Research Question 1 (common factor structure):
 
 Measured Variables: The sum scores of the scales MEQ, CEQ, AWES, ESAT, EDI, SWLS, NADA_S, ASC11D, ASC11DShort, EISI, INOE, APEQ_S, LAP, and APEI. These sum scores are calculated based on responses to individual items within each scale.
+
 For Research Question 2 (best predictor of well-being):
 
-Outcome Variable: Well-being, operationalized through scale scores related to psychological well-being (potentially represented by SWLS sum scores or similar).
+Outcome Variable: Well-being, operationalized through scale scores related to psychological well-being (Satisfaction with Life Scale (SWLS), and Life Attitude Profile (LAP) ).
 Predictors: Sum scores of all analyzed scales, including but not limited to MEQ_sum, CEQ_sum, AWES_sum, ESAT_sum, EDI_sum, NADA_S_sum, ASC11D_sum, EISI_sum, INOE_sum, APEQ_S_sum, LAP_sum, and APEI_sum.
 For Research Question 3 (most important conclusion/finding):
 

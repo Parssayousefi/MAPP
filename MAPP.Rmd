@@ -330,8 +330,8 @@ selected_vars_scales <- coef(lasso_model_scales, s = best_lambda_scales)[,-1] # 
 print(selected_vars_scales)
 
 # Fit Lasso model using direct item analysis
-# Replace 'item1', 'item2', ... with your actual item column names
-predictors_items <- train_data[, c("item1", "item2", "item3", ...)] # Adjust this line
+# Replace 'item1', 'item2', ... with column names
+predictors_items <- train_data[, c("item1", "item2", "item3", ...)] 
 outcome <- train_data$wellbeing
 lasso_model_items <- cv.glmnet(as.matrix(predictors_items), outcome, alpha = 1, family = "gaussian")
 
