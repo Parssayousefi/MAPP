@@ -1,0 +1,246 @@
+
+PsydelSub_Experience Have you had an experience with a psychedelic substance?  
+   
+For the purposes of this survey, "classic psychedelic" means only psilocybin mushrooms (magic mushrooms, shrooms), LSD (acid), mescaline (including Peyote and San Pedro cacti), Ayahuasca, N,N-DMT, or 5-MeO-DMT.
+Yes  (1)
+No  (0)
+
+
+Display This Question:
+If Have you had an experience with a psychedelic substance?   For the purposes of this survey, "clas... = No
+
+Disqualify_1 Thank you for your interest in this survey. Unfortunately you do not meet criteria to continue with this survey. We regularly do surveys on a variety of topics related to psychedelics, and you may be appropriate for surveys in the future.   You can learn more about ongoing research at https://hopkinspsychedelic.org/ .
+
+
+
+FirstPyschedelExp Please take a moment to remember your first psychedelic experience. This experience should be the first time you felt the effects of a psychedelic. This should be a normal dose (i.e., not a microdose). 
+   
+As a reminder, for the purposes of this survey, "classic psychedelic" means only psilocybin mushrooms, LSD (acid), mescaline (including Peyote and San Pedro cacti), Ayahuasca, N,N-DMT, or 5-MeO-DMT.  
+   
+Can you remember your first psychedelic experience?
+Yes  (1)
+No  (2)
+
+
+Display This Question:
+If Have you had an experience with a psychedelic substance?   For the purposes of this survey, "clas... = No
+
+Disqualify_2 Thank you for your interest in this survey. Unfortunately, you do not meet criteria to continue with this survey. We regularly do surveys on a variety of topics related to psychedelics, and you may be appropriate for surveys in the future.   You can learn more about ongoing research at https://hopkinspsychedelic.org/ .
+
+
+
+NumPsychedelExp How many times in your life have you taken a classic psychedelic? Please do not count microdoses (very low doses with minimal subjective effects). 
+   
+If needed, please take your best guess. As a reminder, for the purposes of this survey, "classic psychedelic" means only psilocybin mushrooms, LSD (acid), mescaline (including Peyote and San Pedro cacti), Ayahuasca,  N,N-DMT, or 5-MeO-DMT.
+▼ 1 (1) ... 101+ (101)
+
+
+
+Age_firstpsychedelex How old were you when you had your first psychedelic experience?
+▼ 2 (2) ... 101+ (101)
+
+
+
+
+Remeber_firstExp Take a few moments now to recollect and bring to mind your first psychedelic experience.
+
+
+Please answer all of the following questions in this survey ONLY with respect to your first psychedelic experience.
+
+
+
+ClearMemory How clear are your memories of your first psychedelic experience?
+Not very clear  (1)
+Somewhat clear  (2)
+Clear  (3)
+Very clear  (4)
+Completely clear  (5)
+
+
+
+Spec_PsychedelSub Please indicate which classic psychedelic substance you took for your first psychedelic experience:
+Psilocybin mushrooms (magic mushrooms)  (1)
+LSD (Acid)  (3)
+Mescaline (including Peyote and San Pedro cacti)  (4)
+Ayahuasca  (5)
+DMT  (6)
+5-MeO-DMT  (7)
+
+
+
+TimeSinceFirstExp Approximately how long ago did your first psychedelic experience occur?
+
+
+
+
+
+SizeDose How would you characterize this dose?
+Low  (1)
+Moderate  (2)
+Moderately High  (3)
+High  (4)
+
+
+
+
+OtherPsychoSub Were you under the influence of any other psychoactive substance at the time of the experience (excluding caffeine and nicotine)?
+Yes  (1)
+No  (0)
+Unsure  (7)
+
+
+Display This Question:
+If Were you under the influence of any other psychoactive substance at the time of the experience (e... = Yes
+
+OtherPsychoSub_spec Which other substance(s) were you under the influence of? Select all that apply.
+Note: This includes medications prescribed or not prescribed.
+Alcohol  (2)
+MDMA  (3)
+Classic Psychedelics (e.g., psilocybin, LSD, 5-MeO-DMT)  (4)
+Novel psychoactive substances  (5)
+Cannabis/Marijuana  (7)
+Amphetamines  (9)
+Opiates  (11)
+Ketamine  (14)
+Inhalants  (15)
+Cocaine  (17)
+Benzodiazepines  (21)
+Other non-medical  (22)
+Other medical  (14)
+
+
+
+Motivation_firstexp What were your principal motivations in having this psychedelic experience? Select all that apply.
+Recreational  (1)
+Spiritual exploration  (2)
+Experimentation  (3)
+To learn about myself  (4)
+To heal a trauma  (6)
+To treat an addiction  (7)
+To treat depression  (8)
+To treat anxiety  (9)
+To distract myself/escape from problems  (10)
+Other  (11) __________________________________________________
+
+
+
+Context_firstexp In what context did you have this psychedelic experience?
+In my home  (1)
+At someone else's home  (2)
+Somewhere open/in nature  (3)
+At a festival or large party  (5)
+Other   (7) __________________________________________________
+
+
+
+formritual_firstexp Did your first psychedelic experience occur in the context of a formal ceremony or ritual (e.g. with a shaman or other spiritual leader facilitating the session)?
+Yes  (1)
+No  (2)
+
+
+
+Firstexp_withppl Did you have this psychedelic experience mostly alone or mostly with others?
+Alone  (1)
+With others  (2)
+
+
+
+PhysComfort_firstexp The physical comfort and safety of the surroundings were conducive to (supportive of) having a positive experience.
+Yes  (1)
+No  (2)
+
+
+
+Describe_firstexp Optional: If you'd like, you can describe this psychedelic experience in the box below. Your description can be as long or as short as you wish.
+
+
+
+----
+Q1 
+Please answer the following demographic questions.  
+  What is your age?
+▼ 15 (15) ... 101+ (101)
+
+
+
+Q2 What is your race?
+White/Caucasian  (1)
+Black/African American  (2)
+Asian  (3)
+Native Hawaiian or Pacific Islander  (4)
+
+
+
+Q3 Are you hispanic?
+Yes  (1)
+No  (0)
+
+
+
+Q4 What is your sexual orientation?
+Heterosexual (straight)  (1)
+Gay  (2)
+Lesbian  (3)
+Queer  (4)
+Bisexual  (5)
+Asexual  (6)
+Aromantic  (7)
+Pansexual  (8)
+Questioning or unsure  (9)
+Other  (10) __________________________________________________
+
+
+
+Q5 What is your gender identity?
+Male  (1)
+Female  (2)
+Transgender  (3)
+Non-binary  (4)
+Genderqueer or genderfluid  (5)
+Agender  (6)
+Unsure  (7)
+Other  (8) __________________________________________________
+
+
+
+Q6 People talk about social classes such as the poor, the working class, the middle class, the upper-middle class, and the upper class. Which of these classes would you say you belong to?
+Poor  (1)
+Working class  (2)
+Middle class  (3)
+Upper-middle class  (4)
+Upper class  (5)
+
+
+
+
+Q7 What is your yearly household income?
+< $50K  (1)
+$50K - 100K  (2)
+> $100K  (3)
+
+
+
+Q8 What is your highest education level and/or degree?
+High school/GED  (1)
+Associate of Arts (AA)  (2)
+Bachelor's Degree (graduated college)  (3)
+Master's Degree  (4)
+MD/PhD/JD  (5)
+
+
+
+Q9 What is your current marital/partnership status?
+Married or living with partner  (1)
+Divorced/separated  (2)
+Widowed  (3)
+Never married  (4)
+
+
+
+Q10 What is your current employment status?
+Full-time employment  (1)
+Part-time employment  (2)
+Unemployed  (3)
+Retired  (4)
+
+________________________________________________________________

@@ -6,8 +6,6 @@ date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\.
 author: 
   - name        : Parsa Yousefi
     affiliation : 1
-  - name        : Agnese Ferrante
-    affiliation : "1"
   - name        : Julian Karch
     affiliation : "1"
 
@@ -15,7 +13,7 @@ affiliation:
   - id          : 1
     institution : Leiden University
 
-output: word_document
+output: pdf_document
 ---
 
 # Study Information
@@ -33,15 +31,17 @@ Example: Effect of sugar on brownie tastiness. -->
 
 Example: Though there is strong evidence to suggest that sugar affects taste preferences, the effect has never been demonstrated in brownies. Therefore, we will measure taste preference for four different levels of sugar concentration in a standard brownie recipe to determine if the effect exists in this pastry. -->
 
-This project, focusing on the analysis of psychedelic experiences, addresses a gap in psychedelic research: the diverse and sometimes conflicting scales used to measure such experiences. Despite the proliferation of research scales, there is a lack of consensus regarding the constructs being measured and their underlying factor structures. Our objective is to  assess the factor structure of the most commonly employed scales and their potential overlap, utilizing factor and latent class analysis.
-
-
+This project, focusing on the analysis of psychedelic experiences. Specifically, it addresses a gap in psychedelic research: the diverse and sometimes conflicting scales used to measure such experiences. Despite the proliferation of research scales, there is a lack of consensus regarding the constructs being measured and their underlying factor structures. Our objective is to assess the factor structure of the most commonly employed scales and their potential overlap, utilizing factor and analysis.
 The project revolves around two primary questions:
 
 1. Whether the current dataset supports a common factor structure ("mystical experience") underlying the diverse scales measuring the psychedelic experience.
 2. Identification of the best predictors of well-being according to our analysis.
 
 - Which qeustionaires?
+- 11D-ASC
+- The Inventory of Nonordinary Experiences (INOE)
+- The Altered States of Consciousness (ASC) scale
+
 
 ## Hypotheses
 <!-- List specific, concise, and testable hypotheses. Please state if the hypotheses are directional or non-directional. If directional, state the direction. A predicted effect is also appropriate here. If a specific interaction or moderation is important to your research, you can list that as a separate hypothesis.
