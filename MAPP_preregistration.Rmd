@@ -50,6 +50,8 @@ Example: If taste affects preference, then mean preference indices will be highe
 
 Enter your response here.
 
+Semantic Scale Network!
+
 
 # Design Plan
 <!-- In this section, you will be asked to describe the overall design of your study. Remember that this research plan is designed to register a single study, so if you have multiple experimental designs, please complete a separate preregistration. -->
@@ -176,6 +178,8 @@ For Research Question 3 (most important conclusion/finding):
 
 Predictors: Additional demographic or psychometric data collected as part of the dataset, such as age, gender, prior psychedelic use, and psychological traits or states before the psychedelic experience
 
+Semantic Scale Network!
+
 ## Indices
 <!-- If any measurements are  going to be combined into an index (or even a mean), what measures will you use and how will they be combined? Include either a formula or a precise description of your method. If your are using a more complicated statistical method to combine measures (e.g. a factor analysis), you can note that here but describe the exact method in the analysis plan section.
 
@@ -198,7 +202,7 @@ Sample Size Considerations for Fit Indices: We acknowledge the sensitivity of ch
 <!-- You may describe one or more confirmatory analysis in this preregistration. Please remember that all analyses specified below must be reported in the final article, and any additional analyses must be noted as exploratory or hypothesis generating.
 
 A confirmatory analysis plan must state up front which variables are predictors (independent) and which are the outcomes (dependent), otherwise it is an exploratory analysis. You are allowed to describe any exploratory work here, but a clear confirmatory analysis is required. -->
-
+Semantic Scale Network!
 
 ## Statistical models
 <!-- What statistical model will you use to test each hypothesis? Please include the type of model (e.g. ANOVA, multiple regression, SEM, etc) and the specification of the model (this includes each variable that will be included as predictors, outcomes, or covariates). Please specify any interactions, subgroup analyses, pairwise or complex contrasts, or follow-up tests from omnibus tests. If you plan on using any positive controls, negative controls, or manipulation checks you may mention that here. Remember that any test not included here must be noted as an exploratory test in your final article.
