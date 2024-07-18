@@ -41,4 +41,5 @@ def parse_questionnaire(docx_path):
             file.write("\n".join(contents))
         print(f"Block '{block_name}' saved to {filename}.")
 
-parse_questionnaire(".\\Questionairs\\Scale_Survey.docx")
+
+parse_questionnaire("C:\Users\prsyu\OneDrive\Bidlung\University\M.S. Leiden University\M.S. Neuroscience (Research)\MAPP\Analysis\Github_Clone\MAPP\Questionairs\Scale_Survey.docx")

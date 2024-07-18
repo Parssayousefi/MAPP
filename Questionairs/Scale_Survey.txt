@@ -1,0 +1,8865 @@
+MAPP
+
+
+Start of Block: Welcome and Consent
+ 
+
+Consent_intro Welcome to this survey about your first psychedelic experience!
+
+
+ 
+ 
+
+Consent_choice Introduction  
+You have been invited to participate in a study about your emotions, beliefs, behaviors, and 
+experiences related to using a drug.   
+    
+Volunteer Status   
+Your participation in the study is completely voluntary. You are free to withdraw from 
+participating at any time.    
+    
+Purpose   
+The purpose of this study is to examine aspects of experiences with drugs.   
+    
+Procedure   
+In this study, you will be asked to complete a series of questionnaires in online surveys and to 
+think about aspects of your emotions, beliefs, behaviors, and experiences.   
+    
+Confidentiality   
+Your identity and data will be kept completely confidential. Your data from the study will be 
+coded with a randomly assigned identification number. No personally identifying information will 
+be disclosed, even in the event of publication of this research. The data that you contribute will 
+be kept in a secure location, and only the experimenters will have access to it. You will not be 
+asked for any identifying information.   
+    
+Risks   
+The assignments and questions involved in this study generally refer to feelings and activities 
+most people experience in their daily life. There are minimal risks involved in this study. If, for 
+any reason, you feel uncomfortable with any aspect of this study, please contact the Johns 
+Hopkins Yaden Lab at YadenLab@jhmi.edu.   
+    
+Benefits   
+As a result of being in this study, you may gain awareness of aspects of your emotions, beliefs, 
+behaviors, and experiences.    
+    
+For Further Information    
+If you have questions, concerns, or complaints about the study please contact the Johns 
+Hopkins Yaden Lab at YadenLab@jhmi.edu. If a member of the research team cannot be 
+reached or you want to talk to someone other than those working on the study, you may contact 
+the Johns Hopkins University School of Medicine Institutional Review Board at 
+jhmeirb@jhmi.edu.    
+    
+Participant Statement:    
+I have read the explanation provided to me. I have had all my questions answered to my 
+satisfaction, and I voluntarily agree to participate in this study. 
+o	Agree  (1) 
+o	Disagree  (0) 
+
+End of Block: Welcome and Consent
+
+Start of Block: Remember-- First Experience
+ 
+
+PsydelSub_Experience Have you had an experience with a psychedelic substance?   
+    
+For the purposes of this survey, "classic psychedelic" means only psilocybin mushrooms (magic 
+mushrooms, shrooms), LSD (acid), mescaline (including Peyote and San Pedro cacti), 
+Ayahuasca, N,N-DMT, or 5-MeO-DMT.
+o	Yes  (1) 
+o	No  (0) 
+
+
+Display This Question:
+    If Have you had an experience with a psychedelic substance?   For the purposes of this survey, 
+"clas... = No
+
+Disqualify_1 Thank you for your interest in this survey. Unfortunately you do not meet criteria to 
+continue with this survey. We regularly do surveys on a variety of topics related to psychedelics, 
+and you may be appropriate for surveys in the future.   You can learn more about ongoing 
+research at https://hopkinspsychedelic.org/ .
+
+
+
+FirstPyschedelExp Please take a moment to remember your first psychedelic experience. This 
+experience should be the first time you felt the effects of a psychedelic. This should be a normal 
+dose (i.e., not a microdose).  
+    
+As a reminder, for the purposes of this survey, "classic psychedelic" means only psilocybin 
+mushrooms, LSD (acid), mescaline (including Peyote and San Pedro cacti), Ayahuasca, N,N-
+DMT, or 5-MeO-DMT.   
+    
+Can you remember your first psychedelic experience?
+o	Yes  (1) 
+o	No  (2) 
+
+
+Display This Question:
+    If Have you had an experience with a psychedelic substance?   For the purposes of this survey, 
+"clas... = No
+
+Disqualify_2 Thank you for your interest in this survey. Unfortunately, you do not meet criteria to 
+continue with this survey. We regularly do surveys on a variety of topics related to psychedelics, 
+and you may be appropriate for surveys in the future.   You can learn more about ongoing 
+research at https://hopkinspsychedelic.org/ .
+
+
+ 
+
+NumPsychedelExp How many times in your life have you taken a classic psychedelic? 
+Please do not count microdoses (very low doses with minimal subjective effects).  
+    
+If needed, please take your best guess. As a reminder, for the purposes of this survey, "classic 
+psychedelic" means only psilocybin mushrooms, LSD (acid), mescaline (including Peyote and 
+San Pedro cacti), Ayahuasca,  N,N-DMT, or 5-MeO-DMT.
+? 1 (1) ... 101+ (101)
+
+
+ 
+ 
+
+Age_firstpsychedelex How old were you when you had your first psychedelic experience?
+? 2 (2) ... 101+ (101)
+
+End of Block: Remember-- First Experience
+
+Start of Block: Demographics-- BasicDemoLog_RepLikex
+ 
+ 
+
+Q1  
+Please answer the following demographic questions.   
+  What is your age?
+? 15 (15) ... 101+ (101)
+
+
+
+Q2 What is your race?
+?	White/Caucasian  (1) 
+?	Black/African American  (2) 
+?	Asian  (3) 
+?	Native Hawaiian or Pacific Islander  (4) 
+
+
+ 
+
+Q3 Are you hispanic?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+Q4 What is your sexual orientation?
+o	Heterosexual (straight)  (1) 
+o	Gay  (2) 
+o	Lesbian  (3) 
+o	Queer  (4) 
+o	Bisexual  (5) 
+o	Asexual  (6) 
+o	Aromantic  (7) 
+o	Pansexual  (8) 
+o	Questioning or unsure  (9) 
+o	Other  (10) __________________________________________________
+
+
+ 
+
+Q5 What is your gender identity?
+o	Male  (1) 
+o	Female  (2) 
+o	Transgender  (3) 
+o	Non-binary  (4) 
+o	Genderqueer or genderfluid  (5) 
+o	Agender  (6) 
+o	Unsure  (7) 
+o	Other  (8) __________________________________________________
+
+
+ 
+
+Q6 People talk about social classes such as the poor, the working class, the middle class, the 
+upper-middle class, and the upper class. Which of these classes would you say you belong 
+to?
+o	Poor  (1) 
+o	Working class  (2) 
+o	Middle class  (3) 
+o	Upper-middle class  (4) 
+o	Upper class  (5) 
+
+
+Page Break
+
+?
+
+Q7 What is your yearly household income?
+o	< $50K  (1) 
+o	$50K - 100K  (2) 
+o	> $100K  (3) 
+
+
+ 
+
+Q8 What is your highest education level and/or degree?
+o	High school/GED  (1) 
+o	Associate of Arts (AA)  (2) 
+o	Bachelor's Degree (graduated college)  (3) 
+o	Master's Degree  (4) 
+o	MD/PhD/JD  (5) 
+
+
+
+Q9 What is your current marital/partnership status?
+o	Married or living with partner  (1) 
+o	Divorced/separated  (2) 
+o	Widowed  (3) 
+o	Never married  (4) 
+
+
+
+Q10 What is your current employment status?
+o	Full-time employment  (1) 
+o	Part-time employment  (2) 
+o	Unemployed  (3) 
+o	Retired  (4) 
+
+End of Block: Demographics-- BasicDemoLog_RepLikex
+
+Start of Block: Experience -- Memories of Your First Psychedelic Experience
+
+Remeber_firstExp Take a few moments now to recollect and bring to mind your first psychedelic 
+experience. 
+ 
+ 
+Please answer all of the following questions in this survey ONLY with respect to your 
+first psychedelic experience. 
+
+
+
+ 
+ 
+
+ClearMemory How clear are your memories of your first psychedelic experience?
+o	Not very clear  (1) 
+o	Somewhat clear  (2) 
+o	Clear  (3) 
+o	Very clear  (4) 
+o	Completely clear  (5) 
+
+
+ 
+ 
+
+Spec_PsychedelSub Please indicate which classic psychedelic substance you took for 
+your first psychedelic experience:
+o	Psilocybin mushrooms (magic mushrooms)  (1) 
+o	LSD (Acid)  (3) 
+o	Mescaline (including Peyote and San Pedro cacti)  (4) 
+o	Ayahuasca  (5) 
+o	DMT  (6) 
+o	5-MeO-DMT  (7) 
+
+
+
+TimeSinceFirstExp Approximately how long ago did your first psychedelic experience occur? 
+ 
+
+
+0
+3
+5
+8
+10
+13
+15
+18
+20
+23
+25
+28
+30
+33
+35
+38
+40
+43
+45
+48
+50
+
+Years ago ()
+ 
+
+
+
+ 
+ 
+
+SizeDose How would you characterize this dose? 
+o	Low  (1) 
+o	Moderate  (2) 
+o	Moderately High  (3) 
+o	High  (4) 
+
+
+Page Break
+
+?
+ 
+ 
+
+OtherPsychoSub Were you under the influence of any other psychoactive substance at 
+the time of the experience (excluding caffeine and nicotine)?
+o	Yes  (1) 
+o	No  (0) 
+o	Unsure  (7) 
+
+
+Display This Question:
+    If Were you under the influence of any other psychoactive substance at the time of the experience 
+(e... = Yes
+ 
+ 
+
+OtherPsychoSub_spec Which other substance(s) were you under the influence of? Select 
+all that apply. 
+Note: This includes medications prescribed or not prescribed.
+?	Alcohol  (2) 
+?	MDMA  (3) 
+?	Classic Psychedelics (e.g., psilocybin, LSD, 5-MeO-DMT)  (4) 
+?	Novel psychoactive substances  (5) 
+?	Cannabis/Marijuana  (7) 
+?	Amphetamines  (9) 
+?	Opiates  (11) 
+?	Ketamine  (14) 
+?	Inhalants  (15) 
+?	Cocaine  (17) 
+?	Benzodiazepines  (21) 
+?	Other non-medical  (22) 
+?	Other medical  (14) 
+
+
+ 
+
+Motivation_firstexp What were your principal motivations in having this psychedelic 
+experience? Select all that apply.
+?	Recreational  (1) 
+?	Spiritual exploration  (2) 
+?	Experimentation  (3) 
+?	To learn about myself  (4) 
+?	To heal a trauma  (6) 
+?	To treat an addiction  (7) 
+?	To treat depression  (8) 
+?	To treat anxiety  (9) 
+?	To distract myself/escape from problems  (10) 
+?	Other  (11) __________________________________________________
+
+
+ 
+
+Context_firstexp In what context did you have this psychedelic experience?
+o	In my home  (1) 
+o	At someone else's home  (2) 
+o	Somewhere open/in nature  (3) 
+o	At a festival or large party  (5) 
+o	Other   (7) __________________________________________________
+
+
+
+formritual_firstexp Did your first psychedelic experience occur in the context of a formal 
+ceremony or ritual (e.g. with a shaman or other spiritual leader facilitating the session)?
+o	Yes  (1) 
+o	No  (2) 
+
+
+ 
+
+Firstexp_withppl Did you have this psychedelic experience mostly alone or mostly with 
+others?
+o	Alone  (1) 
+o	With others  (2) 
+
+
+ 
+
+PhysComfort_firstexp The physical comfort and safety of the surroundings were 
+conducive to (supportive of) having a positive experience.
+o	Yes  (1) 
+o	No  (2) 
+
+
+
+Describe_firstexp Optional: If you'd like, you can describe this psychedelic experience in the 
+box below. Your description can be as long or as short as you wish.
+    ________________________________________________________________
+
+End of Block: Experience -- Memories of Your First Psychedelic Experience
+
+Start of Block: Mystical Experience Questionnaire Revised (MEQ) - 30 ITEMS
+ 
+
+MEQ_1  
+Looking back at your first psychedelic experience, please rate the degree to which at any time 
+during that session you experienced the following phenomena. Answer each question according 
+to your feelings, thoughts, and experiences at the time of your first psychedelic experience. Use 
+the scale in making each of your ratings:   
+ 
+ 1. Loss of your usual sense of time.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_2 2. Experience of amazement.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+Page Break
+
+?
+ 
+
+MEQ_3  
+3. Sense that the experience cannot be described adequately in words.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_4 4. Gain of insightful knowledge experienced at an intuitive level.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+Page Break
+
+?
+ 
+
+MEQ_5  
+5. Feeling that you experienced eternity or infinity.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_6 6. Experience of oneness or unity with objects and/or persons perceived in your 
+surroundings.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+Page Break
+
+?
+ 
+
+MEQ_7  
+7. Loss of your usual sense of space.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_8 8. Feelings of tenderness and gentleness.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_9  
+9. Certainty of encounter with ultimate reality (in the sense of being able to “know” and 
+“see” what is really real at some point during your experience.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_10 10. Feeling that you could not do justice to your experience by describing it in 
+words.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+Page Break
+
+?
+ 
+
+MEQ_11  
+11. Loss of usual awareness of where you were.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_12 12. Feelings of peace and tranquility.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_13  
+13. Sense of being “outside of” time, beyond past and future.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_14 14. Freedom from the limitations of your personal self and feeling a unity or 
+bond with what was felt to be greater than your personal self.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+Page Break
+
+?
+ 
+
+MEQ_15  
+15. Sense of being at a spiritual height.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_16  16. Experience of pure being and pure awareness (beyond the world of sense 
+impressions).
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_17  
+17. Experience of ecstasy.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_18 18. Experience of the insight that “all is One”.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_19  
+19. Being in a realm with no space boundaries.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_20 20. Experience of oneness in relation to an “inner world” within.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+Page Break
+
+?
+ 
+
+MEQ_21  
+21. Sense of reverence.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_22 22. Experience of timelessness.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+Page Break
+
+?
+ 
+
+MEQ_23  
+23. You are convinced now, as you look back on your experience, that in it you 
+encountered ultimate reality (i.e., that you “knew” and “saw” what was really real).
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_24 24. Feeling that you experienced something profoundly sacred and holy.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_25  
+25. Awareness of the life or living presence in all things.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_26 26. Experience of the fusion of your personal self into a larger whole.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_27  
+27. Sense of awe or awesomeness.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_28 28. Experience of unity with ultimate reality.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+Page Break
+
+?
+ 
+
+MEQ_29  
+29. Feeling that it would be difficult to communicate your own experience to others who 
+have not had similar experiences.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+
+ 
+
+MEQ_30 30. Feelings of joy.
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 - strong (equivalent in degree to any previous strong experience or expectation of this 
+description)  (4) 
+o	5 - extreme (more than ever before in my life and stonger than 4)  (5) 
+
+End of Block: Mystical Experience Questionnaire Revised (MEQ) - 30 ITEMS
+
+Start of Block: Challenging Experience Questionnaire (CEQ) - 26 ITEMS
+ 
+
+CEQ_1  
+Looking back at your first psychedelic experience, please rate the degree to which at any time 
+during that session you experienced the following phenomena. Answer each question according 
+to your feelings, thoughts, and experiences at the time of your first psychedelic experience. In 
+making each of your ratings, use the provided scale:   
+    
+1. Isolation and loneliness
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_2 2. Sadness
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_3  
+3. Feeling my heart beating
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_4 4. I had the feeling something horrible would happen
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+CEQ_5  
+5. Feeling my body shake/tremble
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_6 6. Feelings of grief 
+
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_7  
+7. Experience of fear
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_8 8. Fear that I might lose my mind or go insane 
+
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+CEQ_9  
+9. I felt like crying
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_10 10. Feeling of isolation from people and things 
+
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_11  
+11. Feelings of despair
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_12 12. I had the feeling that people were plotting against me 
+
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+CEQ_13  
+13. I was afraid that the state I was in would last forever
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_14 14. Anxiousness 
+
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_15  
+15. I felt shaky inside
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_16 16. I had the profound experience of my own death 
+
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+CEQ_17  
+17. I felt my heart beating irregularly or skipping beats
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_18 18. Pressure or weight in my chest or abdomen 
+
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_19  
+19. I experienced a decreased sense of sanity
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_20 20. I felt as if I was dead or dying 
+
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_21  
+21. Panic
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_22 22. Experience of antagonism toward people around me 
+
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_23  
+23. Despair
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_24 24. I felt isolated from everything and everyone 
+
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+CEQ_25  
+25. Emotional and/or physical suffering
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+
+ 
+
+CEQ_26 26. I felt frightened 
+
+o	0 - none; not at all  (0) 
+o	1 - so slight cannot decide  (1) 
+o	2 - slight  (2) 
+o	3 - moderate  (3) 
+o	4 – strong  (4) 
+o	5 – extreme (more than ever before in my life)  (5) 
+
+End of Block: Challenging Experience Questionnaire (CEQ) - 26 ITEMS
+
+Start of Block: Awe Experience Scale (AWE-S)
+
+AWE.S Instructions: Please answer the following questions about your first psychedelic 
+experience and any experience of awe therein. While you may have had other experiences that 
+are relevant to the following questions, please answer only about your first psychedelic 
+experience.
+
+Strongly 
+Disagree 
+(1)
+Moderately 
+Disagree 
+(2)
+Somewhat 
+Disagree 
+(3)
+Neutral 
+(4)
+Somewhat 
+Agree (5)
+Moderately 
+Agree (6)
+Strongly 
+agree 
+(7)
+I sensed things 
+momentarily 
+slow down. 
+(AWE.S_1) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I noticed time 
+slowing. 
+(AWE.S_2) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt my sense 
+of time change. 
+(AWE.S_3) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I experienced 
+the passage of 
+time differently. 
+(AWE.S_4) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I had the sense 
+that a moment 
+lasted longer 
+than usual. 
+(AWE.S_5) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt that my 
+sense of self 
+was 
+diminished. 
+(AWE.S_6) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt my sense 
+of self shrink. 
+(AWE.S_7) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I experienced a 
+reduced sense 
+of self. 
+(AWE.S_8) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt my sense 
+of self become 
+somehow 
+smaller. 
+(AWE.S_9) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt small 
+compared to 
+everything else. 
+(AWE.S_10) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I had the sense 
+of being 
+connected to 
+everything 
+(AWE.S_11) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt a sense of 
+communion 
+with all living 
+things. 
+(AWE.S_12) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I experienced a 
+sense of 
+oneness with 
+all things. 
+(AWE.S_13) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt closely 
+connected to 
+humanity. 
+(AWE.S_14) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I had a sense 
+of complete 
+connectedness. 
+(AWE.S_15) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt that I was 
+in the presence 
+of something 
+grand. 
+(AWE.S_16) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I experienced 
+something 
+greater than 
+myself. 
+(AWE.S_17) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt in the 
+presence of 
+greatness. 
+(AWE.S_18) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I perceived 
+something that 
+was much 
+larger than me. 
+(AWE.S_19) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I perceived 
+vastness. 
+(AWE.S_20) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt my jaw 
+drop. 
+(AWE.S_21) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I had 
+goosebumps. 
+(AWE.S_22) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I gasped. 
+(AWE.S_23) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I had chills. 
+(AWE.S_24) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt my eyes 
+widen. 
+(AWE.S_25) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt challenged 
+to mentally 
+process what I 
+was 
+experiencing. 
+(AWE.S_26) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I found it hard 
+to comprehend 
+the experience 
+in full. 
+(AWE.S_27) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt challenged 
+to understand 
+the experience. 
+(AWE.S_28) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I struggled to 
+take in all that I 
+was 
+experiencing at 
+once. 
+(AWE.S_29) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I tried to 
+understand the 
+magnitude of 
+what I was 
+experiencing. 
+(AWE.S_30) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+End of Block: Awe Experience Scale (AWE-S)
+
+Start of Block: Psychological Insight Questionnaire (PIQ) - 23 ITEMS
+ 
+
+PsychInsight1 Looking back at your first psychedelic experience, please rate the degree to 
+which at any time during that session you experienced the following phenomena. Answer each 
+question according to your feelings, thoughts, and experiences at the time of your first 
+psychedelic experience.
+
+No; not 
+at all (0)
+So slightly 
+cannot 
+decide (1)
+Slightly 
+(2)
+Moderately 
+(3)
+Strongly 
+(4)
+Extremely 
+(more than 
+ever 
+before in 
+my life) (5)
+1.
+	Awarenes
+s of 
+uncomfortable or 
+painful feelings I 
+previously 
+avoided. 
+(PsychInsight_1) 
+o	
+o	
+o	
+o	
+o	
+o	
+2.	Realized 
+the importance of 
+my life. 
+(PsychInsight_2) 
+o	
+o	
+o	
+o	
+o	
+o	
+3.
+	Discovere
+d I could explore 
+uncomfortable or 
+painful feelings I 
+previously 
+avoided. 
+(PsychInsight_3) 
+o	
+o	
+o	
+o	
+o	
+o	
+4.
+	Awarenes
+s of information 
+that helped me 
+understand my 
+life. 
+(PsychInsight_4) 
+o	
+o	
+o	
+o	
+o	
+o	
+5.
+	Awarenes
+s of dysfunctional 
+patterns in my 
+actions, thoughts, 
+and/or feelings. 
+(PsychInsight_5) 
+o	
+o	
+o	
+o	
+o	
+o	
+6.
+	Discovere
+d a vivid sense of 
+the paradoxes in 
+life. 
+(PsychInsight_6) 
+o	
+o	
+o	
+o	
+o	
+o	
+7.	Realized 
+the nature and/or 
+origins of my 
+defenses or other 
+coping strategies. 
+(PsychInsight_7) 
+o	
+o	
+o	
+o	
+o	
+o	
+8.
+	Awarenes
+s of my life 
+purpose, goals, 
+and/or priorities. 
+(PsychInsight_8) 
+o	
+o	
+o	
+o	
+o	
+o	
+9.	Realized 
+how current 
+feelings or 
+perceptions are 
+related to events 
+from my past. 
+(PsychInsight_9) 
+o	
+o	
+o	
+o	
+o	
+o	
+10.
+	Discovere
+d a clear pattern 
+of avoidance in 
+my life. 
+(PsychInsight_10) 
+o	
+o	
+o	
+o	
+o	
+o	
+11.
+	Discovere
+d new actions 
+that may help me 
+achieve my goals. 
+(PsychInsight_11) 
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+
+ 
+
+PsychInsight2 Reminder of instructions: Looking back at your first psychedelic experience, 
+please rate the degree to which at any time during that session you experienced the following 
+phenomena. Answer each question according to your feelings, thoughts, and experiences at the 
+time of your first psychedelic experience. 
+
+
+No; not 
+at all (0)
+So slightly 
+cannot 
+decide (1)
+Slightly 
+(2)
+Moderately 
+(3)
+Strongly 
+(4)
+Extremely 
+(more than 
+ever 
+before in 
+my life) (5)
+12. Gained 
+resolution or 
+clarity about past 
+traumas or hurtful 
+events. 
+(PsychInsight_12) 
+o	
+o	
+o	
+o	
+o	
+o	
+13.
+	Experienc
+ed validation of 
+my life, character, 
+values, or beliefs. 
+(PsychInsight_13) 
+o	
+o	
+o	
+o	
+o	
+o	
+14.	Gained a 
+deeper 
+understanding of 
+events/memories 
+from my past. 
+(PsychInsight_14) 
+o	
+o	
+o	
+o	
+o	
+o	
+15.	Realized I 
+could experience 
+memories 
+previously too 
+difficult to 
+experience. 
+(PsychInsight_15) 
+o	
+o	
+o	
+o	
+o	
+o	
+16.	Gained a 
+deeper 
+understanding of 
+previously held 
+beliefs and/or 
+values. 
+(PsychInsight_16) 
+o	
+o	
+o	
+o	
+o	
+o	
+17.
+	Discovere
+d how aspects of 
+my life are 
+affecting my well-
+being. 
+(PsychInsight_17) 
+o	
+o	
+o	
+o	
+o	
+o	
+18.	Realized 
+ways my beliefs 
+may be 
+dysfunctional. 
+(PsychInsight_18) 
+o	
+o	
+o	
+o	
+o	
+o	
+19.
+	Discovere
+d clear similarities 
+between my past 
+and present 
+interpersonal 
+relationships. 
+(PsychInsight_19) 
+o	
+o	
+o	
+o	
+o	
+o	
+20.
+	Discovere
+d new insights 
+about my work or 
+career. 
+(PsychInsight_20) 
+o	
+o	
+o	
+o	
+o	
+o	
+21.	Realized 
+how critical or 
+judgmental views 
+I hold towards 
+myself are 
+dysfunctional. 
+(PsychInsight_21) 
+o	
+o	
+o	
+o	
+o	
+o	
+22. Awareness of 
+beneficial 
+patterns in my 
+actions, thoughts, 
+and/or feelings. 
+(PsychInsight_22) 
+o	
+o	
+o	
+o	
+o	
+o	
+23.	Realized 
+the point of view 
+or actions of 
+others that had 
+been difficult to 
+understand 
+previously. 
+(PsychInsight_23) 
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+End of Block: Psychological Insight Questionnaire (PIQ) - 23 ITEMS
+
+Start of Block: Persisting Effects: Attitudes about Self – 18 ITEMS
+ 
+
+PEQ_AttitudeSelf_1   
+  
+  
+This questionnaire assess any persisting effects that you consider due to the experiences 
+during your first psychedelic experience and your contemplation of those experiences. Using for 
+comparison your status prior to your first psychedelic experience, please evaluate 
+your present condition.      
+    
+    
+1. You feel less creative.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_2  2. You feel more creative.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_3   
+  
+  
+3. You are a more authentic person.  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_4  4. You are a less authentic person.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_5   
+  
+  
+ 
+5. You have more good-natured humor/playfulness/lightness of being.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_6  6. You have less good-natured humor/playfulness/lightness of being.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_7   
+  
+  
+ 
+7. You have less patience/ability to tolerate frustration.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_8  8. You have more patience/ability to tolerate frustration.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_9   
+  
+9. You have less mental flexibility/open-mindedness.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_10  10. You have more mental flexibility/open-mindedness.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_11   
+  
+  
+11. Your self-confidence/self-assurance has increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_12  12. Your self-confidence/self-assurance has decreased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_13   
+  
+13. You are more honest with yourself.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_14  14. You are less honest with yourself.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_15   
+  
+  
+  
+15. You are less able to tolerate your own suffering.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_16  16. You are more able to tolerate your own suffering.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_17  
+  
+  
+17. You are less concerned with thoughts and feelings about your body.  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeSelf_18  18. You are more concerned with thoughts and feelings about your 
+body.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+End of Block: Persisting Effects: Attitudes about Self – 18 ITEMS
+
+Start of Block: Persisting Effects: Attitudes about Life – 26 ITEMS
+ 
+
+PEQ_AttitudeLife_1  
+  
+This questionnaire assess any persisting effects that you consider due to the experiences 
+during your first psychedelic experience and your contemplation of those experiences. Using for 
+comparison your status before your first psychedelic experience, please evaluate 
+your present condition.  
+    
+1. The experience has changed your philosophy of life positively.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_2 2. The experience has changed your philosophy of life negatively.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_3  
+  
+  
+  
+ 
+3. Your appreciation for life has increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_4 4. Your appreciation for life has decreased. 
+
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_AttitudeLife_5  
+  
+5. Your life has a diminished dynamic quality.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_6 6. Your life has a heightened dynamic quality.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_7  
+  
+  
+  
+7. Your life has less meaning.   
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_8 8. Your life has more meaning.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_9  
+  
+  
+  
+9. You have less enthusiasm for life in general.   
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_10 10. You have more enthusiasm for life in general.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_AttitudeLife_11  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.    
+ 
+ 11. Your sense of values (i.e., what is important to you in life) has changed positively.
+o	none; none at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_12 12. Your sense of values (i.e., what is important to you in life) has 
+changed negatively.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_13  
+  
+  
+  
+  
+  
+13. Your life has more richness.     
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_14 14. Your life has less richness.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_AttitudeLife_15  
+  
+  
+  
+  
+  
+15. You have more joy in your life.     
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_16 16. You have less joy in your life.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_17  
+  
+  
+  
+  
+17. Your experience has been a hindrance for your life.    
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_18 18. Your experience has been valuable for your life.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_AttitudeLife_19  
+  
+  
+  
+  
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.       
+      
+19. You have more optimism.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_20 20. You have less optimism.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_21  
+  
+  
+  
+  
+  
+21. You have more trust that everything in life will work out all right.     
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_22 22. You have less trust that everything in life will work out all right.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_AttitudeLife_23  
+  
+  
+  
+  
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+  
+ 23. You are more preoccupied with your future.     
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_24 24. You are less preoccupied with your future.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_25  
+  
+  
+  
+  
+  
+25. You are less concerned with your past.     
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_AttitudeLife_26 26. You are more concerned with your past.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+End of Block: Persisting Effects: Attitudes about Life – 26 ITEMS
+
+Start of Block: Persisting Effects: Behavioral Changes – 2 ITEMS
+ 
+
+PEQ_Behavior_1  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.    
+ 
+ 1. Your behavior has changed in ways you would consider negative since the 
+experience.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Behavior_2 2. Your behavior has changed in ways you would consider positive 
+since the experience.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+End of Block: Persisting Effects: Behavioral Changes – 2 ITEMS
+
+Start of Block: Persisting Effects: Miscellaneous – 9 ITEMS
+ 
+
+PEQ_Misc_1  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+   1. You are now more certain about the veracity of certain metaphysical religious 
+teachings or concepts (e.g. nirvana, heaven, hell, karma, reincarnation).
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Misc_2 2. You are now less certain about the veracity of certain metaphysical 
+religious teachings or concepts (e.g. nirvana, heaven, hell, karma, reincarnation).
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Misc_3   
+  
+3. You spend less time in devotional life. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Misc_4  4. You spend more time in devotional life.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Misc_5   
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+      5. You have learned something useful from the experience.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Misc_6  6. You feel that you now know a new dimension of life. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Misc_7   
+7. You are convinced now in retrospect that you encountered ultimate reality in your 
+experience (i.e., that what you "knew" and "saw" was really real).
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Misc_8  8. You now feel that the meaning of your own experience is beyond words. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Misc_9  9. You now feel that your life has taken a definite change of course because 
+of this experience.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+End of Block: Persisting Effects: Miscellaneous – 9 ITEMS
+
+Start of Block: Persisting Effects: Mood Changes – 18 ITEMS
+ 
+
+PEQ_MoodChanges_1  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.    
+    
+1. Feelings of sadness or depression have decreased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_2 2. Feelings of sadness or depression have increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_3  
+  
+  
+3. Feelings of anxiety or nervousness have decreased.  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_4 4. Feelings of anxiety or nervousness have increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_MoodChanges_5  
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.      
+ 
+ 5. You now feel more love and openheartedness.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_6 6. You now feel less love and openheartedness.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_7  
+  
+  
+7. You experience less inner peace (i.e. centeredness, serenity, calmness, contentment).  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_8 8. You experience more inner peace (i.e. centeredness, serenity, 
+calmness, contentment).
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_MoodChanges_9  
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+      
+9. Your feelings of positive emotions (e.g. love, joy, appreciation, gratitude, contentment) 
+have decreased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_10 10. Your feelings of positive emotions (e.g. love, joy, appreciation, 
+gratitude, contentment) have increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_11  
+  
+  
+11. You feel more inspired.  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_12 12. You feel less inspired.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_MoodChanges_13  
+  
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+  
+ 13. Feelings of anger (e.g., bitterness, hostility, scorn) have increased.  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_14 14. Feelings of anger (e.g., bitterness, hostility, scorn) have 
+decreased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_15  
+  
+  
+15. Feelings of guilt have increased.  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_16 16. Feelings of guilt have decreased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_17  
+  
+  
+17. You experience more joy.  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_MoodChanges_18 18. You experience less joy.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+End of Block: Persisting Effects: Mood Changes – 18 ITEMS
+
+Start of Block: Persisting Effects: Relationships – 20 ITEMS
+ 
+
+PEQ_Relationship_1   
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+     
+1. You have become more sensitive to the needs of others.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_2 2. You have become less sensitive to the needs of others.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_3  
+3. You now feel a decreased desire for service to others.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_4 4. You now feel an increased desire for service to others.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Relationship_5  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+     
+5. You are more tolerant toward others.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_6 6. You are less tolerant toward others.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_7  
+7. You have a more positive relationship with others.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_8 8. You have a more negative relationship with others.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Relationship_9  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+     
+9. You express more hatred toward others.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_10 10. You express more love toward others.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_11  
+11. You have reduced interpersonal perceptiveness (i.e., empathy, sensitivity).
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_12 12. You have greater interpersonal perceptiveness (i.e., empathy, 
+sensitivity).
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Relationship_13  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+     
+13. Your expression of anger in ways that unnecessarily hurt others (e.g. ridicule, 
+outward expression of irritability) has decreased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_14 14. Your expression of anger in ways that unnecessarily hurt others 
+(e.g. ridicule, outward expression of irritability) has increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_15  
+15. Your social concern/compassion has decreased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_16 16. Your social concern/compassion has increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Relationship_17  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+  
+ 17. Your concern about vulnerable people has decreased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_18 18. Your concern about vulnerable people has increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_19  
+19. Your interest in promoting awareness of social justice issues has decreased. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Relationship_20 20. Your interest in promoting awareness of social justice issues 
+has increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+End of Block: Persisting Effects: Relationships – 20 ITEMS
+
+Start of Block: Persisting Effects: Religion – 12 ITEM
+ 
+
+PEQ_Religion_1  
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+      
+1. You feel more effective overall in your role as a religious leader.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Religion_2  2. You feel less effective overall in your role as a religious leader.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Religion_3   
+  
+3. You now have a deeper understanding of the essence of your religious tradition. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Religion_4  4. You now have a less deep understanding of the essence of your 
+religious tradition.  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Religion_5   
+  
+5. You now have more passion for sharing the essence of your religious 
+understanding/faith.  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Religion_6  6. You now have less passion for sharing the essence of your religious 
+understanding/faith. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Religion_7   
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+      
+7. You now have more eagerness to engage in the world as a religious professional.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Religion_8  8. You now have less eagerness to engage in the world as a religious 
+professional.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Religion_9   
+  
+9. You are less certain about the positive role of religion in the world. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Religion_10  10. You are more certain about the positive role of religion in the world.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Religion_11   
+  
+11. In your religious thinking, you now have an increased tolerance of paradox (i.e., 
+"Both/And" instead of "Either/Or").  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Religion_12  12. In your religious thinking, you now have a decreased tolerance of 
+paradox (i.e., "Both/And" instead of "Either/Or"). 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+End of Block: Persisting Effects: Religion – 12 ITEM
+
+Start of Block: Persisting Effects: Spirituality – 59 ITEMS
+ 
+
+PEQ_Spiritual_1   
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+     
+1. You have an increased sense of reverence.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_2  2. You have a decreased sense of reverence.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_3  
+3. Your appreciation for the whole of creation has decreased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_4  4. Your appreciation for the whole of creation has increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_5   
+5. Time spent in quiet meditation or prayer has decreased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_6  6. Time spent in quiet meditation or prayer has increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Spiritual_7  
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+      
+7. You have more of a sense of the preciousness of life.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_8  8. You have less of a sense of the preciousness of life.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_9   
+  
+9. You experience profound sacredness less frequently. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_10  10. You experience profound sacredness more frequently.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_11   
+  
+11. You now believe less in some form of continuance after death. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_12  12. You now believe more in some form of continuance after death.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Spiritual_13   
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.     
+ 
+ 13. You are less apprehensive about your own death.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_14  14. You are more apprehensive about your own death.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_15   
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+      
+15. You place less importance in your spiritual and/or religious understandings.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_16  16. You place more importance in your spiritual and/or religious 
+understandings. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_17   
+  
+17. Your experience of sacredness in daily life has decreased. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_18  18. Your experience of sacredness in daily life has increased.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Spiritual_19   
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+      
+19. You now experience a deeper sense of gratitude for life.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_20  20. You now experience a diminished sense of gratitude for life.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_21   
+21. You have an increased sense of a personal relationship with the God of your 
+understanding/ultimate reality/a higher power.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_22  22. You have a decreased sense of a personal relationship with the 
+God of your understanding/ultimate reality/a higher power.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_23   
+23. You feel more of a connection to the God of your understanding/ultimate reality/a 
+higher power.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_24  24. You feel less of a connection to the God of your 
+understanding/ultimate reality/a higher power.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Spiritual_25   
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+      
+25. Spirituality has become a more central part of your life.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_26  26. Spirituality has become a less central part of your life.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_27   
+  
+27. Your prayers and/or meditations provide you with a diminished sense of emotional 
+support. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_28  28. Your prayers and/or meditations provide you with a greater sense 
+of emotional support.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_29   
+  
+29. You want more distance from the God of your understanding/ultimate reality/a higher 
+power. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_30  30. You want to grow closer to the God of your understanding/ultimate 
+reality/a higher power.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Spiritual_31   
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.     
+ 
+ 31. You feel more at home in the universe.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_32  32. You feel less at home in the universe.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_33   
+  
+33. You have a decreased sense that all of life is interconnected. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_34  34. You have an increased sense that all of life is interconnected.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_35   
+  
+35. You have an increased sense of an order to the universe that transcends human 
+thinking. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_36  36. You have a decreased sense of an order to the universe that 
+transcends human thinking.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Spiritual_37   
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+   
+ 37. You have an increased belief that there is a higher plane of consciousness or 
+spirituality that binds all people. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_38  38. You have a decreased belief that there is a higher plane of 
+consciousness or spirituality that binds all people.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_39   
+  
+39. You have a decreased feeling of an emotional bond with all of humanity. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_40  40. You have an increased feeling of an emotional bond with all of 
+humanity.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_41   
+  
+41. You are more at home in the present moment. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_42  42. You are less at home in the present moment
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Spiritual_43   
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.     
+  
+ 43. You experience increased emotional closeness to someone who has died.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_44   
+  
+  
+44. You perceive life as more sacred.  
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_45  45. You perceive life as less sacred.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_46   
+  
+46. You feel more certain about a realm beyond time and space. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_47  47. You feel less certain about a realm beyond time and space.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Spiritual_48   
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.  
+      
+48. You feel less certain about the reality of the spiritual dimension of consciousness.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_49  49. You feel more certain about the reality of the spiritual dimension of 
+consciousness.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_50  
+  
+50. You feel less certain about the reality of unconditional love (also sometimes called 
+divine love, metta, relative bodhicitta, agape, or grace). 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_51  51. You feel more certain about the reality of unconditional love (also 
+sometimes called divine love, metta, relative bodhicitta, agape, or grace).
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_52   
+  
+52. You feel more certain about the intrinsic worth of each human being. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_53  53. You feel less certain about the intrinsic worth of each human being.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+Page Break
+
+?
+ 
+
+PEQ_Spiritual_54   
+  
+Reminder of Instructions: This questionnaire assess any persisting effects that you consider due 
+to the experiences during your first psychedelic experience and your contemplation of those 
+experiences. Using for comparison your status before your first psychedelic experience, please 
+evaluate your present condition.     
+ 
+ 54. You now experience increased tolerance for religious diversity.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_55  55. You now experience decreased tolerance for religious diversity.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_56   
+  
+56. You are now less certain that some form of consciousness continues after death. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_57  57. You are now certain that some form of consciousness continues 
+after death.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_58   
+  
+58. You now are less steady and centered in the presence of death. 
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+
+ 
+
+PEQ_Spiritual_59  59. You now are more steady and centered in the presence of death.
+o	none; not at all  (0) 
+o	so slight cannot decide  (1) 
+o	slight  (2) 
+o	moderate  (3) 
+o	strong  (4) 
+o	extreme (more than ever before in your life)  (5) 
+
+End of Block: Persisting Effects: Spirituality – 59 ITEMS
+
+Start of Block: Emotional State Assessment Tool (ESAT)
+ 
+ 
+
+ESAT This questionnaire is about your general state of mind during your first psychedelic 
+experience. Please read each statement and indicate how much of the time the statement 
+applied to you at the time of your first psychedelic experience.
+
+Does not 
+apply at all 
+(1)
+Slightly 
+applies (2)
+Moderately 
+applies (3)
+Very much 
+applies (4)
+Completely 
+applies (5)
+Felt nervous 
+(ESAT_1) 
+o	
+o	
+o	
+o	
+o	
+Felt anxious 
+(ESAT_2) 
+o	
+o	
+o	
+o	
+o	
+Been tense 
+(ESAT_3) 
+o	
+o	
+o	
+o	
+o	
+Been too 
+tired to do 
+very much 
+(ESAT_4) 
+o	
+o	
+o	
+o	
+o	
+Been low in 
+energy 
+(ESAT_5) 
+o	
+o	
+o	
+o	
+o	
+Felt sluggish 
+(ESAT_6) 
+o	
+o	
+o	
+o	
+o	
+Felt blue 
+(ESAT_7) 
+o	
+o	
+o	
+o	
+o	
+Felt sad 
+(ESAT_8) 
+o	
+o	
+o	
+o	
+o	
+Felt 
+depressed 
+(ESAT_9) 
+o	
+o	
+o	
+o	
+o	
+Felt full of 
+energy 
+(ESAT_10) 
+o	
+o	
+o	
+o	
+o	
+Felt vigorous 
+(ESAT_11) 
+o	
+o	
+o	
+o	
+o	
+Felt active 
+(ESAT_12) 
+o	
+o	
+o	
+o	
+o	
+Felt happy 
+(ESAT_13) 
+o	
+o	
+o	
+o	
+o	
+Been cheerful 
+(ESAT_14) 
+o	
+o	
+o	
+o	
+o	
+Been able to 
+laugh about 
+lots of things 
+(ESAT_15) 
+o	
+o	
+o	
+o	
+o	
+Felt serene 
+(ESAT_16) 
+o	
+o	
+o	
+o	
+o	
+Felt relaxed 
+(ESAT_17) 
+o	
+o	
+o	
+o	
+o	
+Felt calm 
+(ESAT_18) 
+o	
+o	
+o	
+o	
+o	
+
+
+End of Block: Emotional State Assessment Tool (ESAT)
+
+Start of Block: Ego Dissolution Inventory (EDI)
+
+EDI Please rate to what extent each of the following statements applies to your first psychedelic 
+experience.  
+ 
+Below each statement is a line with the endpoints “No, not more than usually” and “Yes, I 
+experienced this completely/entirely.” The line is used to assess alterations from your normal 
+state. Your normal state corresponds to a mark at the very left end of the scale, i.e. "No, not 
+more than usually."  
+ 
+Only rate at the extreme ends if this truly applies. 
+ 
+
+
+(0) No, not more than 
+usually
+(100) Yes, much more 
+than usually
+
+
+0
+50
+100
+
+1. I experienced a dissolution of my “self” or 
+ego  ()
+ 
+2. I felt at one with the universe  ()
+ 
+3. I felt a sense of union with others  ()
+ 
+4. I experienced a decrease in my sense of 
+self-importance  ()
+ 
+5. I experienced a disintegration of my “self” or 
+ego  ()
+ 
+6. I felt far less absorbed by my own issues 
+and concerns  ()
+ 
+7. I lost all sense of ego  ()
+ 
+8. All notion of self and identity dissolved away  
+()
+ 
+
+
+End of Block: Ego Dissolution Inventory (EDI)
+
+Start of Block: Satisfaction with Life Scale
+ 
+
+SLS_1 Below are five statements that you may have agreed or disagreed with at the time of 
+your first psychedelic experience. Please reflect on your first psychedelic experience as you 
+respond to these statements and indicate how much you agreed with each statement during first 
+psychedelic experience. 
+ 
+Using the 1 - 7 scale below, indicate your agreement with each item by placing the appropriate 
+number on the line preceding that item. Please be open and honest in your responding. 
+ 
+ 	7 - Strongly agree 	6 - Agree 	5 - Slightly agree 	4 - Neither agree nor 
+disagree 	3 - Slightly disagree 	2 - Disagree 	1 - Strongly disagree   
+ 
+ In most ways my life is close to my ideal.
+o	7- Strongly agree  (7) 
+o	6- Agree  (6) 
+o	5- Slightly agree  (5) 
+o	4- Neither agree nor disagree  (4) 
+o	3- Slightly disagree  (3) 
+o	2- Disagree  (2) 
+o	1- Strongly disagree  (7) 
+
+
+ 
+
+SLS_2 The conditions of my life are excellent.
+o	7- Strongly agree  (7) 
+o	6- Agree  (6) 
+o	5- Slightly agree  (5) 
+o	4- Neither agree nor disagree  (4) 
+o	3- Slightly disagree  (3) 
+o	2- Disagree  (2) 
+o	1- Strongly disagree  (1) 
+
+
+ 
+
+SLS_3 I am satisfied with my life.
+o	7- Strongly agree  (7) 
+o	6- Agree  (6) 
+o	5- Slightly agree  (5) 
+o	4- Neither agree nor disagree  (4) 
+o	3- Slightly disagree  (3) 
+o	2- Disagree  (2) 
+o	1- Strongly disagree  (1) 
+
+
+ 
+
+SLS_4 So far I have gotten the important things I want in life
+o	7- Strongly agree  (7) 
+o	6- Agree  (6) 
+o	5- Slightly agree  (5) 
+o	4- Neither agree nor disagree  (4) 
+o	3- Slightly disagree  (3) 
+o	2- Disagree  (2) 
+o	1- Strongly disagree  (1) 
+
+
+ 
+
+SLS_5 If I could live my life over, I would change almost nothing.
+o	7- Strongly agree  (7) 
+o	6- Agree  (6) 
+o	5- Slightly agree  (5) 
+o	4- Neither agree nor disagree  (4) 
+o	3- Slightly disagree  (3) 
+o	2- Disagree  (2) 
+o	1- Strongly disagree  (1) 
+
+End of Block: Satisfaction with Life Scale
+
+Start of Block: Non-Dual Awareness Scale- State Version
+ 
+
+NADA-S Please read each statement and indicate the extent to which you agreed with each 
+statement at the time of your first psychedelic experience. In other words, how well does the 
+statement describe what you experienced at the time of your first psychedelic experience.  
+ 
+Please respond on a scale of 1 (Not at all) to 10 (Very much). 
+
+
+1. 
+Not 
+at all 
+(1)
+2 (2)
+3 (3)
+4 (4)
+5 (5)
+6 (6)
+7 (7)
+8 (8)
+9 (9)
+10. 
+Very 
+much 
+(10)
+I experienced 
+all things 
+seeming to 
+unify into a 
+single whole. 
+(NADA-
+S_UnifyWhole) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I experienced 
+all sense of self 
+and identity 
+dissolve away. 
+(NADA-
+S_SenseSelf) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I felt 
+surrounded and 
+filled with a 
+blissful warmth 
+or energy. 
+(NADA-
+S_BlissWarmth) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+End of Block: Non-Dual Awareness Scale- State Version
+
+Start of Block: 11D-ASC
+
+11D-ASC Please respond to the items based on your state of mind at the time of your first 
+psychedelic experience. 
+ 
+Response are anchored by "No more than usual" (0%) to "Much more than usual" (100%) 
+ 
+
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+
+Everything seemed to unify into an oneness. ()
+ 
+It seemed to me that my environment and I 
+were one. ()
+ 
+I experienced a touch of eternity. ()
+ 
+Conflicts and contradictions seemed to 
+dissolve. ()
+ 
+I experienced past, present, and future as an 
+oneness. ()
+ 
+I had the feeling of being connected to a 
+superior power. ()
+ 
+I experienced a kind of awe ()
+ 
+My experience had religious aspects. ()
+ 
+I enjoyed boundless pleasure. ()
+ 
+I experienced a profound peace in myself. ()
+ 
+I experienced an all-embracing love. ()
+ 
+I felt very profound. ()
+ 
+I gained clarity into connections that puzzled 
+me before. ()
+ 
+I had very original thoughts. ()
+ 
+It seemed to me as though I did not have a 
+body anymore. ()
+ 
+I had the feeling of being outside of my body. 
+()
+ 
+I felt as though I were floating. ()
+ 
+I felt like a marionette. ()
+ 
+I had difficulty making even the smallest 
+decision. ()
+ 
+I had difficulty in distinguishing important from 
+unimportant things. ()
+ 
+I felt as though I were paralyzed. ()
+ 
+I felt isolated from everything and everyone. ()
+ 
+I was not able to complete a thought, my 
+thought repeatedly became disconnected. ()
+ 
+I had the feeling that I no longer had a will of 
+my own. ()
+ 
+I was afraid that the state I was in would last 
+forever. ()
+ 
+I was afraid without being able to say exactly 
+why. ()
+ 
+I experienced everything terrifyingly distorted. 
+()
+ 
+I experienced my surroundings as strange and 
+weird. ()
+ 
+I felt threatened. ()
+ 
+I had the feeling something horrible would 
+happen ()
+ 
+I saw scenes rolling by in total darkness or 
+with my eyes closed. ()
+ 
+I could see pictures from my past or fantasy 
+extremely clearly. ()
+ 
+My imagination was extremely vivid. ()
+ 
+I saw regular patterns in complete darkness or 
+with closed eyes. ()
+ 
+I saw colors before me in total darkness or 
+with closed eyes. ()
+ 
+I saw lights or flashes of light in total darkness 
+or with closed eyes. ()
+ 
+Noises seemed to influence what I saw. ()
+ 
+The shapes of things seemed to change by 
+sounds and noises. ()
+ 
+The colors of things seemed to be changed by 
+sounds and noises. ()
+ 
+Everyday things gained a special meaning. ()
+ 
+Things around me had a new strange 
+meaning for me. ()
+ 
+Objects around me engaged me emotionally 
+much more than usual. ()
+ 
+
+
+End of Block: 11D-ASC
+
+Start of Block: External and Internal Scale of Inspiration  EISI
+ 
+ 
+ 
+
+EISI This scale consists of a series of questions about times when you’ve felt moved or inspired, 
+as well as some of your typical day-to-day actions associated with these experiences.  
+ 
+Each item below contains a statement. Please indicate how strongly you agree or disagree with 
+each of these statements. There are no right or wrong answers. Use the following scale to 
+record your answers: 
+
+
+1. 
+Strongly 
+Disagree 
+(1)
+2 (2)
+3 (3)
+4. 
+Neither 
+agree 
+nor 
+disagree 
+(4)
+5 (5)
+6 (6)
+7. 
+Strongly 
+Agree (7)
+I am inspired by 
+myself. (EISI_1) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I am inspired by 
+other people. 
+(EISI_2) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I am inspired by 
+my own ideas 
+and 
+accomplishments. 
+(EISI_3) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I am inspired by 
+the ideas and 
+accomplishments 
+of other people. 
+(EISI_4) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+When I reflect 
+upon my own life, 
+I feel inspired. 
+(EISI_5) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+When I reflect 
+upon other 
+people’s lives, I 
+feel inspired. 
+(EISI_6) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I often feel 
+inspired when I 
+am alone. 
+(EISI_7) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I often feel 
+inspired when I 
+surrounded by 
+other people. 
+(EISI_8) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I am inspired 
+when thinking of 
+myself as an 
+independent 
+person. (EISI_9) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I am inspired 
+when thinking of 
+myself as part of 
+a larger group. 
+(EISI_10) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+Feelings of 
+inspiration arise 
+from within 
+oneself. (EISI_11) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+Feelings of 
+inspiration arise 
+from something 
+outside or beyond 
+oneself. (EISI_12) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+To understand 
+why I feel 
+inspired, I think 
+about my own 
+strengths and 
+qualities. 
+(EISI_13) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+To understand 
+why I feel 
+inspired, I think 
+about the 
+situation 
+circumstances I 
+am in and people 
+I am with. 
+(EISI_14) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I often experience 
+times of 
+inspiration. 
+(EISI_15) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I often feel 
+inspired my 
+myself and my 
+own doings. 
+(EISI_16) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+I often feel 
+inspired my 
+others and their 
+doings. (EISI_17) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+When I am 
+inspired, I am 
+motivated to help 
+others. (EISI_18) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+When I am 
+inspired, I am 
+motivated to 
+pursue my own 
+goals. (EISI_19) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+During times of 
+inspiration, I feel 
+a strong urge to 
+do things that will 
+benefit others. 
+(EISI_20) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+During times of 
+inspiration, I feel 
+a strong urge to 
+do things that 
+benefit myself. 
+(EISI_21) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+When I am 
+inspired, I feel 
+compassion 
+towards others. 
+(EISI_22) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+When I am 
+inspired, I feel 
+love for others. 
+(EISI_23) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+When I am 
+inspired, I feel 
+pride about 
+myself. (EISI_24) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+When I am 
+inspired, I feel 
+excited. (EISI_25) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+When I am 
+inspired, I feel 
+driven to achieve. 
+(EISI_26) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+End of Block: External and Internal Scale of Inspiration  EISI
+
+Start of Block: INOE_Prompt
+
+Q838 Please reflect on your first psychedelic experience and respond to the questions below 
+only in reference to the thoughts, feeling, experiences, and emotions you had over the course of 
+your first psychedelic experience.
+
+End of Block: INOE_Prompt
+
+Start of Block: INOE_Fear
+ 
+
+INOE_Fear I have had an experience of fear or horror that stood out from all other such 
+experiences.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Fear
+
+Start of Block: INOE_Fear_FU
+ 
+
+INOE_Fear_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Fear_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Fear_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Fear_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Fear_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Fear_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Fear_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Fear_FU
+
+Start of Block: INOE_ESPminds
+ 
+
+INOE_ESPminds I have had the experience of thinking of a person I haven’t heard from in ages, 
+and later in the day they contacted me.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_ESPminds
+
+Start of Block: INOE_ESPminds_FU
+ 
+
+INOE_ESPminds_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_ESPminds_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_ESPminds_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_ESPminds_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_ESPminds_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_ESPminds_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_ESPminds_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_ESPminds_FU
+
+Start of Block: INOE_Goosebumps
+ 
+
+INOE_Goosebumps I can recall a specific, intense experience in which all of my body hairs 
+suddenly stood on end (not due to cold or illness).
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Goosebumps
+
+Start of Block: INOE_Goosebumps_FU
+ 
+
+INOE_Goosebumps_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Goosebumps_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Goosebumps_FU3 Overall, has the lasting effect of this experience, on your life or 
+beliefs, been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Goosebumps_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Goosebumps_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Goosebumps_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Goosebumps_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Goosebumps_FU
+
+Start of Block: INOE_Love
+ 
+
+INOE_Love I have had an experience of love that stood out from all other such experiences.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Love
+
+Start of Block: INOE_Love_FU
+ 
+
+INOE_Love_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Love_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Love_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Love_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Love_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Love_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Love_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Love_FU
+
+Start of Block: INOE_Joy
+ 
+
+INOE_Joy I have had an experience of joy, ecstasy, or bliss that stood out from all other such 
+experiences.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Joy
+
+Start of Block: INOE_Joy_FU
+ 
+
+INOE_Joy_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Joy_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Joy_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Joy_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Joy_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Joy_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Joy_FU7  Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Joy_FU
+
+Start of Block: INOE_Pain
+ 
+
+INOE_Pain I have had an experience of pain that stood out from all other such experiences.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Pain
+
+Start of Block: INOE_Pain_FU
+ 
+
+INOE_Pain_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Pain_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Pain_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Pain_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Pain_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Pain_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Pain_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Pain_FU
+
+Start of Block: INOE_Coincidences
+ 
+
+INOE_Coincidences I have experienced a coincidence that seemed meaningful.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Coincidences
+
+Start of Block: INOE_Coincidence_FU
+ 
+
+INOE_Coincidence_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Coincidence_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Coincidence_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Coincidence_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Coincidence_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Coincidence_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Coincidence_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Coincidence_FU
+
+Start of Block: INOE_Loss
+ 
+
+INOE_Loss I have had an experience of loss (of any kind) that stood out from all other such 
+experiences.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Loss
+
+Start of Block: INOE_Loss_FU
+ 
+
+INOE_Loss_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Loss_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Loss_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Loss_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Loss_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Loss_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Loss_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Loss_FU
+
+Start of Block: INOE_Peace
+ 
+
+INOE_Peace I have had an experience of peace or wholeness that stood out from all other such 
+experiences.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Peace
+
+Start of Block: INOE_Peace_FU
+ 
+
+INOE_Peace_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Peace_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Peace_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Peace_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Peace_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Peace_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Peace_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Peace_FU
+
+Start of Block: INOE_OBE
+ 
+
+INOE_OBE I have had an experience in which it seemed as if I left my physical body.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_OBE
+
+Start of Block: INOE_OBE_FU
+ 
+
+INOE_OBE_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_OBE_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_OBE_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_OBE_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_OBE_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_OBE_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_OBE_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_OBE_FU
+
+Start of Block: INOE_MeaningLife
+ 
+
+INOE_MeaningLife I have had an experience in which the meaning and purpose of my life 
+suddenly seemed clear.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_MeaningLife
+
+Start of Block: INOE_MeaningLife_FU
+ 
+
+INOE_MeaningLife_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_MeaningLife_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_MeaningLife_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_MeaningLife_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_MeaningLife_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_MeaningLife_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_MeaningLife_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_MeaningLife_FU
+
+Start of Block: INOE_Messages
+ 
+
+INOE_Messages I have experienced or felt things in the world around me that seemed to 
+contain messages or hints.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Messages
+
+Start of Block: INOE_Messages_FU
+ 
+
+INOE_Messages_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Messages_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Messages_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Messages_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Messages_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Messages_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Messages_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Messages_FU
+
+Start of Block: INOE_ESP
+ 
+
+INOE_ESP I have had an impression that a specific event was occurring at some distant 
+location that later turned out to be true.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_ESP
+
+Start of Block: INOE_ESP_FU
+ 
+
+INOE_ESP_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_ESP_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_ESP_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_ESP_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_ESP_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_ESP_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_ESP_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_ESP_FU
+
+Start of Block: INOE_Healing
+ 
+
+INOE_Healing I have experienced a sudden and unexpected recovery from an illness (physical, 
+mental, or any other kind).
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Healing
+
+Start of Block: INOE_Healing_FU
+ 
+
+INOE_Healing_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Healing_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Healing_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Healing_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Healing_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Healing_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Healing_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Healing_FU
+
+Start of Block: INOE_DeepInsight
+ 
+
+INOE_DeepInsight I have experienced a sudden deep insight in which the nature of reality, the 
+functioning of society, or other fundamental issues suddenly seemed clear.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_DeepInsight
+
+Start of Block: INOE_DeepInsight_FU
+ 
+
+INOE_DeepInsight_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_DeepInsight_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_DeepInsight_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_DeepInsight_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_DeepInsight_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_DeepInsight_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_DeepInsight_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_DeepInsight_FU
+
+Start of Block: INOE_NearDeath
+ 
+
+INOE_NearDeath I have had an experience in which I felt as if I was about to die.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_NearDeath
+
+Start of Block: INOE_NearDeath_FU
+ 
+
+INOE_NearDeath_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_NearDeath_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_NearDeath_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_NearDeath_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_NearDeath_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_NearDeath_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_NearDeath_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_NearDeath_FU
+
+Start of Block: INOE_Absorbed
+ 
+
+INOE_Absorbed I have had an experience in which I was completely absorbed in what I was 
+doing and unaware of the passage of time.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Absorbed
+
+Start of Block: INOE_Absorbed_FU
+ 
+
+INOE_Absorbed_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Absorbed_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Absorbed_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Absorbed_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Absorbed_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Absorbed_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Absorbed_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Absorbed_FU
+
+Start of Block: INOE_PresenceDead
+ 
+
+INOE_PresenceDead I have sensed the presence of, or interacted with, a person who was 
+dead, either directly or with the assistance of another person.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_PresenceDead
+
+Start of Block: INOE_PresencDead_FU
+ 
+
+INOE_PresencDead_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_PresencDead_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_PresencDead_FU3 Overall, has the lasting effect of this experience, on your life or 
+beliefs, been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_PresencDead_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_PresencDead_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_PresencDead_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_PresencDead_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_PresencDead_FU
+
+Start of Block: INOE_DejaVu
+ 
+
+INOE_DejaVu I can recall one specific experience in which a new situation felt so familiar to me 
+that it seemed as if I had been there before.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_DejaVu
+
+Start of Block: INOE_DejaVu_FU
+ 
+
+INOE_DejaVu_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_DejaVu_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_DejaVu_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_DejaVu_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_DejaVu_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_DejaVu_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_DejaVu_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_DejaVu_FU
+
+Start of Block: INOE_Awe
+ 
+
+INOE_Awe I have had an experience of awe, wonder, or amazement that stood out from all 
+other such experiences. 
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Awe
+
+Start of Block: INOE_Awe_FU
+ 
+
+INOE_Awe_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Awe_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Awe_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Awe_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Awe_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Awe_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Awe_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Awe_FU
+
+Start of Block: INOE_Places
+ 
+
+INOE_Places I have felt a sense of deep attachment or connection to a specific place that stood 
+out from all other such places.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Places
+
+Start of Block: INOE_Places_FU
+ 
+
+INOE_Places_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Places_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Places_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Places_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Places_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Places_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Places_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Places_FU
+
+Start of Block: INOE_ObjectsAnimated
+ 
+
+INOE_ObjAnimated I have seen and/or interacted with images, statues, or other physical 
+objects that seemed to contain a non-ordinary presence or power.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_ObjectsAnimated
+
+Start of Block: INOE_ObjectsAnimated_FU
+ 
+
+INOE_ObjAnimated_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_ObjAnimated_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_ObjAnimated_FU3 Overall, has the lasting effect of this experience, on your life or 
+beliefs, been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_ObjAnimated_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_ObjAnimated_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_ObjAnimated_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_ObjAnimated_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_ObjectsAnimated_FU
+
+Start of Block: INOE_Paralysis
+ 
+
+INOE_Paralysis I have been unable to move or communicate because my body, my limbs, or 
+my voice was paralyzed.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Paralysis
+
+Start of Block: INOE_Paralysis_FU
+ 
+
+INOE_Paralysis_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Paralysis_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Paralysis_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Paralysis_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Paralysis_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Paralysis_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Paralysis_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Paralysis_FU
+
+Start of Block: INOE_Touch
+ 
+
+INOE_Touch I have felt a physical touch when it did not seem like anyone was really there.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Touch
+
+Start of Block: INOE_Touch_FU
+ 
+
+INOE_Touch_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Touch_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Touch_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Touch_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Touch_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Touch_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Touch_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Touch_FU
+
+Start of Block: INOE_PastLife
+ 
+
+INOE_PastLife I have distinct memories that made it seem as if I had lived a past life in a 
+different body.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_PastLife
+
+Start of Block: INOE_PastLife_FU
+ 
+
+INOE_PastLife_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_PastLife_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_PastLife_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_PastLife_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_PastLife_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_PastLife_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_PastLife_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_PastLife_FU
+
+Start of Block: INOE_LucidDreaming
+ 
+
+INOE_LucidDreaming I have had the experience of being aware that I was dreaming while 
+asleep.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_LucidDreaming
+
+Start of Block: INOE_LucidDream_FU
+ 
+
+INOE_LucidDream_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_LucidDream_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_LucidDream_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_LucidDream_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_LucidDream_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_LucidDream_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_LucidDream_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_LucidDream_FU
+
+Start of Block: INOE_Guidance
+ 
+
+INOE_Guidance I have had an experience of being guided or influenced by what seemed to be 
+a non-ordinary power or being.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Guidance
+
+Start of Block: INOE_Guidance_FU
+ 
+
+INOE_Guidance_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Guidance_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Guidance_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Guidance_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Guidance_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Guidance_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Guidance_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Guidance_FU
+
+Start of Block: INOE_Compassion
+ 
+
+INOE_Compassion I can recall a specific experience in which I felt compassion for the suffering 
+of others (human or nonhuman) that stood out from all other such experiences.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Compassion
+
+Start of Block: INOE_Compassion_FU
+ 
+
+INOE_Compassion_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Compassion_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Compassion_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Compassion_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Compassion_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Compassion_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Compassion_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Compassion_FU
+
+Start of Block: INOE_PlacesAnimated
+ 
+
+INOE_PlacesAnimated I have experienced a particular place that seemed to contain a non-
+ordinary presence or power.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_PlacesAnimated
+
+Start of Block: INOE_PlacesAnimated_FU
+ 
+
+INOE_PlaceAnimat_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_PlaceAnimat_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_PlaceAnimat_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_PlaceAnimat_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_PlaceAnimat_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_PlaceAnimat_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_PlaceAnimat_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_PlacesAnimated_FU
+
+Start of Block: INOE_Light
+ 
+
+INOE_Light I have perceived light or lights for which there seemed to be no ordinary source.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Light
+
+Start of Block: INOE_Light_FU
+ 
+
+INOE_Light_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Light_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Light_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, been 
+more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Light_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Light_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Light_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Light_FU7 Who, if anyone, caused you to experience this? (Select the most important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Light_FU
+
+Start of Block: INOE_Pleasure
+ 
+
+INOE_Pleasure I have had an experience of pleasure that stood out from all other such 
+experiences.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Pleasure
+
+Start of Block: INOE_Pleasure_FU
+ 
+
+INOE_Pleasure_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Pleasure_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Pleasure_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Pleasure_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Pleasure_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Pleasure_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Pleasure_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Pleasure_FU
+
+Start of Block: INOE_Hopelessness
+ 
+
+INOE_Hopelessness I have had a feeling of hopelessness that stood out from all other such 
+feelings. 
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Hopelessness
+
+Start of Block: INOE_Hopelessness_FU
+ 
+
+INOE_Hopelessnes_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Hopelessnes_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Hopelessnes_FU3 Overall, has the lasting effect of this experience, on your life or 
+beliefs, been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Hopelessnes_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Hopelessnes_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Hopelessnes_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Hopelessnes_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Hopelessness_FU
+
+Start of Block: INOE_FacesVisual
+ 
+
+INOE_FacesVisual I have seen what seemed like a face in a natural or human-made object.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_FacesVisual
+
+Start of Block: INOE_FacesVisual_FU
+ 
+
+INOE_FacesVisual_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_FacesVisual_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_FacesVisual_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_FacesVisual_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_FacesVisual_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_FacesVisual_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_FacesVisual_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_FacesVisual_FU
+
+Start of Block: INOE_DevotionPeople
+ 
+
+INOE_DevotionPeople I have felt intense devotion toward a leader or influential person.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_DevotionPeople
+
+Start of Block: INOE_DevotionPeople_FU
+ 
+
+INOE_DevotionPpl_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_DevotionPpl_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_DevotionPpl_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_DevotionPpl_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_DevotionPpl_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_DevotionPpl_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_DevotionPpl_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_DevotionPeople_FU
+
+Start of Block: INOE_DiminishedSelf
+ 
+
+INOE_DiminishedSelf I have felt small or insignificant relative to something vast or powerful.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_DiminishedSelf
+
+Start of Block: INOE_DiminishedSelf_FU
+ 
+
+INOE_DiminSelf_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_DiminSelf_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_DiminSelf_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_DiminSelf_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_DiminSelf_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_DiminSelf_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_DiminSelf_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_DiminishedSelf_FU
+
+Start of Block: INOE_Connectedness
+ 
+
+INOE_Connectedness I have had an experience in which I became one with everyone at a 
+large group event and lost my sense of individuality.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Connectedness
+
+Start of Block: INOE_Connectedness_FU
+ 
+
+INOE_Connected_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Connected_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Connected_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Connected_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Connected_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Connected_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Connected_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Connectedness_FU
+
+Start of Block: INOE_PresenceNonOrd
+ 
+
+INOE_PresenceNonOrd I have sensed the presence of what seemed to be non-ordinary forces 
+or beings.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_PresenceNonOrd
+
+Start of Block: INOE_PresenceNonOrd_FU
+ 
+
+INOE_PresNonOrd_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_PresNonOrd_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_PresNonOrd_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_PresNonOrd_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_PresNonOrd_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_PresNonOrd_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_PresNonOrd_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_PresenceNonOrd_FU
+
+Start of Block: INOE_SoundsVoices
+ 
+
+INOE_SoundsVoices I have heard a voice when it did not seem like anyone was really there.   
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_SoundsVoices
+
+Start of Block: INOE_SoundsVoices_FU
+ 
+
+INOE_SoundVoic_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_SoundVoic_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_SoundVoic_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_SoundVoic_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_SoundVoic_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_SoundVoic_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_SoundVoic_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_SoundsVoices_FU
+
+Start of Block: INOE_AnothSelfinBody
+ 
+
+INOE_AnothSelfinBody I have had an experience in which it seemed like there was another self 
+or being in my body.
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_AnothSelfinBody
+
+Start of Block: INOE_AnothSelfinBody_FU
+ 
+
+INOE_AnoSelfBody_FU1 When you had the experience, were you … (Select the most 
+important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_AnoSelfBody_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_AnoSelfBody_FU3 Overall, has the lasting effect of this experience, on your life or 
+beliefs, been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_AnoSelfBody_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_AnoSelfBody_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_AnoSelfBody_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_AnoSelfBody_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_AnothSelfinBody_FU
+
+Start of Block: INOE_Automaticity
+ 
+
+INOE_Automaticity I have had an experience in which it seemed like my body was performing 
+actions outside my control (such as moving, speaking, or writing).
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Automaticity
+
+Start of Block: INOE_Automaticity_FU
+ 
+
+INOE_Automat_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Automat_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Automat_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Automat_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Automat_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Automat_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Automat_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Automaticity_FU
+
+Start of Block: INOE_DevotionObjects
+ 
+
+INOE_DevotionObjects I have felt intense devotion or intense attachment toward an 
+irreplaceable object or image. 
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_DevotionObjects
+
+Start of Block: INOE_DevotionObjects_FU
+ 
+
+INOE_DevotObj_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_DevotObj_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_DevotObj_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_DevotObj_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_DevotObj_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_DevotObj_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_DevotObj_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_DevotionObjects_FU
+
+Start of Block: INOE_Misfortune
+ 
+
+INOE_Misfortune I have had an experience of misfortune that stood out from all other such 
+experiences.  
+
+o	Yes  (1) 
+o	No  (0) 
+
+End of Block: INOE_Misfortune
+
+Start of Block: INOE_Misfortune_FU
+ 
+
+INOE_Misfortune_FU1 When you had the experience, were you … (Select the most important)
+?	Using drugs or alcohol  (4) 
+?	Affected by mental or physical illness  (3) 
+?	Falling asleep, waking up, or exhausted  (2) 
+?	Asleep (dreaming)  (1) 
+?	None of the above  (0) 
+
+
+ 
+
+INOE_Misfortune_FU2 Overall, how much of an impact has this experience had on your life?
+o	Little or no impact  (0) 
+o	Some impact  (1) 
+o	Major impact  (2) 
+
+
+ 
+
+INOE_Misfortune_FU3 Overall, has the lasting effect of this experience, on your life or beliefs, 
+been more positive or negative?
+o	Very positive effect  (4) 
+o	Somewhat positive effect  (3) 
+o	Neutral or no effect  (2) 
+o	Somewhat negative effect  (1) 
+o	Very negative effect  (0) 
+
+
+ 
+
+INOE_Misfortune_FU4 Do you consider this experience spiritual or religious?
+o	Yes  (1) 
+o	No  (0) 
+
+
+ 
+
+INOE_Misfortune_FU5 Do you think science can explain how this experience happened?
+o	Yes, science can or will be able to explain it.  (1) 
+o	No, something More is involved.  (0) 
+
+
+ 
+
+INOE_Misfortune_FU6 Why do you think it happened to you? (Select the closest answer.)
+o	To offer me a sign or message  (3) 
+o	To reward or punish me for my actions  (2) 
+o	Due to destiny/fate  (1) 
+o	None of the above (may include chance/probability)  (0) 
+
+
+ 
+
+INOE_Misfortune_FU7 Who, if anyone, caused you to experience this? (Select the most 
+important.)
+o	God or gods  (2) 
+o	Other spiritual beings or forces (including the dead)  (1) 
+o	None of the above  (0) 
+
+End of Block: INOE_Misfortune_FU
+
+Start of Block: INOE_IndDiff
+ 
+
+INOE_IndDiff_Perspec How often do you look at life from a religious or spiritual perspective?
+o	Most of the time  (2) 
+o	Sometimes  (1) 
+o	Rarely or never  (0) 
+
+
+
+INOE_IndDiff_Journal Please describe the most significant experience that came to mind as 
+you filled out this survey
+    ________________________________________________________________
+    ________________________________________________________________
+    ________________________________________________________________
+    ________________________________________________________________
+    ________________________________________________________________
+
+End of Block: INOE_IndDiff
+
+Start of Block: APEQ
+
+APEQ Here is a list of statements describing various thoughts, feelings, and behaviors that may 
+have occurred during your first psychedelic experience. Please rate the degree to which these 
+statements apply to your experience or parts of the experience.  
+ 
+To do this, please mark the appropriate position on the line below by dragging the slider.  
+ 
+
+
+NO, not at all
+YES, extremely or 
+absolutely
+
+
+0
+100
+
+I observed my external environment. ()
+ 
+I was engaged with what was going on inside 
+me. ()
+ 
+It seemed to me as if some kind of blockage 
+was being resolved. ()
+ 
+I learned to better understand certain 
+emotional states. ()
+ 
+I tried to lessen, or rid myself of, certain 
+perceptions or bodily sensations. ()
+ 
+I learned to fear or detest certain 
+uncomfortable feelings or sensations more 
+strongly. ()
+ 
+I was able to accept uncomfortable thoughts 
+or memories. ()
+ 
+I felt tormented. ()
+ 
+I had a positive emotional breakthrough. ()
+ 
+I actively engaged with my surroundings. ()
+ 
+I discovered a deeper acceptance of certain 
+difficult feelings or sensations. ()
+ 
+I looked inside. ()
+ 
+I was open to difficult sensations or emotional 
+states. ()
+ 
+I panicked. ()
+ 
+I tried to change my mood. ()
+ 
+I noticed that I can tolerate certain mental 
+states less than I thought. ()
+ 
+My attention was turned inward. ()
+ 
+I looked at painful memories with openness. ()
+ 
+I learned that it is better for me not to 
+experience certain emotional states at all. ()
+ 
+I noticed that certain thoughts or memories 
+are not as dangerous for me as I had 
+previously thought. ()
+ 
+I interacted with other people. ()
+ 
+I felt a sense of relief. ()
+ 
+I experienced a state of distress. ()
+ 
+I attempted to suppress certain emotions or 
+thoughts. ()
+ 
+I was absorbed in my inner experience. ()
+ 
+I moved my body. ()
+ 
+Things became easier for me in a liberating 
+way. ()
+ 
+I made efforts to avoid or control difficult 
+feelings. ()
+ 
+I learned that certain thoughts or memories 
+are more dangerous for me than I previously 
+thought. ()
+ 
+I learned to appreciate certain uncomfortable 
+feelings or sensations more. ()
+ 
+I suffered from what I was experiencing. ()
+ 
+I managed to confront a personal fear. ()
+ 
+
+
+End of Block: APEQ
+
+Start of Block: APEQ-S
+
+APEQ-S Here is a list of statements describing various thoughts, feelings, and behaviors that 
+may have occurred during your first psychedelic experience. Please rate the degree to which 
+these statements apply to your experience or parts of the experience.  
+ 
+To do this, please mark the appropriate position on the line by dragging the slider.
+
+NO, not at all
+YES, extremely or 
+absolutely
+
+
+0
+100
+
+It seemed to me as if some kind of blockage 
+was being resolved. ()
+ 
+I tried to lessen, or rid myself of, certain 
+perceptions or bodily sensations. ()
+ 
+I learned to fear or detest certain 
+uncomfortable feelings or sensations more 
+strongly. ()
+ 
+I had a positive emotional breakthrough. ()
+ 
+I discovered a deeper acceptance of certain 
+difficult feelings or sensations. ()
+ 
+I panicked. ()
+ 
+I looked at painful memories with openness. ()
+ 
+I attempted to suppress certain emotions or 
+thoughts. ()
+ 
+I learned that certain thoughts or memories 
+are more dangerous for me than I previously 
+thought. ()
+ 
+I learned to better understand certain 
+emotional states. ()
+ 
+I suffered from what I was experiencing. ()
+ 
+I managed to confront a personal fear. ()
+ 
+
+
+End of Block: APEQ-S
+
+Start of Block: Belief Questions_RGriff
+
+Belief Questions_RRG In the next section of the survey, you will be presented with statements 
+about your beliefs or worldview at three timepoints:  	BEFORE your first psychedelic 
+experience (e.g. during the month before your experience) 	AFTER your first psychedelic 
+experience (e.g. during the month after your experience) 	NOW  
+Please rate the extent to which you agree or disagree with the statements at those three 
+timepoints. If you do not know, have no opinion or neither agree nor disagree, please select the 
+middle option.
+
+
+ 
+
+SecSpirit_Q1 Belief in ultimate preciousness of life, especially human life
+
+Strongly 
+disagree 
+(-3) (1)
+Disagree 
+(-2) (2)
+Somewhat 
+disagree 
+(-1) (3)
+Neither 
+agree 
+nor 
+disagree 
+(0) (4)
+Somewhat 
+agree (+1) 
+(5)
+Agree 
+(+2) (6)
+Strongly 
+agree 
+(+3) (7)
+Before 
+your first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+before your 
+experience) 
+(1) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+After your 
+first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+after after 
+your 
+experience) 
+(2) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+Now (3) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+
+ 
+
+SecSpirit_Q2 Belief in the deep interconnectedness to life, especially human life
+
+Strongly 
+disagree 
+(-3) (1)
+Disagree 
+(-2) (2)
+Somewhat 
+disagree 
+(-1) (3)
+Neither 
+agree 
+nor 
+disagree 
+(0) (4)
+Somewhat 
+agree (+1) 
+(5)
+Agree 
+(+2) (6)
+Strongly 
+agree 
+(+3) (7)
+Before 
+your first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+before your 
+experience) 
+(1) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+After your 
+first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+after after 
+your 
+experience) 
+(2) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+Now (3) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+
+ 
+
+SecSpirit_Q3 Belief in connectedness to an ineffable mystery (sometimes described as higher 
+power, ultimate reality, God)
+
+Strongly 
+disagree 
+(-3) (1)
+Disagree 
+(-2) (2)
+Somewhat 
+disagree 
+(-1) (3)
+Neither 
+agree 
+nor 
+disagree 
+(0) (4)
+Somewhat 
+agree (+1) 
+(5)
+Agree 
+(+2) (6)
+Strongly 
+agree 
+(+3) (7)
+Before 
+your first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+before your 
+experience) 
+(1) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+After your 
+first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+after after 
+your 
+experience) 
+(2) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+Now (3) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+
+ 
+
+SecSpirit_Q4 Belief in the reality of beauty
+
+Strongly 
+disagree 
+(-3) (1)
+Disagree 
+(-2) (2)
+Somewhat 
+disagree 
+(-1) (3)
+Neither 
+agree 
+nor 
+disagree 
+(0) (4)
+Somewhat 
+agree (+1) 
+(5)
+Agree 
+(+2) (6)
+Strongly 
+agree 
+(+3) (7)
+Before 
+your first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+before your 
+experience) 
+(1) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+After your 
+first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+after after 
+your 
+experience) 
+(2) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+Now (3) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+
+ 
+
+SecSpirit_Q5 Belief in the undeniable and uplifting mystery of existence (provoking awe and 
+gratitude)
+
+Strongly 
+disagree 
+(-3) (1)
+Disagree 
+(-2) (2)
+Somewhat 
+disagree 
+(-1) (3)
+Neither 
+agree 
+nor 
+disagree 
+(0) (4)
+Somewhat 
+agree (+1) 
+(5)
+Agree 
+(+2) (6)
+Strongly 
+agree 
+(+3) (7)
+Before 
+your first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+before your 
+experience) 
+(1) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+After your 
+first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+after after 
+your 
+experience) 
+(2) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+Now (3) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+
+ 
+
+SecSpirit_Q6 Belief in a deeper (or hidden) purpose to life
+
+Strongly 
+disagree 
+(-3) (1)
+Disagree 
+(-2) (2)
+Somewhat 
+disagree 
+(-1) (3)
+Neither 
+agree 
+nor 
+disagree 
+(0) (4)
+Somewhat 
+agree (+1) 
+(5)
+Agree 
+(+2) (6)
+Strongly 
+agree 
+(+3) (7)
+Before 
+your first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+before your 
+experience) 
+(1) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+After your 
+first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+after after 
+your 
+experience) 
+(2) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+Now (3) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+
+ 
+
+SecSpirit_Q7 Belief in a deeper (or hidden) meaning to life
+
+Strongly 
+disagree 
+(-3) (1)
+Disagree 
+(-2) (2)
+Somewhat 
+disagree 
+(-1) (3)
+Neither 
+agree 
+nor 
+disagree 
+(0) (4)
+Somewhat 
+agree (+1) 
+(5)
+Agree 
+(+2) (6)
+Strongly 
+agree 
+(+3) (7)
+Before 
+your first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+before your 
+experience) 
+(1) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+After your 
+first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+after after 
+your 
+experience) 
+(2) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+Now (3) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+
+ 
+
+SecSpirit_Q8 Belief in the reality of a larger sense of self, one that transcends the usual 
+common narrative boundaries of self
+
+Strongly 
+disagree 
+(-3) (1)
+Disagree 
+(-2) (2)
+Somewhat 
+disagree 
+(-1) (3)
+Neither 
+agree 
+nor 
+disagree 
+(0) (4)
+Somewhat 
+agree (+1) 
+(5)
+Agree 
+(+2) (6)
+Strongly 
+agree 
+(+3) (7)
+Before 
+your first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+before your 
+experience) 
+(1) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+After your 
+first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+after after 
+your 
+experience) 
+(2) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+Now (3) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+
+ 
+
+SecSpirit_Q9 Belief in the pervasiveness and importance of love
+
+Strongly 
+disagree 
+(-3) (1)
+Disagree 
+(-2) (2)
+Somewhat 
+disagree 
+(-1) (3)
+Neither 
+agree 
+nor 
+disagree 
+(0) (4)
+Somewhat 
+agree (+1) 
+(5)
+Agree 
+(+2) (6)
+Strongly 
+agree 
+(+3) (7)
+Before 
+your first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+before your 
+experience) 
+(1) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+After your 
+first 
+psychedelic 
+experience 
+(e.g. during 
+the month 
+after after 
+your 
+experience) 
+(2) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+Now (3) 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+
+
+End of Block: Belief Questions_RGriff
+
+Start of Block: Journal Reflection
+
+Journal  Please reflect on and describe your first psychedelic experience below. We would 
+greatly appreciate as much detail as you are able to provide. 
+    ________________________________________________________________
+    ________________________________________________________________
+    ________________________________________________________________
+    ________________________________________________________________
+    ________________________________________________________________
+
+End of Block: Journal Reflection
+
+
+ 
+Page 1of 1
+
+Page 1 of 1
+
